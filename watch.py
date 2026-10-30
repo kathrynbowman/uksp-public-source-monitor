@@ -113,7 +113,8 @@ def check(src, fetch=retrieve, now=None):
     snapshot_file = STORE / "snapshots" / (sid + ".txt")
     event_file = STORE / "events" / (sid + ".json")
     status = read_json(status_file, {})
-    old_hash = status.get("last_sha256")
+    # A source URL replacement is a new baseline, not a regulatory change.
+    old_hash = status.get("last_sha256") if status.get("official_url") == src["SourceURL"] else None
     events = read_json(event_file, [])
     status.update({"source_id":sid, "state_code":src["StateCode"], "official_url":src["SourceURL"], "last_checked_utc":iso(now)})
     try:
@@ -162,6 +163,9 @@ def main():
         row = check(src)
         results.append(row)
         print(f"{i}/51 {src['StateCode']} {row['status']}: {row.get('last_error') or ''}", flush=True)
+        if row["status"] == "FAILED":
+            detail = (row.get("last_error") or "unknown retrieval error").replace("\\n", " ")[:180]
+            print(f"::warning title=Failed public source {src['StateCode']}::{detail}", flush=True)
         time.sleep(0.15)
     write_json(OUT / "health.json", {
         "generated_at_utc":iso(NOW()),
