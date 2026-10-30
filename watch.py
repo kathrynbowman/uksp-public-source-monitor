@@ -106,6 +106,16 @@ def evidence_html(src, e):
             "<p>Observed UTC: " + esc(e["observed_at"]) + "</p>"
             "<p>Previous SHA256: " + esc(e["previous_sha256"]) + "<br>Current SHA256: " + esc(e["current_sha256"]) + "</p>"
             "<pre style='white-space:pre-wrap;overflow-wrap:anywhere'>" + esc(e["diff"]) + "</pre></body></html>")
+def sd_without_generated_clock(text):
+    """South Dakota rules homepage embeds an 'as of' clock that changes each visit."""
+    return re.sub(r"(?m)^\\d{1,2}-\\d{1,2}-\\d{4} \\d{1,2}:\\d{2}:\\d{2} (?:AM|PM)\\s*$", "[SITE GENERATION TIME OMITTED]", text)
+def sd_clock_only_event(diff):
+    changed = [line[1:] for line in diff.splitlines()
+               if line.startswith(("+", "-")) and not line.startswith(("+++", "---"))]
+    return len(changed) == 2 and all(
+        re.fullmatch(r"\\d{1,2}-\\d{1,2}-\\d{4} \\d{1,2}:\\d{2}:\\d{2} (?:AM|PM)", value.strip())
+        for value in changed
+    )
 def check(src, fetch=retrieve, now=None):
     now = now or NOW()
     sid = src["SourceID"]
@@ -116,9 +126,16 @@ def check(src, fetch=retrieve, now=None):
     # A source URL replacement is a new baseline, not a regulatory change.
     old_hash = status.get("last_sha256") if status.get("official_url") == src["SourceURL"] else None
     events = read_json(event_file, [])
+    # The 2026-10-30 South Dakota alert was only a regenerated 'as of' time.
+    if sid == "SRC-WEB-SD":
+        events = [e for e in events if not sd_clock_only_event(e.get("diff", ""))]
     status.update({"source_id":sid, "state_code":src["StateCode"], "official_url":src["SourceURL"], "last_checked_utc":iso(now)})
     try:
         text = fetch(src["SourceURL"])
+        if sid == "SRC-WEB-SD":
+            text = sd_without_generated_clock(text)
+            if old_hash and snapshot_file.exists():
+                old_hash = digest(sd_without_generated_clock(snapshot_file.read_text(encoding="utf-8")))
         new_hash = digest(text)
         if old_hash and old_hash != new_hash:
             previous = snapshot_file.read_text(encoding="utf-8") if snapshot_file.exists() else ""
