@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-MT",
   "state_code": "MT",
   "official_url": "https://boards.bsd.dli.mt.gov/pharmacy/regulations/rule-notices",
-  "last_checked_utc": "2026-10-30T04:41:00+00:00",
-  "status": "BASELINED",
+  "last_checked_utc": "2026-10-30T04:47:58+00:00",
+  "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-30T04:41:00+00:00",
+  "last_success_utc": "2026-10-30T04:47:58+00:00",
   "last_sha256": "f908601fe656fb96e167ef3cf39efd7c6d53b90535a7e1e61af3b15a76a4d177"
 }

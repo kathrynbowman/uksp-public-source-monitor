@@ -1,9 +1,9 @@
 {
   "source_id": "SRC-WEB-TN",
   "state_code": "TN",
-  "official_url": "https://publications.tnsosfiles.com/rules/index.htm",
-  "last_checked_utc": "2026-10-30T04:41:08+00:00",
+  "official_url": "https://www.tn.gov/health/licensure/pharm.html",
+  "last_checked_utc": "2026-10-30T04:48:06+00:00",
   "status": "FAILED",
-  "last_error": "403 Client Error: Forbidden for url: https://publications.tnsosfiles.com/rules/index.htm",
-  "consecutive_failures": 2
+  "last_error": "403 Client Error: Forbidden for url: https://www.tn.gov/health/licensure/pharm.html",
+  "consecutive_failures": 3
 }

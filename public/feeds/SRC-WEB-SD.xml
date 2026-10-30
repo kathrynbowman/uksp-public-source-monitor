@@ -1,12 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/bc839bb9c1a0b53049049f46.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-bc839bb9c1a0b53049049f46</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-10-30T04:41:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
-+++ current
-@@ -42,7 +42,7 @@
- and
- SDCL 1-26-5
- as of
--10-29-2026 23:35:40 PM
-+10-29-2026 23:41:08 PM
- The administrative agency rulemaking notices and proposed changes prepared by each agency for its rulemaking proceedings are made available on this website free of charge. If you have any questions about the content of a notice, please contact the agency at the telephone number provided in the notice. Rules are archived 20 days after filed with Secretary of State.
- AGENCIES
- All current proposed rules</description><pubDate>Fri, 30 Oct 2026 04:41:08 GMT</pubDate></item></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>

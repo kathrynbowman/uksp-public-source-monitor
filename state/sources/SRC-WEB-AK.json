@@ -1,9 +1,9 @@
 {
   "source_id": "SRC-WEB-AK",
   "state_code": "AK",
-  "official_url": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofPharmacy/StatutesRegulations.aspx",
-  "last_checked_utc": "2026-10-30T04:40:26+00:00",
+  "official_url": "https://aws.state.ak.us/OnlinePublicNotices/Default.aspx",
+  "last_checked_utc": "2026-10-30T04:47:41+00:00",
   "status": "FAILED",
-  "last_error": "403 Client Error: Forbidden for url: https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofPharmacy/StatutesRegulations.aspx",
-  "consecutive_failures": 2
+  "last_error": "403 Client Error: Forbidden for url: https://aws.state.ak.us/OnlinePublicNotices/Default.aspx",
+  "consecutive_failures": 3
 }

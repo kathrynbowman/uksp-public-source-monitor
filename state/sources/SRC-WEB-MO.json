@@ -1,9 +1,9 @@
 {
   "source_id": "SRC-WEB-MO",
   "state_code": "MO",
-  "official_url": "https://pr.mo.gov/pharmacists-rules-statutes.asp",
-  "last_checked_utc": "2026-10-30T04:41:00+00:00",
+  "official_url": "https://s1.sos.mo.gov/adrules/moreg/moreg",
+  "last_checked_utc": "2026-10-30T04:47:57+00:00",
   "status": "FAILED",
-  "last_error": "HTTPSConnectionPool(host='pr.mo.gov', port=443): Max retries exceeded with url: /pharmacists-rules-statutes.asp (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
-  "consecutive_failures": 2
+  "last_error": "Too little usable text to form a trustworthy baseline",
+  "consecutive_failures": 3
 }

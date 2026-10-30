@@ -1,10 +1,1 @@
-[
-  {
-    "id": "bc839bb9c1a0b53049049f46",
-    "observed_at": "2026-10-30T04:41:08+00:00",
-    "previous_sha256": "ae3f1d8e7f9c3f5c82c5ed23f2a2c56e1734f27d25c59ec0350415660620b4bd",
-    "current_sha256": "6500f1a898a7bb626cc00e7bcd38341ab92b3e6e27e6172f2d3b76c76a1cce68",
-    "diff": "--- previous\n+++ current\n@@ -42,7 +42,7 @@\n and\n SDCL 1-26-5\n as of\n-10-29-2026 23:35:40 PM\n+10-29-2026 23:41:08 PM\n The administrative agency rulemaking notices and proposed changes prepared by each agency for its rulemaking proceedings are made available on this website free of charge. If you have any questions about the content of a notice, please contact the agency at the telephone number provided in the notice. Rules are archived 20 days after filed with Secretary of State.\n AGENCIES\n All current proposed rules",
-    "summary": "Unverified content difference detected at https://rules.sd.gov/ on 2026-10-30T04:41:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -42,7 +42,7 @@\n and\n SDCL 1-26-5\n as of\n-10-29-2026 23:35:40 PM\n+10-29-2026 23:41:08 PM\n The administrative agency rulemaking notices and proposed changes prepared by each agency for its rulemaking proceedings are made available on this website free of charge. If you have any questions about the content of a notice, please contact the agency at the telephone number provided in the notice. Rules are archived 20 days after filed with Secretary of State.\n AGENCIES\n All current proposed rules"
-  }
-]
+[]

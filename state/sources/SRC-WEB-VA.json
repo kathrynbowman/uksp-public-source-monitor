@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-VA",
   "state_code": "VA",
   "official_url": "https://www.dhp.virginia.gov/pharmacy/pharmacy_laws_regs.htm",
-  "last_checked_utc": "2026-10-30T04:41:10+00:00",
+  "last_checked_utc": "2026-10-30T04:48:07+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:41:10+00:00",
+  "last_success_utc": "2026-10-30T04:48:07+00:00",
   "last_sha256": "5c393dab934f8be6f099c03598a0dc0692ccf0c519718c6a58133a068ced337a",
   "last_error": null,
   "consecutive_failures": 0
