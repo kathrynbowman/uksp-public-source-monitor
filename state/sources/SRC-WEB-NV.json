@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-NV",
   "state_code": "NV",
   "official_url": "https://prod.bop.nv.gov/nevada-statutes-regulations/nvbop-adopted-regs/",
-  "last_checked_utc": "2026-10-30T05:35:42+00:00",
+  "last_checked_utc": "2026-10-30T12:38:15+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T05:35:42+00:00",
+  "last_success_utc": "2026-10-30T12:38:15+00:00",
   "last_sha256": "b771362cde8cfdee93cf039642167e1c4a76f146cf068f7dab933662dcbff476",
   "last_error": null,
   "consecutive_failures": 0

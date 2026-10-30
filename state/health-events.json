@@ -1,5 +1,35 @@
 [
   {
+    "id": "32acf331ee33fe78e4a89536",
+    "kind": "restored",
+    "state_code": "WI",
+    "source_id": "SRC-WEB-WI",
+    "source_url": "https://dsps.wi.gov/rules-statutes/pending-rules/",
+    "observed_at": "2026-10-30T12:38:27+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "ec334da3b05fcc351bccbf88",
+    "kind": "restored",
+    "state_code": "TN",
+    "source_id": "SRC-WEB-TN",
+    "source_url": "https://digitaltennessee.tnsos.gov/administrative_register/",
+    "observed_at": "2026-10-30T12:38:27+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "e090e99ea503df6f36338dfc",
+    "kind": "restored",
+    "state_code": "DE",
+    "source_id": "SRC-WEB-DE",
+    "source_url": "https://dpr.delaware.gov/boards/pharmacy/",
+    "observed_at": "2026-10-30T12:38:27+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "02aeeac1e51b0050b65666be",
     "kind": "failure",
     "state_code": "WI",

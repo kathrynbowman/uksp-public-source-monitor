@@ -1,9 +1,11 @@
 {
   "source_id": "SRC-WEB-DE",
   "state_code": "DE",
-  "official_url": "https://regulations.delaware.gov/",
-  "last_checked_utc": "2026-10-30T05:35:28+00:00",
-  "status": "FAILED",
-  "last_error": "Too little usable text to form a trustworthy baseline",
-  "consecutive_failures": 5
+  "official_url": "https://dpr.delaware.gov/boards/pharmacy/",
+  "last_checked_utc": "2026-10-30T12:37:52+00:00",
+  "status": "BASELINED",
+  "last_error": null,
+  "consecutive_failures": 0,
+  "last_success_utc": "2026-10-30T12:37:52+00:00",
+  "last_sha256": "75e513142e83592d212ad6f889c4770c03a668019d61be36e85602e85383e2a7"
 }

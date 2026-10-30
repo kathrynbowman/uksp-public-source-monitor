@@ -6,8 +6,8 @@ Refined Text Search (by Agency, Issue, etc)
 VIEW CURRENT ISSUE
 of the
 BULLETIN
-Volume 56 Number 43
-Saturday, October 24, 2026
+Volume 56 Number 44
+Saturday, October 31, 2026
 BROWSE
 CODE
 Select a Title
@@ -139,6 +139,8 @@ Number 42 - October 17, 2026
 - Pages 6769-6866
 Number 43 - October 24, 2026
 - Pages 6867-7002
+Number 44 - October 31, 2026
+- Pages 7003-7240
 Volume 55
 Number 1 - January 4, 2025
 - Pages 1-230

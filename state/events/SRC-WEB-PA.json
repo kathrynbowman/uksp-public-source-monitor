@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "42d695063180e321adcbcac3",
+    "observed_at": "2026-10-30T12:38:18+00:00",
+    "previous_sha256": "a49014181df802fb82ca460fc0092fac12a09d17a8bed4da4a49cfb43eae4e73",
+    "current_sha256": "261a913029419640507e6e5b1a7f3086621b0313c6f9636b8ef3dc21bdde040d",
+    "diff": "--- previous\n+++ current\n@@ -6,8 +6,8 @@\n VIEW CURRENT ISSUE\n of the\n BULLETIN\n-Volume 56 Number 43\n-Saturday, October 24, 2026\n+Volume 56 Number 44\n+Saturday, October 31, 2026\n BROWSE\n CODE\n Select a Title\n@@ -139,6 +139,8 @@\n - Pages 6769-6866\n Number 43 - October 24, 2026\n - Pages 6867-7002\n+Number 44 - October 31, 2026\n+- Pages 7003-7240\n Volume 55\n Number 1 - January 4, 2025\n - Pages 1-230",
+    "summary": "Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-10-30T12:38:18+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -6,8 +6,8 @@\n VIEW CURRENT ISSUE\n of the\n BULLETIN\n-Volume 56 Number 43\n-Saturday, October 24, 2026\n+Volume 56 Number 44\n+Saturday, October 31, 2026\n BROWSE\n CODE\n Select a Title\n@@ -139,6 +139,8 @@\n - Pages 6769-6866\n Number 43 - October 24, 2026\n - Pages 6867-7002\n+Number 44 - October 31, 2026\n+- Pages 7003-7240\n Volume 55\n Number 1 - January 4, 2025\n - Pages 1-230"
+  }
+]
