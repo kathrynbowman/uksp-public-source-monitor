@@ -1,6 +1,13 @@
 name: UKSP Public Source Monitoring
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/sources.csv'
+      - 'watch.py'
+      - 'healthfeed.py'
+      - '.github/workflows/monitor.yml'
   schedule:
     - cron: '23 12 * * *'
 permissions:
