@@ -2,8 +2,8 @@
   "source_id": "SRC-WEB-AL",
   "state_code": "AL",
   "official_url": "https://www.alabamaadministrativecode.state.al.us/",
-  "last_checked_utc": "2026-10-30T04:34:56+00:00",
+  "last_checked_utc": "2026-10-30T04:40:26+00:00",
   "status": "FAILED",
   "last_error": "HTTPSConnectionPool(host='www.alabamaadministrativecode.state.al.us', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.alabamaadministrativecode.state.al.us'. (_ssl.c:1010)\")))",
-  "consecutive_failures": 1
+  "consecutive_failures": 2
 }

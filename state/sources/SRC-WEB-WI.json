@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-WI",
   "state_code": "WI",
   "official_url": "https://docs.legis.wisconsin.gov/code/register",
-  "last_checked_utc": "2026-10-30T04:35:43+00:00",
-  "status": "BASELINED",
-  "last_success_utc": "2026-10-30T04:35:43+00:00",
+  "last_checked_utc": "2026-10-30T04:41:11+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-10-30T04:41:11+00:00",
   "last_sha256": "4239e33d184f0e433654592912046f5072fac56683c36a0abb97c19ae716c926",
   "last_error": null,
   "consecutive_failures": 0

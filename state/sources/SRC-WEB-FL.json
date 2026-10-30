@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-FL",
   "state_code": "FL",
   "official_url": "https://dos.fl.gov/offices/administrative-code-and-register/",
-  "last_checked_utc": "2026-10-30T04:35:01+00:00",
-  "status": "BASELINED",
-  "last_success_utc": "2026-10-30T04:35:01+00:00",
+  "last_checked_utc": "2026-10-30T04:40:29+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-10-30T04:40:29+00:00",
   "last_sha256": "337297f20191f3130c3829bad71aa71d0f8a4725cfeed8778e58b82afb3f744b",
   "last_error": null,
   "consecutive_failures": 0

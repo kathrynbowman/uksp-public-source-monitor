@@ -2,8 +2,8 @@
   "source_id": "SRC-WEB-MA",
   "state_code": "MA",
   "official_url": "https://www.mass.gov/lists/draft-regulations-for-the-board-of-registration-in-pharmacy",
-  "last_checked_utc": "2026-10-30T04:35:27+00:00",
+  "last_checked_utc": "2026-10-30T04:40:56+00:00",
   "status": "FAILED",
   "last_error": "403 Client Error: Forbidden for url: https://www.mass.gov/lists/draft-regulations-for-the-board-of-registration-in-pharmacy",
-  "consecutive_failures": 1
+  "consecutive_failures": 2
 }

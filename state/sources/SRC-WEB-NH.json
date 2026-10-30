@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-NH",
   "state_code": "NH",
   "official_url": "https://www.gc.nh.gov/rules/",
-  "last_checked_utc": "2026-10-30T04:35:34+00:00",
-  "status": "BASELINED",
-  "last_success_utc": "2026-10-30T04:35:34+00:00",
+  "last_checked_utc": "2026-10-30T04:41:03+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-10-30T04:41:03+00:00",
   "last_sha256": "73e96f0e16208fdae817bb9522c15c973f29b5680343c9a1562361f7aa225c0e",
   "last_error": null,
   "consecutive_failures": 0

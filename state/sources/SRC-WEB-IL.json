@@ -2,8 +2,8 @@
   "source_id": "SRC-WEB-IL",
   "state_code": "IL",
   "official_url": "https://www.ilsos.gov/departments/index/admincodindex.html",
-  "last_checked_utc": "2026-10-30T04:35:03+00:00",
+  "last_checked_utc": "2026-10-30T04:40:32+00:00",
   "status": "FAILED",
   "last_error": "HTTPSConnectionPool(host='www.ilsos.gov', port=443): Read timed out. (read timeout=20)",
-  "consecutive_failures": 1
+  "consecutive_failures": 2
 }

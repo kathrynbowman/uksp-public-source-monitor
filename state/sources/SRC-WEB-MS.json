@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-MS",
   "state_code": "MS",
   "official_url": "https://www.mbp.ms.gov/news/proposed-regulations",
-  "last_checked_utc": "2026-10-30T04:35:30+00:00",
-  "status": "BASELINED",
-  "last_success_utc": "2026-10-30T04:35:30+00:00",
+  "last_checked_utc": "2026-10-30T04:41:00+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-10-30T04:41:00+00:00",
   "last_sha256": "d4821ddf1466ea6ecb9f7a5b03a17ea4b5dbfb27755ae71aad38b620973eff30",
   "last_error": null,
   "consecutive_failures": 0

@@ -1,9 +1,11 @@
 {
   "source_id": "SRC-WEB-MT",
   "state_code": "MT",
-  "official_url": "https://prod-boards.bsd.dli.mt.gov/pharmacy/regulations/rule-notices",
-  "last_checked_utc": "2026-10-30T04:35:31+00:00",
-  "status": "FAILED",
-  "last_error": "HTTPSConnectionPool(host='prod-boards.bsd.dli.mt.gov', port=443): Max retries exceeded with url: /pharmacy/regulations/rule-notices (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'prod-boards.bsd.dli.mt.gov'. (_ssl.c:1010)\")))",
-  "consecutive_failures": 1
+  "official_url": "https://boards.bsd.dli.mt.gov/pharmacy/regulations/rule-notices",
+  "last_checked_utc": "2026-10-30T04:41:00+00:00",
+  "status": "BASELINED",
+  "last_error": null,
+  "consecutive_failures": 0,
+  "last_success_utc": "2026-10-30T04:41:00+00:00",
+  "last_sha256": "f908601fe656fb96e167ef3cf39efd7c6d53b90535a7e1e61af3b15a76a4d177"
 }

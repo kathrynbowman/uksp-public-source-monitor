@@ -2,8 +2,8 @@
   "source_id": "SRC-WEB-DE",
   "state_code": "DE",
   "official_url": "https://legis.delaware.gov/Offices/DivisionOfResearch/RegistrarOfRegulations",
-  "last_checked_utc": "2026-10-30T04:35:00+00:00",
+  "last_checked_utc": "2026-10-30T04:40:29+00:00",
   "status": "FAILED",
   "last_error": "Too little usable text to form a trustworthy baseline",
-  "consecutive_failures": 1
+  "consecutive_failures": 2
 }

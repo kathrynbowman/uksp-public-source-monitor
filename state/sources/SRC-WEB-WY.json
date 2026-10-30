@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-WY",
   "state_code": "WY",
   "official_url": "https://pharmacyboard.wyo.gov/laws",
-  "last_checked_utc": "2026-10-30T04:35:46+00:00",
-  "status": "BASELINED",
-  "last_success_utc": "2026-10-30T04:35:46+00:00",
+  "last_checked_utc": "2026-10-30T04:41:12+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-10-30T04:41:12+00:00",
   "last_sha256": "f99259daeafb81f049d02ea206a1944206fa354192efc360198afb99fd2989ee",
   "last_error": null,
   "consecutive_failures": 0
