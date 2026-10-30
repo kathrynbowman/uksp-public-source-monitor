@@ -108,12 +108,12 @@ def evidence_html(src, e):
             "<pre style='white-space:pre-wrap;overflow-wrap:anywhere'>" + esc(e["diff"]) + "</pre></body></html>")
 def sd_without_generated_clock(text):
     """South Dakota rules homepage embeds an 'as of' clock that changes each visit."""
-    return re.sub(r"(?m)^\\d{1,2}-\\d{1,2}-\\d{4} \\d{1,2}:\\d{2}:\\d{2} (?:AM|PM)\\s*$", "[SITE GENERATION TIME OMITTED]", text)
+    return re.sub(r"(?m)^\d{1,2}-\d{1,2}-\d{4} \d{1,2}:\d{2}:\d{2} (?:AM|PM)\s*$", "[SITE GENERATION TIME OMITTED]", text)
 def sd_clock_only_event(diff):
     changed = [line[1:] for line in diff.splitlines()
                if line.startswith(("+", "-")) and not line.startswith(("+++", "---"))]
     return len(changed) == 2 and all(
-        re.fullmatch(r"\\d{1,2}-\\d{1,2}-\\d{4} \\d{1,2}:\\d{2}:\\d{2} (?:AM|PM)", value.strip())
+        re.fullmatch(r"\d{1,2}-\d{1,2}-\d{4} \d{1,2}:\d{2}:\d{2} (?:AM|PM)", value.strip())
         for value in changed
     )
 def check(src, fetch=retrieve, now=None):
