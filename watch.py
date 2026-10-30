@@ -170,6 +170,42 @@ def check(src, fetch=retrieve, now=None):
     f.parent.mkdir(parents=True, exist_ok=True)
     f.write_bytes(feed_xml(src, events))
     return status
+def build_all_changes_feed(sources):
+    """Publish one RSS intake for Power Automate without losing state attribution."""
+    root = ET.Element("rss", version="2.0")
+    channel = ET.SubElement(root, "channel")
+    for key, value in [
+        ("title", "UKSP unverified regulatory-source content changes — all jurisdictions"),
+        ("link", BASE_URL + "/health.json"),
+        ("description", "Unverified webpage differences, not legal findings; review original government sources."),
+        ("language", "en-us"),
+    ]:
+        ET.SubElement(channel, key).text = value
+    all_events = []
+    for src in sources:
+        path = STORE / "events" / (src["SourceID"] + ".json")
+        for event in read_json(path, []):
+            all_events.append((event.get("observed_at", ""), src, event))
+    for _, src, e in sorted(all_events, key=lambda entry: entry[0], reverse=True)[:200]:
+        item = ET.SubElement(channel, "item")
+        link = BASE_URL + "/evidence/" + src["SourceID"] + "/" + e["id"] + ".html"
+        props = [
+            ("title", "[Potential source change] " + src["StateCode"] + " | " + src["SourceID"]),
+            ("link", link),
+            ("guid", "uksp-" + src["SourceID"] + "-" + e["id"]),
+            ("description", e.get("summary", "")),
+            ("pubDate", format_datetime(dt.datetime.fromisoformat(e["observed_at"]), usegmt=True)),
+        ]
+        for tag, value in props:
+            node = ET.SubElement(item, tag)
+            node.text = value
+            if tag == "guid":
+                node.set("isPermaLink", "false")
+    path = OUT / "all-changes.xml"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(ET.tostring(root, encoding="utf-8", xml_declaration=True))
+    return len(all_events)
+
 def main():
     with SOURCES.open(encoding="utf-8-sig", newline="") as handle:
         sources = list(csv.DictReader(handle))
@@ -184,6 +220,8 @@ def main():
             detail = (row.get("last_error") or "unknown retrieval error").replace("\\n", " ")[:180]
             print(f"::warning title=Failed public source {src['StateCode']}::{detail}", flush=True)
         time.sleep(0.15)
+    total_events = build_all_changes_feed(sources)
+    print(f"Published unified RSS: {total_events} source-change events", flush=True)
     write_json(OUT / "health.json", {
         "generated_at_utc":iso(NOW()),
         "note":"Public source retrieval health, not comprehensive legal monitoring or verified legal changes.",
