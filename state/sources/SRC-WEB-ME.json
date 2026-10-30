@@ -1,0 +1,9 @@
+{
+  "source_id": "SRC-WEB-ME",
+  "state_code": "ME",
+  "official_url": "https://www.maine.gov/pfr/professionallicensing/professions/board-pharmacy/home/laws-rules",
+  "last_checked_utc": "2026-10-30T04:35:28+00:00",
+  "status": "FAILED",
+  "last_error": "403 Client Error: Forbidden for url: https://www.maine.gov/pfr/professionallicensing/professions/board-pharmacy/home/laws-rules",
+  "consecutive_failures": 1
+}

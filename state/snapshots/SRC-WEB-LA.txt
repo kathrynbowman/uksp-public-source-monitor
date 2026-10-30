@@ -1,0 +1,499 @@
+Regulatory Projects
+Regulatory Projects
+Archive
+2025-454 - Pharmacists
+[Formerly: Solicitation of Comments]
+[Anticipated effective date - October 20, 2026]
+- the Board of Pharmacy seeks to amend Sections 109, 113, 301, 505, 507, 907, 909, 1103, 1119, 1123, 1203, 1503, 1525, 1803, 2533, and 3005 of its rules and to repeal Sections 1124, 1811, 1813, and 1815 of its rules. Pursuant to R.S. 49:964(B), the Board conducted a public hearing on June 26, 2025 to solicit comments and testimony as to whether any of its rules are believed to be contrary to law, outdated, unnecessary, overly complex, or burdensome. Subsequent to its evaluation of those comments, the Board solicited additional stakeholder input in formulating these proposed rules changes.
+The proposed Rule change in Section 109 removes the Reciprocity Committee from the list of standing board committees, replaces it with the Application Review Committee, and describes the makeup and function of the Application Review Committee. The proposed Rule change in Section 113 makes the requirements for rulemaking petitions submitted to the Board clear, concise, and more user friendly, and includes electronic mail as a method for delivery of such petitions. The proposed Rule change in Section 301 eliminates the specific reference to a number and cites the law generally for the definition of “person” to avoid future amendments from renumbering that may occur due to changes in the law. The proposed Rule changes in Sections 505, 1203, and 1525 remove the reference to R.S. 37:1184, replacing it with a reference to Section 115 of this Part, which establishes fees. The proposed Rule changes in Section 507 and 909 incorporate into rules the existing Board policy to accept Interprofessional Continuing Education (ICPE) credit awarded by a provider with Joint Accreditation (JA) for continuing education (CE) requirements and add comprehensive lists of CE requirements for specific topics (nuclear pharmacy, sterile compounding, medication administration) which are found in the rules for each of those topics.
+The proposed Rule change in Section 907 updates language regarding compounding to reflect verbiage used in current United States Pharmacopeia (USP) chapters. The proposed Rule change in Section 1103 removes specific titles of required reference materials. The proposed Rule changes in Section 1119 and 1503 remove definitions of “Personal Identifier,” “Password,” and “Electronic Drug Record Keeping System,” and change the definition of “Positive Identification” to be a method of linking a practice of pharmacy activity or other function in a pharmacy information system to the individual who performed the activity while removing the previous specific requirements for the method. The proposed Rule changes in Section 1123 streamline requirements for record keeping using more concise language, add an allowance to store hard copy prescriptions and chart orders in numerical or date sequence, and clarify electronic imaging retention requirements. The additional proposed Rule change in Section 1203 and the proposed Rule change in Section 3005 remove the steps to obtain duplicate or replacement registration, as credentials are now virtual which means no paper form exists. The proposed Rule change in Section 1803 updates the reinstatement process for an expired permit for a correctional center pharmacy. The proposed Rule change in Section 2533 repeals terms and definitions not currently used in the Subchapter.
+The proposed repeal of Sections 1124, 1811, 1813, and 1815 removes redundant and unnecessary regulations concerning records of pharmacy services for patients in licensed healthcare facilities other than hospitals and emergency drug kits in correctional center pharmacies.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+04-22-2025 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+04-22-2025 -
+Potpourri
+submitted to the
+Louisiana Register
+for publication on May 20, 2025.
+04-22-2025 - Public Hearing scheduled for June 26, 2025.
+04-22-2025 - Notice of Rulemaking Activity & Public Hearing distributed.
+05-20-2025 -
+Potpourri
+published in the May 20, 2025 edition of the
+Louisiana Register
+.
+05-22-2025 - Second Notice of Rulemaking Activity & Public Hearing distributed.
+06-26-2025 - Public Hearing at the Board office.
+08-20-2025 - Board scheduled to receive the public comments from the hearing held on June 26, 2025.
+08-20-2025 - The matter was referred to the Regulation Revision Committee for consideration and development of recommendations.
+10-22-2025 - Regulation Revision Committee scheduled to consider the comments.
+10-22-2025 - Regulation Revision Committee developed recommendations for the Board's consideration.
+11-19-2025 - The Board approved the Regulation Revision Committee's recommendations.
+12-29-2025 - Annual Report on Rulemaking Activities for Calendar Year 2025 submitted (see Archive for 2025).
+02-03-2026 - Regulation Revision Committee scheduled to review remaining comments.
+02-03-2026 - Regulation Revision Committee approved draft documents for the Board's consideration.
+02-25-2026 - Board scheduled to consider the Committee's Recommendations.
+02-25-2026 - Board approved the committee recommendations. Approved proposals -
+Coded Version
+&
+Clean Version
+.
+04-06-2026 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+05-04-2026 - LFO approved the FEIS.
+05-07-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+05-07-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on May 20, 2026.
+05-20-2026 - NOI published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 826).
+05-20-2026 -
+Public Hearing
+scheduled for June 26, 2026.
+05-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+06-26-2026 -
+Public Hearing
+at the Board office.
+07-24-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+07-24-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+07-24-2026 - Distributed electronic Notice of Rulemaking Activity.
+2026-08 - Emergency Medical Services (EMS) Agencies
+[Source:
+Regulatory Proposal 2026-D
+] [Anticipated effective date - January 20, 2027] -
+The Board of Pharmacy seeks to amend Section 2705 of its rules relative to Controlled Dangerous Substances (CDS) licenses. To align with federal regulation allowing for a new DEA registration category for Emergency Medical Services (EMS) agencies that handle CDS, which became effective on March 9, 2026, the proposed Rule amendment allows the Board to issue a CDS license in the name of the EMS agency. The proposed Rule amendment also allows an EMS agency to operate under a single CDS license in lieu of obtaining separate CDS licenses for individual locations operated by the agency.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+08-12-2026 - Board approved
+Regulatory Project 2026-D
+for promulgation.
+08-17-2026 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+09-09-2026 - LFO approved the FEIS.
+09-09-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+09-09-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on September 20, 2026.
+09-20-2026 - NOI published in the 2026
+Louisiana Register
+(Volume 52, September edition, page 1667).
+09-20-2026 -
+Public Hearing
+scheduled for November 2, 2026.
+09-21-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+11-02-2026 -
+Public Hearing
+at the Board office.
+2026-07 - Pharmacy Interns Professional Experience
+[Source:
+Regulatory Proposal 2026-C
+] [Anticipated effective date - October 20, 2026] -
+The Board of Pharmacy seeks to amend Section
+705 of its rules relative to Pharmacy Interns Professional Experience. The proposed Rule amendment changes the licensure requirement for a pharmacist supervising an intern from two years to one year.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+02-25-2026 - Board approved
+Regulatory Proposal 2026-C
+for promulgation.
+04-06-2026 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+05-04-2026 - LFO approved the FEIS.
+05-07-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+05-07-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on May 20, 2026.
+05-20-2026 - NOI published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 831).
+05-20-2026 -
+Public Hearing
+scheduled for June 26, 2026.
+05-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+06-26-2026 -
+Public Hearing
+at the Board office.
+07-24-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+07-24-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+07-24-2026 - Distributed electronic Notice of Rulemaking Activity.
+09-17-2026 - OLRP approved the proposed regulatory project.
+10-08-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the October 2026 edition.
+10-16-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+10-20-2026 - The
+Final Rule
+is scheduled for publication in the 2026
+Louisiana Register
+(Volume 52,
+October edition
+) and takes effect on October 20, 2026.
+2026-06 - Advertising
+[Source:
+Regulatory Proposal 2026-B
+] [Anticipated effective date - October 20, 2026] -
+The Board of Pharmacy seeks to amend Section
+1115 of its rules relative to Advertising. The proposed Rule change removes “apothecary,” “apothecary shop,” and “chemist’s shop” from the list of words that may not be used in the name of any business other than a pharmacy validly permitted by the Board.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+02-25-2026 - Board approved
+Regulatory Proposal 2026-B
+for promulgation.
+04-06-2026 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+05-04-2026 - LFO approved the FEIS.
+05-07-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+05-07-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on May 20, 2026.
+05-20-2026 - NOI published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 823).
+05-20-2026 -
+Public Hearing
+scheduled for June 26, 2026.
+05-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+06-26-2026 -
+Public Hearing
+at the Board office.
+07-24-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+07-24-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+07-24-2026 - Distributed electronic Notice of Rulemaking Activity.
+08-14-2026 - OLRP approved the proposed regulatory project.
+10-08-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the October 2026 edition.
+10-16-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+10-20-2026 - The
+Final Rule
+is scheduled for publication in the 2026
+Louisiana Register
+(Volume 52,
+October edition
+) and takes effect on October 20, 2026.
+2026-05 - Off-Site Services
+[Source:
+Regulatory Proposal 2026-A
+] [Anticipated effective date - October 20, 2026] -
+The Board of Pharmacy seeks to amend Section 1139 of its rules relative to Off-Site Services. The proposed Rule change amends the definition of “Remote Processing Services” to add final product verification to the list of activities included and to clarify the definition by adding the phrase “using technology.”
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+02-25-2026 - Board approved
+Regulatory Proposal 2026-A
+for promulgation.
+04-06-2026 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+05-04-2026 - LFO approved the FEIS.
+05-07-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+05-07-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on May 20, 2026.
+05-20-2026 - NOI published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 824).
+05-20-2026 -
+Public Hearing
+scheduled for June 26, 2026.
+05-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+06-26-2026 -
+Public Hearing
+at the Board office.
+07-24-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+07-24-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+07-24-2026 - Distributed electronic Notice of Rulemaking Activity.
+08-13-2026 - OLRP approved the proposed regulatory project.
+10-08-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the October 2026 edition.
+10-16-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+10-20-2026 - The
+Final Rule
+is scheduled for publication in the 2026
+Louisiana Register
+(Volume 52,
+October edition
+) and takes effect on October 20, 2026.
+2026-04 - Institutional Pharmacy
+[formerly Regulatory Project 2025-13]
+[Source:
+Regulatory Proposal 2025-H
+] [Anticipated effective date - June 20, 2026]
+- The Board of Pharmacy seeks to amend Section 1705 and repeal Sections 1715, 1717, 1719, 1721, 1723, and 1725 of its rules relative to Institutional Pharmacy. The proposed change in Section 1705 removes the restriction on the type of pharmacy permit that may be issued to a pharmacy located within an institutional facility and removes Section 1705.B and Section 1705.C regarding hospital and correctional center pharmacies which are addressed in Chapter 15 and Chapter 18 of the Board’s rules. The proposed repeal of Sections 1715, 1717, 1719, 1721, 1723, and 1725 removes regulations regarding Drug Abuse Treatment Center Pharmacies that were determined to be unnecessary following the Board’s review of its rules in compliance with the Governor’s Executive Order No. JML 25-038 and Act 102 of the 2024 Regular Session. Drug Abuse Treatment Center Pharmacies will adhere to the remainder of Chapter 17 and Chapter 11 of the Board’s rules.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+11-19-2025 - Board approved
+Regulatory Proposal 2025-H
+for promulgation.
+12-05-2025 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+12-29-2025 - Annual Report on Rulemaking Activities for Calendar Year 2025 submitted (see Archive for 2025).
+01-07-2026 - LFO approved FEIS.
+01-08-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+01-08-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on January 20, 2026.
+01-20-2026 -
+NOI
+published in the
+2026
+Louisiana Register
+,
+Volume 52
+, January
+Edition.
+01-20-2026 -
+Public Hearing
+scheduled for February 26, 2026.
+01-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+02-26-2026 -
+Public Hearing
+at the Board office.
+03-13-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+03-13-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+03-13-2026 - Distributed electronic Notice of Rulemaking Activity.
+04-22-2026 - OLRP approved the proposed regulatory project.
+05-07-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the May 2026 edition.
+05-20-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+05-20-2026 - The
+Final Rule
+was published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 688) and takes effect on May 20, 2026.
+2026-03 - Community Pharmacy
+[formerly Regulatory Project 2025-12]
+[Source:
+Regulatory Proposal 2025-G
+]
+[Anticipated effective date - June 20, 2026]
+- The Board of Pharmacy seeks to repeal Chapter 13 of its rules relative to Community Pharmacy. During the Board’s review of its rules in compliance with the Governor’s Executive Order No. JML 25-038 and Act 102 of the 2024 Regular Session, the regulations in Chapter 13 were determined to be unnecessary because its requirements are already addressed in Chapter 11, Pharmacies.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+11-19-2025 - Board approved
+Regulatory Proposal 2025-G
+for promulgation.
+12-05-2025 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+12-29-2025 - Annual Report on Rulemaking Activities for Calendar Year 2025 submitted (see Archive for 2025).
+01-07-2026 - LFO approved FEIS.
+01-08-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+01-08-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on January 20, 2026.
+01-20-2026 -
+NOI
+published in the
+2026
+Louisiana Register
+,
+Volume 52
+, January
+Edition.
+01-20-2026 -
+Public Hearing
+scheduled for February 26, 2026.
+01-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+02-26-2026 -
+Public Hearing
+at the Board office.
+03-13-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+03-13-2026 - Distributed electronic Notice of Rulemaking Activity.
+05-07-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the May 2026 edition.
+05-20-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+05-20-2026 - The
+Final Rule
+was published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 685) and takes effect on May 20, 2026.
+2026-02 - Remote Access by a Pharmacy Technician
+[formerly Regulatory Project 2025-11]
+[Source:
+Regulatory Proposal 2025-E
+]
+[Anticipated effective date - June 20, 2026]
+- The Board of Pharmacy seeks to amend Section 1145 of its rules relative to remote access to prescription drug orders, medical orders, and chart orders. The proposed rule change adds pharmacy technicians to those authorized under the rule. The proposed rule change includes required safeguards for records, supervision requirements for pharmacy technicians, and policies to address quality assurance standards.
+Proposal -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+11-19-2025 - Board approved
+Regulatory Proposal 2025-E
+for promulgation.
+12-04-2025 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+12-29-2025 - Annual Report on Rulemaking Activities for Calendar Year 2025 submitted (see Archive for 2025).
+01-07-2026 - LFO approved FEIS.
+01-08-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+01-08-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on January 20, 2026.
+01-20-2026 -
+NOI
+published in the
+2026
+Louisiana Register
+,
+Volume 52
+, January
+Edition.
+01-20-2026 -
+Public Hearing
+scheduled for February 26, 2026.
+01-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+02-26-2026 -
+Public Hearing
+at the Board office.
+03-13-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+03-13-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+03-13-2026 - Distributed electronic Notice of Rulemaking Activity.
+04-21-2026 - OLRP approved the proposed regulatory project.
+05-07-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the May 2026 edition.
+05-20-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+05-20-2026 - The
+Final Rule
+was published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 689) and takes effect on May 20, 2026.
+2026-01 - Controlled Dangerous Substances (CDS)
+[formerly Regulatory Project 2025-10]
+[Source:
+Regulatory Proposal 2025-F
+]
+[Anticipated effective date - June 20, 2026]
+- The Board of Pharmacy seeks to amend Chapter 27 of its rules relative to Controlled Dangerous Substances (CDS). The proposed Rule changes seek to streamline the regulatory framework by adopting federal regulations by reference, consolidating any provisions that differ from the Code of Federal Regulations (CFR) into Section 2713, and repealing all remaining sections containing redundant requirements. The Rule also changes distributor reporting so ARCOS related reports are provided to the Board only upon request, which reduces ongoing reporting requirements for licensees.
+Proposal - Draft #3 -
+Coded Version
+&
+Clean Version
+(
+Current Rule
+)
+08-20-2025 - Board approved
+Regulatory Proposal 2025-F
+for promulgation.
+10-22-2025 - Regulation Revision Committee scheduled to considered Draft #3, after additional proposed changes idenitifed.
+10-22-2025 - Regulation Revision Committee approved Draft #3 for submission to the Board for consideration.
+11-19-2025 - Board scheduled to consider Draft #3 .
+11-19-2025 - Board approved Draft #3 for promulgation.
+12-04-2025 - Fiscal & Economic Impact Statement (FEIS) submitted to the Legislative Fiscal Office (LFO) for approval.
+12-29-2025 - Annual Report on Rulemaking Activities for Calendar Year 2025 submitted (see Archive for 2025).
+01-07-2026 - LFO approved FEIS.
+01-08-2026 - 1st Report submitted to the Joint Legislative Oversight Committee on Health & Welfare.
+01-08-2026 -
+Notice of Intent (NOI)
+submitted to the
+Louisiana Register
+for publication on January 20, 2026.
+01-20-2026 -
+NOI
+published in the
+2026
+Louisiana Register
+,
+Volume 52
+, January
+Edition.
+01-20-2026 -
+Public Hearing
+scheduled for February 26, 2026.
+01-20-2026 - Notice of Rulemaking Activity & Public Hearing distributed.
+02-26-2026 -
+Public Hearing
+at the Board office.
+03-13-2026 - Submitted project to the La. Dept. of Justice's Occupational Licensing Review Program (OLRP) for review.
+03-13-2026 -
+2nd Report
+submitted to the Joint Legislative Oversight Committee on Health & Welfare and the
+Louisiana Register
+.
+03-13-2026 - Distributed electronic Notice of Rulemaking Activity.
+05-01-2026 - OLRP approved the proposed regulatory project.
+05-07-2026 - Submitted Insertion Order to the
+Louisiana Register
+for publication of the Final Rule in the May 2026 edition.
+05-20-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
+05-20-2026 - The
+Final Rule
+was published in the 2026
+Louisiana Register
+(Volume 52, May edition, page 686) and takes effect on May 20, 2026.

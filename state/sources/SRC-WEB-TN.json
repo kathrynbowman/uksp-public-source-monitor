@@ -1,0 +1,9 @@
+{
+  "source_id": "SRC-WEB-TN",
+  "state_code": "TN",
+  "official_url": "https://publications.tnsosfiles.com/rules/index.htm",
+  "last_checked_utc": "2026-10-30T04:35:40+00:00",
+  "status": "FAILED",
+  "last_error": "403 Client Error: Forbidden for url: https://publications.tnsosfiles.com/rules/index.htm",
+  "consecutive_failures": 1
+}

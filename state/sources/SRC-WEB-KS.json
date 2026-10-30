@@ -1,0 +1,9 @@
+{
+  "source_id": "SRC-WEB-KS",
+  "state_code": "KS",
+  "official_url": "https://www.pharmacy.ks.gov/legal/proposed-state-reg-changes",
+  "last_checked_utc": "2026-10-30T04:35:24+00:00",
+  "status": "FAILED",
+  "last_error": "403 Client Error: Forbidden for url: https://www.pharmacy.ks.gov/legal/proposed-state-reg-changes",
+  "consecutive_failures": 1
+}

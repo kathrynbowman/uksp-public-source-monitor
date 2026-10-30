@@ -1,0 +1,7 @@
+State Agency Rulemaking Searchable Portal
+The Division of Administrative Rules, within the Office of Administrative Law, maintains a searchable database of all active proposals, pursuant to P.L. 2017, c. 262 (N.J.S.A. 52:14B-7.1). An “active proposal” is a notice of proposal that has been published in the New Jersey Register and has not been adopted by the proposing agency, been replaced by a new proposal of identical content (a reproposal), or expired (meaning one year has passed from the date of publication of the notice of proposal and the proposing agency has not yet filed a notice of adoption with the Office of Administrative Law). The searchable database can be accessed at
+https://oalrulesproduction.dynamics365portals.us/
+.
+The database contains information including the proposing entity, the date of publication, a summary of the rulemaking, a short background of the rule, a discussion of potential impacts of the rule, and the New Jersey Register citation for the proposal, which can be retrieved at
+http://www.lexisnexis.com/hottopics/njoal/
+.

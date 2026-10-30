@@ -1,0 +1,173 @@
+Pharmacy Laws & Rules
+List items for Pharmacy Laws and Rules
+Iowa Code
+Pharmacy practice and controlled substances
+Chapter 124
+(Controlled Substances)
+Chapter 124B
+(Precursor Substances)
+Chapter 155A
+Iowa Administrative Code
+Notice of Rule Changes
+: On May 8, 2025, the Iowa Board of Pharmacy voted to adopt changes to its administrative rules. This action will rescind all current rules under 657 Iowa Administrative Code (IAC) and replace them with new Chapters 550 through 557 under 481 IAC. These changes are part of the Board’s compliance with Governor Kim Reynolds’ Executive Order 10, issued in January 2023.
+The adopted rules are expected to be published in the Iowa Administrative Bulletin on or around June 11, 2025, and will take effect on or around July 16, 2025. After publication, the Iowa Legislative Services Agency will update the Iowa Administrative Rules website to reflect the new rules. At that time, 657 IAC will no longer be visible on the site. However, please note that the changes do not take effect until July 16, 2025.
+Board rules (through July 15, 2025) :
+657 IAC
+Adopted rules (effective July 16, 2025):
+481 IAC Chapter 550
+(Definitions)
+481 IAC Chapter 551
+(Licenses, Registrations, and Permits)
+481 IAC Chapter 552
+(Standards--Practice of Pharmacy)
+481 IAC Chapter 553
+(Controlled and Precursor Substances)
+481 IAC Chapter 554
+(Operational Standards--Distribution and Drug Supply Chain)
+481 IAC Chapter 555
+(Standards--Drugs in Emergency Medical Services Programs)
+481 IAC Chapter 556
+(Iowa Prescription Monitoring Program)
+481 IAC Chapter 557
+(Board of Pharmacy Operations)
+Other applicable DIAL / Professional Licensing rules:
+481 IAC Chapter 2
+(Petitions for rulemaking)
+481 IAC Chapter 3
+(Declaratory Orders)
+481 IAC Chapter 4
+(Agency procedure for rulemaking)
+481 IAC Chapter 5
+(Public records and fair information practices)
+481 IAC Chapter 6
+(Waivers)
+481 IAC Chapter 7
+(Military Service, veteran reciprocity, and spouses of active-duty service members)
+481 IAC Chapter 8
+(Child support noncompliance, nonpayment of state debt)
+481 IAC Chapter 500
+(Model rules for board administrative processes)
+481 IAC Chapter 502
+(Use of criminal convictions in licensing determinations)
+481 IAC Chapter 503
+(Model rules for complaints and investigations)
+481 IAC Chapter 504
+(Discipline)
+481 IAC Chapter 505
+(Iowa Practitioner Health Program)
+481 IAC Chapter 506
+(Contested cases and informal settlements)
+Other applicable State Code references
+Iowa Code 147A.18
+(opioid antagonists for law enforcement, fire, etc.)
+Iowa Code 280.16A
+(provision of epinephrine auto-injectors, bronchodilators to schools)
+Iowa Code 272C
+(Board’s authority over professional licenses)
+Iowa Code 147
+(professional licenses)
+Iowa Code 135M
+/
+641 IAC Chapter 109
+(Iowa Prescription Drug Repository Program)
+Iowa Code 135C.33
+(personnel histories / background checks when employing individuals who will provide in-home services to patients)
+Iowa Code 232.69
+(child abuse - mandatory training)
+Iowa Code 235B.15
+(dependent adult abuse - mandatory training)
+Iowa Code 139A.41
+(expedited partner therapy)
+Iowa Code 135.185
+(issuance of a prescription for epinephrine auto-injector in the name of a facility)
+Iowa Code 135.190
+(opioid antagonist for person in a position to assist)
+Federal Laws / Regulations / Standards
+FDA Purple Book
+21 USC 355-1
+(REMS programs)
+21 CFR 1317
+(controlled substance disposal)
+42 USC 1396b(i)(23)
+(requirement for tamper-resistant prescription pad, if not electronic)
+21 CFR 1306
+(controlled substance prescriptions)
+15 USC 1471 – 1476
+/
+16 CFR 1700.14
+(poison prevention Act / special packaging)
+21 CFR 50
+(patient consent for investigational drug)
+21 USC Section 352
+/
+21 CFR 201.1
+(misbranding)
+21 CFR 201.6
+(mislabeling)
+45 CFR 160
+(HIPAA)
+21 CFR 203
+(prohibition on pharmacy dispensing of drug samples)
+21 CFR 314.80
+(FDA FAERS reporting)
+42 CFR 483.45
+(CMS drug regimen review)
+21 CFR 310.515
+(provision of PPI for estrogens)
+21 CFR 208
+(med guides)
+21 CFR Part 201
+(drug labeling)
+21 USC 351
+(adulteration)
+21 CFR 211.132
+(OTC packaging requirements)
+21 USC Section 830
+(Combat Methamphetamine Act 2005)
+21 USC 353b
+(Outsourcing facilities)
+21 USC 822(g)(5)(A)
+(disposal of hospice patient medications)
+21 USC 829(f)
+(partial filling of CII prescription at the request of patient/prescriber)
+21 CFR Part 7
+(drug recalls)
+29 USC Part 15
+(establishment of OSHA/NIOSH)
+21 CFR 320
+(generic equivalence)
+42 CFR Part 493
+(CLIA-waived lab requirements)
+USP Chapter 1178
+(BUDs for repackaged oral solid dosage forms)
+Public law 111-273
+(Secure and Responsible Drug Disposal Act 2010)
+21 CFR Part 1302
+(controlled substance labeling for manufacturer containers)
+Waivers
+Summary
+Code Citation
+481 IAC Chapter 6
+Additional Information
+The Board of Pharmacy may consider and grant a waiver from all or part of a rule
+The Board may not waive a requirement that is found in Iowa Code
+A petition for waiver must be submitted no less than three weeks prior to a regularly scheduled Board meeting
+While not required, it is highly recommended that a petitioner attend the Board meeting during which the petition will be considered
+The Board will consider all relevant factors in determining if a waiver should be granted and, if so, for how long
+Do not use the Petition for Waiver Form to seek an exemption from the mandate for electronic transmission of prescriptions
+Resources
+Petition for Waiver Form
+Mandate for Electronic Transmission of Prescriptions
+Summary
+Code Citations
+Iowa Code section 124.308
+Iowa Code section 155A.27
+481 Iowa Administrative Code 552.13
+Additional Information
+Per Iowa Code, issuing prescriptions in violation of the electronic transmission mandate is punishable by a $250 administrative fine per occurrence
+The Board of Pharmacy may consider a petition for exemption from the mandate for electronic transmission of prescriptions
+A petition for such exemption must be submitted no less than three weeks prior to a regularly scheduled Board meeting
+While not required, it is highly recommended that a petitioner attend the Board meeting during which the petition will be considered
+The Board will consider all relevant factors in determining if an exemption should be granted and, if so, for how long
+Resources
+Petition for Exemption from Mandate for Electronic Transmission of Prescriptions

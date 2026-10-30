@@ -1,0 +1,11 @@
+{
+  "source_id": "SRC-WEB-CT",
+  "state_code": "CT",
+  "official_url": "https://eregulations.ct.gov/eRegsPortal/Browse",
+  "last_checked_utc": "2026-10-30T04:34:59+00:00",
+  "status": "BASELINED",
+  "last_success_utc": "2026-10-30T04:34:59+00:00",
+  "last_sha256": "f8b6c310de43e0bb4f3e64ce208d13369790e6a1dd5a310ed3d66e7b28a174e1",
+  "last_error": null,
+  "consecutive_failures": 0
+}
