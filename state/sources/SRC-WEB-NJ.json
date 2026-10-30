@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-NJ",
   "state_code": "NJ",
   "official_url": "https://www.nj.gov/oal/rules/portal/",
-  "last_checked_utc": "2026-10-30T12:38:14+00:00",
+  "last_checked_utc": "2026-10-30T13:20:11+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T12:38:14+00:00",
+  "last_success_utc": "2026-10-30T13:20:11+00:00",
   "last_sha256": "d67566717c4ff91c2d4a6249dd2d0d92a7d2f1fda7792c60c1a652c009a7498d",
   "last_error": null,
   "consecutive_failures": 0

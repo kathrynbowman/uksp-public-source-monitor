@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-KS",
   "state_code": "KS",
   "official_url": "https://sos.ks.gov/publications/kansas-register.html",
-  "last_checked_utc": "2026-10-30T12:37:57+00:00",
+  "last_checked_utc": "2026-10-30T13:20:00+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-30T12:37:57+00:00",
+  "last_success_utc": "2026-10-30T13:20:00+00:00",
   "last_sha256": "df25ab5df7732d5ef93093e57e447c5cb4bcc66a735ee8e4b86fdeb146323f2f"
 }

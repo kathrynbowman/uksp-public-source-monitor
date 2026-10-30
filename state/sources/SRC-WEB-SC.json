@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-SC",
   "state_code": "SC",
   "official_url": "https://llr.sc.gov/bop/compoundupdates.aspx",
-  "last_checked_utc": "2026-10-30T12:38:21+00:00",
+  "last_checked_utc": "2026-10-30T13:20:17+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T12:38:21+00:00",
+  "last_success_utc": "2026-10-30T13:20:17+00:00",
   "last_sha256": "6f474b81f64db195a1732a2122aee2ab3c48b57216376d31bbe0e8c97747733a",
   "last_error": null,
   "consecutive_failures": 0
