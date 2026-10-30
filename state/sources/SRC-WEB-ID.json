@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-ID",
   "state_code": "ID",
   "official_url": "https://dopl.idaho.gov/bop/bop-statutes-rules-and-guidance/",
-  "last_checked_utc": "2026-10-30T04:58:37+00:00",
+  "last_checked_utc": "2026-10-30T05:35:30+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:58:37+00:00",
+  "last_success_utc": "2026-10-30T05:35:30+00:00",
   "last_sha256": "64075a6f1468fb456da20738e74b8d8403a3ac9ba230097a1202ab26ba081a17",
   "last_error": null,
   "consecutive_failures": 0

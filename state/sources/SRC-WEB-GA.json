@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-GA",
   "state_code": "GA",
   "official_url": "https://gbp.georgia.gov/laws-policies-rules",
-  "last_checked_utc": "2026-10-30T04:58:36+00:00",
+  "last_checked_utc": "2026-10-30T05:35:28+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:58:36+00:00",
+  "last_success_utc": "2026-10-30T05:35:28+00:00",
   "last_sha256": "f966855c36493a7005fa0d3f71ee1a7c3b221e7cada5fbade96621349c70ef11",
   "last_error": null,
   "consecutive_failures": 0

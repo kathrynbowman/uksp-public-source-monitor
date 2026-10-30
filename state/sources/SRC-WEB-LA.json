@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-LA",
   "state_code": "LA",
   "official_url": "https://www.pharmacy.la.gov/page/regulatory-projects",
-  "last_checked_utc": "2026-10-30T04:58:42+00:00",
+  "last_checked_utc": "2026-10-30T05:35:34+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:58:42+00:00",
+  "last_success_utc": "2026-10-30T05:35:34+00:00",
   "last_sha256": "271e4c44298219eb8d534ad87f9d2d86ff7dbb68dd5e7bc8010a8b4f2322ec1d",
   "last_error": null,
   "consecutive_failures": 0

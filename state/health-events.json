@@ -1,0 +1,52 @@
+[
+  {
+    "id": "02aeeac1e51b0050b65666be",
+    "kind": "failure",
+    "state_code": "WI",
+    "source_id": "SRC-WEB-WI",
+    "source_url": "https://docs.legis.wisconsin.gov/code/register",
+    "observed_at": "2026-10-30T05:35:59+00:00",
+    "error": "HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /code/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x77a4aac5d460>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=8)'))",
+    "consecutive_failures": 2
+  },
+  {
+    "id": "f55c615a6d0ca6df5da14c24",
+    "kind": "failure",
+    "state_code": "TN",
+    "source_id": "SRC-WEB-TN",
+    "source_url": "https://www.tn.gov/health/licensure/pharm.html",
+    "observed_at": "2026-10-30T05:35:59+00:00",
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "consecutive_failures": 5
+  },
+  {
+    "id": "c63735f89a706c9e0c6b6e4f",
+    "kind": "failure",
+    "state_code": "MO",
+    "source_id": "SRC-WEB-MO",
+    "source_url": "https://www.sos.mo.gov/adrules/moreg",
+    "observed_at": "2026-10-30T05:35:59+00:00",
+    "error": "Too little usable text to form a trustworthy baseline",
+    "consecutive_failures": 5
+  },
+  {
+    "id": "b8f95d0e181d9e30ba34e5cf",
+    "kind": "failure",
+    "state_code": "DE",
+    "source_id": "SRC-WEB-DE",
+    "source_url": "https://regulations.delaware.gov/",
+    "observed_at": "2026-10-30T05:35:59+00:00",
+    "error": "Too little usable text to form a trustworthy baseline",
+    "consecutive_failures": 5
+  },
+  {
+    "id": "1b359c009d51642ddcb126e7",
+    "kind": "failure",
+    "state_code": "AK",
+    "source_id": "SRC-WEB-AK",
+    "source_url": "https://aws.state.ak.us/OnlinePublicNotices/Default.aspx",
+    "observed_at": "2026-10-30T05:35:59+00:00",
+    "error": "Too little usable text to form a trustworthy baseline",
+    "consecutive_failures": 5
+  }
+]

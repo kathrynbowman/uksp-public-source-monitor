@@ -2,8 +2,8 @@
   "source_id": "SRC-WEB-TN",
   "state_code": "TN",
   "official_url": "https://www.tn.gov/health/licensure/pharm.html",
-  "last_checked_utc": "2026-10-30T04:58:59+00:00",
+  "last_checked_utc": "2026-10-30T05:35:46+00:00",
   "status": "FAILED",
   "last_error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-  "consecutive_failures": 4
+  "consecutive_failures": 5
 }
