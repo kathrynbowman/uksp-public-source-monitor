@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-TX",
   "state_code": "TX",
   "official_url": "https://www.pharmacy.texas.gov/Rules_Recent_Proposed_Changes.asp",
-  "last_checked_utc": "2026-10-30T04:48:06+00:00",
+  "last_checked_utc": "2026-10-30T04:58:59+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:48:06+00:00",
+  "last_success_utc": "2026-10-30T04:58:59+00:00",
   "last_sha256": "e216498655db775d316fcf66be809fcadba13aeebcd4ded175a6ea18a0e677ca",
   "last_error": null,
   "consecutive_failures": 0

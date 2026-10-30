@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-UT",
   "state_code": "UT",
   "official_url": "https://rules.utah.gov/publications/utah-state-bulletin/",
-  "last_checked_utc": "2026-10-30T04:48:07+00:00",
+  "last_checked_utc": "2026-10-30T04:59:00+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:48:07+00:00",
+  "last_success_utc": "2026-10-30T04:59:00+00:00",
   "last_sha256": "0917434ee34bd2e370b1961340480d4d11b2c92ddba91bca6d55da338e01ccaa",
   "last_error": null,
   "consecutive_failures": 0

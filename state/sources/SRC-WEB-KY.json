@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-KY",
   "state_code": "KY",
   "official_url": "https://pharmacy.ky.gov/statutesandregulations/Pages/default.aspx",
-  "last_checked_utc": "2026-10-30T04:47:50+00:00",
+  "last_checked_utc": "2026-10-30T04:58:40+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T04:47:50+00:00",
+  "last_success_utc": "2026-10-30T04:58:40+00:00",
   "last_sha256": "65d38bed55cfbd23ba581bb492965786e4c30f702883eb64e6057dcb07bc86a6",
   "last_error": null,
   "consecutive_failures": 0

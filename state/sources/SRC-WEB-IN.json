@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-IN",
   "state_code": "IN",
   "official_url": "https://www.in.gov/pla/professions/pharmacy-home/pharmacy-board/",
-  "last_checked_utc": "2026-10-30T04:47:50+00:00",
+  "last_checked_utc": "2026-10-30T04:58:39+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-30T04:47:50+00:00",
+  "last_success_utc": "2026-10-30T04:58:39+00:00",
   "last_sha256": "0f6ffd9924f90c424f7dda203485120d5fd3f54441aff65a9dd91fa25527f184"
 }
