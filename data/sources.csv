@@ -1,5 +1,5 @@
 SourceID,StateCode,SourceURL,VerificationStatus
-SRC-WEB-AK,AK,https://aws.state.ak.us/OnlinePublicNotices/Default.aspx,UNVERIFIED_SOURCE_CANDIDATE
+SRC-WEB-AK,AK,https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofPharmacy,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-AL,AL,https://albop.com/statutes-rules/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-AR,AR,https://healthy.arkansas.gov/boards-commissions/boards/pharmacy-arkansas-state-board/asbp-licensee-information/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-AZ,AZ,https://apps.azsos.gov/public_services/register/2026/contents.htm,UNVERIFIED_SOURCE_CANDIDATE
@@ -7,7 +7,7 @@ SRC-WEB-CA,CA,https://pharmacy.ca.gov/laws_regs/pending_regs.shtml,UNVERIFIED_SO
 SRC-WEB-CO,CO,https://www.sos.state.co.us/CCR/Welcome.do,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-CT,CT,https://eregulations.ct.gov/eRegsPortal/Browse,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-DC,DC,https://os.dc.gov/page/dc-municipal-regulations-and-register,UNVERIFIED_SOURCE_CANDIDATE
-SRC-WEB-DE,DE,https://regulations.delaware.gov/,UNVERIFIED_SOURCE_CANDIDATE
+SRC-WEB-DE,DE,https://dpr.delaware.gov/boards/pharmacy/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-FL,FL,https://dos.fl.gov/offices/administrative-code-and-register/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-GA,GA,https://gbp.georgia.gov/laws-policies-rules,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-HI,HI,https://cca.hawaii.gov/pvl/boards/pharmacy/statute_rules/,UNVERIFIED_SOURCE_CANDIDATE
@@ -23,7 +23,7 @@ SRC-WEB-MD,MD,https://regs.maryland.gov/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-ME,ME,https://www1.maine.gov/pfr/professionallicensing/professions/board-pharmacy/home/laws-rules,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-MI,MI,https://www.michigan.gov/lara/bureau-list/moahr/admin-rules/publications/michigan-register,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-MN,MN,https://mn.gov/boards/pharmacy/public/rulemaking.jsp,UNVERIFIED_SOURCE_CANDIDATE
-SRC-WEB-MO,MO,https://www.sos.mo.gov/adrules/moreg,UNVERIFIED_SOURCE_CANDIDATE
+SRC-WEB-MO,MO,https://www.pr.missouri.gov/pharmacists-rules-statutes.asp,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-MS,MS,https://www.mbp.ms.gov/news/proposed-regulations,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-MT,MT,https://boards.bsd.dli.mt.gov/pharmacy/regulations/rule-notices,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-NC,NC,https://www.oah.nc.gov/rules-division/north-carolina-register,UNVERIFIED_SOURCE_CANDIDATE
@@ -41,12 +41,12 @@ SRC-WEB-PA,PA,https://pacodeandbulletin.gov/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-RI,RI,https://www.sos.ri.gov/divisions/open-government-center/rules-and-regulations/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-SC,SC,https://llr.sc.gov/bop/compoundupdates.aspx,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-SD,SD,https://rules.sd.gov/,UNVERIFIED_SOURCE_CANDIDATE
-SRC-WEB-TN,TN,https://www.tn.gov/health/licensure/pharm.html,UNVERIFIED_SOURCE_CANDIDATE
+SRC-WEB-TN,TN,https://digitaltennessee.tnsos.gov/administrative_register/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-TX,TX,https://www.pharmacy.texas.gov/Rules_Recent_Proposed_Changes.asp,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-UT,UT,https://rules.utah.gov/publications/utah-state-bulletin/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-VA,VA,https://www.dhp.virginia.gov/pharmacy/pharmacy_laws_regs.htm,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-VT,VT,https://sos.vermont.gov/pharmacy/statutes-rules-resources,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-WA,WA,https://leg.wa.gov/state-laws-and-rules/washington-state-register/,UNVERIFIED_SOURCE_CANDIDATE
-SRC-WEB-WI,WI,https://docs.legis.wisconsin.gov/code/register,UNVERIFIED_SOURCE_CANDIDATE
+SRC-WEB-WI,WI,https://dsps.wi.gov/rules-statutes/pending-rules/,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-WV,WV,https://sos.wv.gov/index.php/administrative-law/rules/proposed-rules,UNVERIFIED_SOURCE_CANDIDATE
 SRC-WEB-WY,WY,https://pharmacyboard.wyo.gov/laws,UNVERIFIED_SOURCE_CANDIDATE
