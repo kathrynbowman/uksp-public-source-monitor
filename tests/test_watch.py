@@ -49,6 +49,20 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(len(json.loads((watch.STORE / "events" / "SRC-WEB-SD.json").read_text())), 1)
         recorded_clock_only = "--- previous\n+++ current\n@@ -42,7 +42,7 @@\n-10-29-2026 23:35:40 PM\n+10-29-2026 23:41:08 PM\n"
         self.assertTrue(watch.sd_clock_only_event(recorded_clock_only))
+    def test_combined_feed_preserves_state_source_and_one_event(self):
+        before = "This is an official pharmacy rulemaking notice and regulations site. " * 3
+        after = "This is an updated official pharmacy rulemaking notice and regulations site. " * 3
+        watch.check(self.source, lambda _: before, self.now)
+        watch.check(self.source, lambda _: after, self.now)
+        count = watch.build_all_changes_feed([self.source])
+        self.assertEqual(count, 1)
+        path = watch.OUT / "all-changes.xml"
+        root = ET.parse(path).getroot()
+        item = root.find(".//item")
+        self.assertIsNotNone(item)
+        self.assertIn("KY | SRC-WEB-KY", item.find("title").text)
+        self.assertIn("/evidence/SRC-WEB-KY/", item.find("link").text)
+        self.assertIn("SRC-WEB-KY", item.find("guid").text)
     def test_51_unique_source_ids(self):
         with watch.SOURCES.open(encoding="utf-8") as handle:
             rows = list(csv.DictReader(handle))
