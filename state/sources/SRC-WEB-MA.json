@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-MA",
   "state_code": "MA",
   "official_url": "https://www.sec.state.ma.us/divisions/pubs-regs/pubs-regs.htm",
-  "last_checked_utc": "2026-10-30T13:20:03+00:00",
+  "last_checked_utc": "2026-10-31T13:13:26+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-30T13:20:03+00:00",
+  "last_success_utc": "2026-10-31T13:13:26+00:00",
   "last_sha256": "369cb4132edc95e62b53a93ebca4cc6394bce3a93c305cae1b3579dd5093f69e"
 }

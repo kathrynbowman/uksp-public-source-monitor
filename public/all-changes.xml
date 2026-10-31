@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/42d695063180e321adcbcac3.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-42d695063180e321adcbcac3</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-10-30T12:38:18+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] WI | SRC-WEB-WI</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WI/1ce8971f66e7a91a2ab9efc6.html</link><guid isPermaLink="false">uksp-SRC-WEB-WI-1ce8971f66e7a91a2ab9efc6</guid><description>Unverified content difference detected at https://dsps.wi.gov/rules-statutes/pending-rules/ on 2026-10-31T13:13:44+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,3 +1,4 @@
++SYSTEM MAINTENANCE: Please note that LicensE will be offline for scheduled maintenance starting at 6:00 p.m. on Wednesday, November 4, 2026. LicensE will be back online once maintenance is completed, which is expected later that same evening.
+ General
+ Pending Rules
+ Review upcoming information and status updates on rule projects.</description><pubDate>Sat, 31 Oct 2026 13:13:44 GMT</pubDate></item><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/0fdb14de9b04fbc926a52a08.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-0fdb14de9b04fbc926a52a08</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-10-31T13:13:42+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -11,6 +11,9 @@
+ Prescription Monitoring
+ OPR Home
+ Visit the Calendar Page
++A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by
++contacting our office
++.
+ Pharmacy Statutes, Rules &amp; Resources
+ The Board of Pharmacy, together with the Secretary of State’s Office of Professional Regulation (OPR), provide governance, oversight and enforcement for your profession. This page contains detailed information regarding applicable statutes and rules as well as additional resources.
+ Statutes &amp; Rules - OPR</description><pubDate>Sat, 31 Oct 2026 13:13:42 GMT</pubDate></item><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/35b360ca1b04344c8d20bcc3.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-35b360ca1b04344c8d20bcc3</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-10-31T13:13:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 44
++Friday, October 30, 2026
++p. 2689-2818
+ Authenticated PDF
+ Issue 43
+ Friday, October 23, 2026</description><pubDate>Sat, 31 Oct 2026 13:13:15 GMT</pubDate></item><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/42d695063180e321adcbcac3.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-42d695063180e321adcbcac3</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-10-30T12:38:18+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -6,8 +6,8 @@
  VIEW CURRENT ISSUE

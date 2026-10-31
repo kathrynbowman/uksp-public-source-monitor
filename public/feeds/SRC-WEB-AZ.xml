@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | AZ</title><link>https://apps.azsos.gov/public_services/register/2026/contents.htm</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | AZ</title><link>https://apps.azsos.gov/public_services/register/2026/contents.htm</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/35b360ca1b04344c8d20bcc3.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-35b360ca1b04344c8d20bcc3</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-10-31T13:13:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 44
++Friday, October 30, 2026
++p. 2689-2818
+ Authenticated PDF
+ Issue 43
+ Friday, October 23, 2026</description><pubDate>Sat, 31 Oct 2026 13:13:15 GMT</pubDate></item></channel></rss>

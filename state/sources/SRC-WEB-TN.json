@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-TN",
   "state_code": "TN",
   "official_url": "https://digitaltennessee.tnsos.gov/administrative_register/",
-  "last_checked_utc": "2026-10-30T13:20:18+00:00",
+  "last_checked_utc": "2026-10-31T13:13:40+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-30T13:20:18+00:00",
+  "last_success_utc": "2026-10-31T13:13:40+00:00",
   "last_sha256": "91034174dc886e1379311d64afdd7d9644e5b1bb58b430d9a55327e92e84b76b"
 }

@@ -1,2 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | VT</title><link>https://sos.vermont.gov/pharmacy/statutes-rules-resources</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | VT</title><link>https://sos.vermont.gov/pharmacy/statutes-rules-resources</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/0fdb14de9b04fbc926a52a08.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-0fdb14de9b04fbc926a52a08</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-10-31T13:13:42+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -11,6 +11,9 @@
+ Prescription Monitoring
+ OPR Home
+ Visit the Calendar Page
++A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by
++contacting our office
++.
+ Pharmacy Statutes, Rules &amp; Resources
+ The Board of Pharmacy, together with the Secretary of State’s Office of Professional Regulation (OPR), provide governance, oversight and enforcement for your profession. This page contains detailed information regarding applicable statutes and rules as well as additional resources.
+ Statutes &amp; Rules - OPR</description><pubDate>Sat, 31 Oct 2026 13:13:42 GMT</pubDate></item></channel></rss>

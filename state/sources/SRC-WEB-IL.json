@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-IL",
   "state_code": "IL",
   "official_url": "https://idfpr.illinois.gov/profs/rules/proprules.html",
-  "last_checked_utc": "2026-10-30T13:19:59+00:00",
+  "last_checked_utc": "2026-10-31T13:13:21+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-30T13:19:59+00:00",
+  "last_success_utc": "2026-10-31T13:13:21+00:00",
   "last_sha256": "80641f269ea002bc9a41bae8aedd00783ec7316c4acd7bed7577873715dc4590"
 }

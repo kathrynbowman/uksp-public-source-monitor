@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "0fdb14de9b04fbc926a52a08",
+    "observed_at": "2026-10-31T13:13:42+00:00",
+    "previous_sha256": "cb5b50a3a88ca1f6d658826556b784d5d71b573fa5df634b9dbec403724661c7",
+    "current_sha256": "397061d94d1a4728815c395ba72e082bb2f49ea1f2d4a76f1d5f09ce49361b4b",
+    "diff": "--- previous\n+++ current\n@@ -11,6 +11,9 @@\n Prescription Monitoring\n OPR Home\n Visit the Calendar Page\n+A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by\n+contacting our office\n+.\n Pharmacy Statutes, Rules & Resources\n The Board of Pharmacy, together with the Secretary of State’s Office of Professional Regulation (OPR), provide governance, oversight and enforcement for your profession. This page contains detailed information regarding applicable statutes and rules as well as additional resources.\n Statutes & Rules - OPR",
+    "summary": "Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-10-31T13:13:42+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -11,6 +11,9 @@\n Prescription Monitoring\n OPR Home\n Visit the Calendar Page\n+A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by\n+contacting our office\n+.\n Pharmacy Statutes, Rules & Resources\n The Board of Pharmacy, together with the Secretary of State’s Office of Professional Regulation (OPR), provide governance, oversight and enforcement for your profession. This page contains detailed information regarding applicable statutes and rules as well as additional resources.\n Statutes & Rules - OPR"
+  }
+]

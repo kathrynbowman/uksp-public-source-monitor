@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-DC",
   "state_code": "DC",
   "official_url": "https://os.dc.gov/page/dc-municipal-regulations-and-register",
-  "last_checked_utc": "2026-10-30T13:19:54+00:00",
+  "last_checked_utc": "2026-10-31T13:13:16+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-30T13:19:54+00:00",
+  "last_success_utc": "2026-10-31T13:13:16+00:00",
   "last_sha256": "9f5b105434c2be48f4d9fbc2b3216f0811d897274b3b6868f7b982421dcc94f9",
   "last_error": null,
   "consecutive_failures": 0
