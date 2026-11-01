@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-NY",
   "state_code": "NY",
   "official_url": "https://dos.ny.gov/state-register",
-  "last_checked_utc": "2026-10-31T13:13:35+00:00",
+  "last_checked_utc": "2026-11-01T13:13:55+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-10-31T13:13:35+00:00",
+  "last_success_utc": "2026-11-01T13:13:55+00:00",
   "last_sha256": "8bcd402f179272dd9246411c1c87a5ada7f856b457793d05415dcbaca64c62c5",
   "last_error": null,
   "consecutive_failures": 0

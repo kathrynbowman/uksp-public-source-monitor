@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-AL",
   "state_code": "AL",
   "official_url": "https://albop.com/statutes-rules/",
-  "last_checked_utc": "2026-10-31T13:13:13+00:00",
+  "last_checked_utc": "2026-11-01T13:13:33+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-10-31T13:13:13+00:00",
+  "last_success_utc": "2026-11-01T13:13:33+00:00",
   "last_sha256": "36e7506599b55cb0aaccb05dcf9cca2469600258126584127b53cb61a6ed911a"
 }
