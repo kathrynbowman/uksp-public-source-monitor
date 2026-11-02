@@ -1,5 +1,15 @@
 [
   {
+    "id": "f8d767487c9e0667e4dc238c",
+    "kind": "failure",
+    "state_code": "TX",
+    "source_id": "SRC-WEB-TX",
+    "source_url": "https://www.pharmacy.texas.gov/Rules_Recent_Proposed_Changes.asp",
+    "observed_at": "2026-11-02T13:32:59+00:00",
+    "error": "HTTPSConnectionPool(host='www.pharmacy.texas.gov', port=443): Max retries exceeded with url: /Rules_Recent_Proposed_Changes.asp (Caused by NewConnectionError(\"HTTPSConnection(host='www.pharmacy.texas.gov', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "consecutive_failures": 1
+  },
+  {
     "id": "32acf331ee33fe78e4a89536",
     "kind": "restored",
     "state_code": "WI",
