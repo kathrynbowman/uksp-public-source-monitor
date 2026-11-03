@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | UT</title><link>https://rules.utah.gov/publications/utah-state-bulletin/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | UT</title><link>https://rules.utah.gov/publications/utah-state-bulletin/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] UT | SRC-WEB-UT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-UT/b7a0c7e5d39587c77985e1a8.html</link><guid isPermaLink="false">uksp-SRC-WEB-UT-b7a0c7e5d39587c77985e1a8</guid><description>Unverified content difference detected at https://rules.utah.gov/publications/utah-state-bulletin/ on 2026-11-03T13:30:19+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -23,6 +23,8 @@
+ Utah State Bulletin
+ are archived and available for reference, research, or recordkeeping.
+ The 2026 issues of the Bulletin are available in PDF (official) format.
++Vol. 2026, No. 21 (11/01/2026) PDF
++MD5 Hash: 661c210fcf4cb8b44187b256122f5e15
+ Vol. 2026, No. 20 (10/15/2026) PDF
+ MD5 Hash: c8504863b437e7b86bd224dd6da15b95
+ Vol. 2026, No. 19 (10/01/2026) PDF</description><pubDate>Tue, 03 Nov 2026 13:30:19 GMT</pubDate></item></channel></rss>

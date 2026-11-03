@@ -1,5 +1,35 @@
 [
   {
+    "id": "c205726bc54fe8618bee422d",
+    "kind": "restored",
+    "state_code": "TX",
+    "source_id": "SRC-WEB-TX",
+    "source_url": "https://www.pharmacy.texas.gov/Rules_Recent_Proposed_Changes.asp",
+    "observed_at": "2026-11-03T13:30:24+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "18659f228ab633c3ed8d1810",
+    "kind": "failure",
+    "state_code": "NH",
+    "source_id": "SRC-WEB-NH",
+    "source_url": "https://www.gc.nh.gov/rules/",
+    "observed_at": "2026-11-03T13:30:24+00:00",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "consecutive_failures": 1
+  },
+  {
+    "id": "d2b6f78bc0413c2de475e334",
+    "kind": "failure",
+    "state_code": "MS",
+    "source_id": "SRC-WEB-MS",
+    "source_url": "https://www.mbp.ms.gov/news/proposed-regulations",
+    "observed_at": "2026-11-03T13:30:24+00:00",
+    "error": "HTTPSConnectionPool(host='www.mbp.ms.gov', port=443): Read timed out. (read timeout=20)",
+    "consecutive_failures": 1
+  },
+  {
     "id": "f8d767487c9e0667e4dc238c",
     "kind": "failure",
     "state_code": "TX",
