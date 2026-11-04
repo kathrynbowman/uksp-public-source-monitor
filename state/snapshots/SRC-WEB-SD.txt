@@ -53,7 +53,6 @@ Bureau of Information and Technology
 Department of Agriculture and Natural Resources
 Department of Corrections
 Department of Education
-(1)
 Department of Game, Fish & Parks
 (1)
 Governor's Office of Economic Development
@@ -63,7 +62,7 @@ Department of Health
 Department of Human Services
 (1)
 Department of Labor and Regulation
-(5)
+(4)
 Department of Military
 Department of Public Safety
 Department of Revenue
@@ -71,7 +70,7 @@ Department of Revenue
 Department of Social Services
 Department of Tourism
 Department of Transportation
-(2)
+(1)
 Department of Tribal Relations
 Department of Veterans Affairs
 Public Utilities Commission

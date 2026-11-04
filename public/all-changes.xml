@@ -1,5 +1,116 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] UT | SRC-WEB-UT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-UT/b7a0c7e5d39587c77985e1a8.html</link><guid isPermaLink="false">uksp-SRC-WEB-UT-b7a0c7e5d39587c77985e1a8</guid><description>Unverified content difference detected at https://rules.utah.gov/publications/utah-state-bulletin/ on 2026-11-03T13:30:19+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/f7ee0b3cc4e3dd663e6d8e29.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-f7ee0b3cc4e3dd663e6d8e29</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-04T13:31:09+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -53,7 +53,6 @@
+ Department of Agriculture and Natural Resources
+ Department of Corrections
+ Department of Education
+-(1)
+ Department of Game, Fish &amp; Parks
+ (1)
+ Governor's Office of Economic Development
+@@ -63,7 +62,7 @@
+ Department of Human Services
+ (1)
+ Department of Labor and Regulation
+-(5)
++(4)
+ Department of Military
+ Department of Public Safety
+ Department of Revenue
+@@ -71,7 +70,7 @@
+ Department of Social Services
+ Department of Tourism
+ Department of Transportation
+-(2)
++(1)
+ Department of Tribal Relations
+ Department of Veterans Affairs
+ Public Utilities Commission</description><pubDate>Wed, 04 Nov 2026 13:31:09 GMT</pubDate></item><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/590778b9ddaf63ec04cae2af.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-590778b9ddaf63ec04cae2af</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-04T13:31:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -15,7 +15,7 @@
+ Register Submission Deadlines
+ New York State Register submission deadlines are on Tuesdays at 11:59 PM.
+ Rule Making Calendar
+-2026 Rule Making Calendar
++2027 Rule Making Calendar
+ What is Rule Making in New York?
+ An overview of the rule making process in New York State.
+ card image
+@@ -32,6 +32,7 @@
+ Filter
+ 2026
+ 2025
++2024
+ 2023
+ 2022
+ 2021
+@@ -41,7 +42,6 @@
+ 2017
+ 2016
+ 2015
+-2024
+ 659
+ results found
+ State Rules</description><pubDate>Wed, 04 Nov 2026 13:31:05 GMT</pubDate></item><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/6d694af108bd5294176ab41d.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-6d694af108bd5294176ab41d</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-04T13:31:04+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -15,6 +15,8 @@
+ .
+ Online Issues
+ Volume XXXVII
++
++Volume XXXVII, Issue 21, November 3, 2026
+ 
+ Volume XXXVII, Issue 20, October 20, 2026
+ </description><pubDate>Wed, 04 Nov 2026 13:31:04 GMT</pubDate></item><item><title>[Potential source change] NE | SRC-WEB-NE</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NE/66274802253000e4b11fd957.html</link><guid isPermaLink="false">uksp-SRC-WEB-NE-66274802253000e4b11fd957</guid><description>Unverified content difference detected at https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx on 2026-11-04T13:31:02+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -37,28 +37,7 @@
+ If auxiliary aids or reasonable accommodations are needed to participate in a hearing, please call (402) 471-8417. Individuals who are deaf or hard of hearing may call DHHS via the Nebraska Relay System at 711 or (800) 833-7352 TDD at least two weeks before the hearing date. This notice is given in compliance with Neb. Rev. Stat. Section 84-907.
+ Public Hearings - Select from the list below to see details.
+ Sections on this page
+-October 22, 2026 / Citizenship/Alien Status and Identity (477 NAC 5)
+-10:00 A
+-.M. CST
+-Nebraska State Office Building
+-Lower Level
+-Meado
+-wlark Conference Room
+-301 Centennial Mall South
+-Lincoln, NE
+-The purpose of this hearing is to receive comments on proposed changes to
+-Title 477, Chapter 5​
+-of the Nebraska Administrative Code (NAC) –
+-Citizenship/Alien Status and Identity
+-.
+-The proposed changes update citiz</description><pubDate>Wed, 04 Nov 2026 13:31:02 GMT</pubDate></item><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/25f999e1053ec03ce9ad1e7c.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-25f999e1053ec03ce9ad1e7c</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-04T13:30:58+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,18 +1,22 @@
+ skip to content
+ Primary navigation
+-Proposed Rulemaking
+-The Board of Pharmacy is proposing revisions to state rules as outlined below.
+-The public comment period is now closed.
++Rulemaking
++Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:
++Subp. 1a.
++Additional labeling information.
++After January 1, 2026, except for radiopharmaceuticals, all drugs dispensed to or for a patient, other than an inpatient of a hospital, may also be labeled with the following information:
++A. the complete and unabbreviated generic name of the drug; and
++B. instructions written in plain language explaining the patient-specific indications for the drug if the patient-specific indications are indicated on the prescription.
+ Session Law:
+ The statutory</description><pubDate>Wed, 04 Nov 2026 13:30:58 GMT</pubDate></item><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/f909f34ee8d5c704a7364b18.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-f909f34ee8d5c704a7364b18</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-04T13:30:40+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 45
++Friday, November 6, 2026
++p. 2819-2890
+ Authenticated PDF
+ Issue 44
+ Friday, October 30, 2026</description><pubDate>Wed, 04 Nov 2026 13:30:40 GMT</pubDate></item><item><title>[Potential source change] UT | SRC-WEB-UT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-UT/b7a0c7e5d39587c77985e1a8.html</link><guid isPermaLink="false">uksp-SRC-WEB-UT-b7a0c7e5d39587c77985e1a8</guid><description>Unverified content difference detected at https://rules.utah.gov/publications/utah-state-bulletin/ on 2026-11-03T13:30:19+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -23,6 +23,8 @@
  Utah State Bulletin

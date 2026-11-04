@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "f7ee0b3cc4e3dd663e6d8e29",
+    "observed_at": "2026-11-04T13:31:09+00:00",
+    "previous_sha256": "d6bcde24e98b5d04ba142f707a0378c5d74456144a719059ccb9179e962aaab9",
+    "current_sha256": "ee3cc0cecf69b5148fe9c4007a4bb632c39bc7bb9010e85f9f463824eaba9e89",
+    "diff": "--- previous\n+++ current\n@@ -53,7 +53,6 @@\n Department of Agriculture and Natural Resources\n Department of Corrections\n Department of Education\n-(1)\n Department of Game, Fish & Parks\n (1)\n Governor's Office of Economic Development\n@@ -63,7 +62,7 @@\n Department of Human Services\n (1)\n Department of Labor and Regulation\n-(5)\n+(4)\n Department of Military\n Department of Public Safety\n Department of Revenue\n@@ -71,7 +70,7 @@\n Department of Social Services\n Department of Tourism\n Department of Transportation\n-(2)\n+(1)\n Department of Tribal Relations\n Department of Veterans Affairs\n Public Utilities Commission",
+    "summary": "Unverified content difference detected at https://rules.sd.gov/ on 2026-11-04T13:31:09+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -53,7 +53,6 @@\n Department of Agriculture and Natural Resources\n Department of Corrections\n Department of Education\n-(1)\n Department of Game, Fish & Parks\n (1)\n Governor's Office of Economic Development\n@@ -63,7 +62,7 @@\n Department of Human Services\n (1)\n Department of Labor and Regulation\n-(5)\n+(4)\n Department of Military\n Department of Public Safety\n Department of Revenue\n@@ -71,7 +70,7 @@\n Department of Social Services\n Department of Tourism\n Department of Transportation\n-(2)\n+(1)\n Department of Tribal Relations\n Department of Veterans Affairs\n Public Utilities Commission"
+  }
+]

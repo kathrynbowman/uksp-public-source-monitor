@@ -1,18 +1,22 @@
 skip to content
 Primary navigation
-Proposed Rulemaking
-The Board of Pharmacy is proposing revisions to state rules as outlined below.
-The public comment period is now closed.
+Rulemaking
+Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:
+Subp. 1a.
+Additional labeling information.
+After January 1, 2026, except for radiopharmaceuticals, all drugs dispensed to or for a patient, other than an inpatient of a hospital, may also be labeled with the following information:
+A. the complete and unabbreviated generic name of the drug; and
+B. instructions written in plain language explaining the patient-specific indications for the drug if the patient-specific indications are indicated on the prescription.
 Session Law:
 The statutory authority to adopt these rules under the expedited rulemaking process is
 Minnesota Laws 2024, Regular Session, Chapter 127
-, Article 60, Subd. 25.
+, Article 60, Section. 25.
 Sec. 25. RULEMAKING; BOARD OF PHARMACY. The Board of Pharmacy must amend Minnesota Rules, part 6800.3400, to permit and promote the inclusion of the following on a prescription label: (1) the complete and unabbreviated generic name of the drug; and (2) instructions written in plain language explaining the patient-specific indications for the drug if the patient-specific indications are indicated on the prescription. The Board of Pharmacy must comply with Minnesota Statutes, section 14.389, in adopting the amendment to the rule.
 Current rule:
 Minnesota Rule 6800.3400
 Subject matter:
 Amendment to Rules Governing Prescription Bottle Labeling
-Summary of proposed changes:
+Summary of changes:
 Drugs dispensed to or for a patient, other than an inpatient of a hospital, may contain unabbreviated names of generic drugs, instructions in plain language explaining patient-specific indications for the drug if the patient-specific indications are indicated on the prescription.
 Documents
 Notice of Intent

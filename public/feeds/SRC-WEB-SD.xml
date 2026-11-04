@@ -1,2 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/f7ee0b3cc4e3dd663e6d8e29.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-f7ee0b3cc4e3dd663e6d8e29</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-04T13:31:09+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -53,7 +53,6 @@
+ Department of Agriculture and Natural Resources
+ Department of Corrections
+ Department of Education
+-(1)
+ Department of Game, Fish &amp; Parks
+ (1)
+ Governor's Office of Economic Development
+@@ -63,7 +62,7 @@
+ Department of Human Services
+ (1)
+ Department of Labor and Regulation
+-(5)
++(4)
+ Department of Military
+ Department of Public Safety
+ Department of Revenue
+@@ -71,7 +70,7 @@
+ Department of Social Services
+ Department of Tourism
+ Department of Transportation
+-(2)
++(1)
+ Department of Tribal Relations
+ Department of Veterans Affairs
+ Public Utilities Commission</description><pubDate>Wed, 04 Nov 2026 13:31:09 GMT</pubDate></item></channel></rss>

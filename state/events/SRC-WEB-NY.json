@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "590778b9ddaf63ec04cae2af",
+    "observed_at": "2026-11-04T13:31:05+00:00",
+    "previous_sha256": "8bcd402f179272dd9246411c1c87a5ada7f856b457793d05415dcbaca64c62c5",
+    "current_sha256": "6352bccafdc26b6d56cfdf3bf292f8261ab35fab4364e4d607f41b6e49ae673f",
+    "diff": "--- previous\n+++ current\n@@ -15,7 +15,7 @@\n Register Submission Deadlines\n New York State Register submission deadlines are on Tuesdays at 11:59 PM.\n Rule Making Calendar\n-2026 Rule Making Calendar\n+2027 Rule Making Calendar\n What is Rule Making in New York?\n An overview of the rule making process in New York State.\n card image\n@@ -32,6 +32,7 @@\n Filter\n 2026\n 2025\n+2024\n 2023\n 2022\n 2021\n@@ -41,7 +42,6 @@\n 2017\n 2016\n 2015\n-2024\n 659\n results found\n State Rules",
+    "summary": "Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-04T13:31:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -15,7 +15,7 @@\n Register Submission Deadlines\n New York State Register submission deadlines are on Tuesdays at 11:59 PM.\n Rule Making Calendar\n-2026 Rule Making Calendar\n+2027 Rule Making Calendar\n What is Rule Making in New York?\n An overview of the rule making process in New York State.\n card image\n@@ -32,6 +32,7 @@\n Filter\n 2026\n 2025\n+2024\n 2023\n 2022\n 2021\n@@ -41,7 +42,6 @@\n 2017\n 2016\n 2015\n-2024\n 659\n results found\n State Rules"
+  }
+]

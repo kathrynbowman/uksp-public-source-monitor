@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | NM</title><link>https://www.srca.nm.gov/nmac-home/new-mexico-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | NM</title><link>https://www.srca.nm.gov/nmac-home/new-mexico-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/6d694af108bd5294176ab41d.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-6d694af108bd5294176ab41d</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-04T13:31:04+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -15,6 +15,8 @@
+ .
+ Online Issues
+ Volume XXXVII
++
++Volume XXXVII, Issue 21, November 3, 2026
+ 
+ Volume XXXVII, Issue 20, October 20, 2026
+ </description><pubDate>Wed, 04 Nov 2026 13:31:04 GMT</pubDate></item></channel></rss>

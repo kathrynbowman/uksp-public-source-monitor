@@ -1,2 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | NE</title><link>https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | NE</title><link>https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NE | SRC-WEB-NE</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NE/66274802253000e4b11fd957.html</link><guid isPermaLink="false">uksp-SRC-WEB-NE-66274802253000e4b11fd957</guid><description>Unverified content difference detected at https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx on 2026-11-04T13:31:02+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -37,28 +37,7 @@
+ If auxiliary aids or reasonable accommodations are needed to participate in a hearing, please call (402) 471-8417. Individuals who are deaf or hard of hearing may call DHHS via the Nebraska Relay System at 711 or (800) 833-7352 TDD at least two weeks before the hearing date. This notice is given in compliance with Neb. Rev. Stat. Section 84-907.
+ Public Hearings - Select from the list below to see details.
+ Sections on this page
+-October 22, 2026 / Citizenship/Alien Status and Identity (477 NAC 5)
+-10:00 A
+-.M. CST
+-Nebraska State Office Building
+-Lower Level
+-Meado
+-wlark Conference Room
+-301 Centennial Mall South
+-Lincoln, NE
+-The purpose of this hearing is to receive comments on proposed changes to
+-Title 477, Chapter 5​
+-of the Nebraska Administrative Code (NAC) –
+-Citizenship/Alien Status and Identity
+-.
+-The proposed changes update citiz</description><pubDate>Wed, 04 Nov 2026 13:31:02 GMT</pubDate></item></channel></rss>

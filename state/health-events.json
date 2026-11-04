@@ -1,5 +1,25 @@
 [
   {
+    "id": "3c2581dffbb702066c6c276b",
+    "kind": "restored",
+    "state_code": "NH",
+    "source_id": "SRC-WEB-NH",
+    "source_url": "https://www.gc.nh.gov/rules/",
+    "observed_at": "2026-11-04T13:31:15+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "90adcbb7263833452b1e36d3",
+    "kind": "restored",
+    "state_code": "MS",
+    "source_id": "SRC-WEB-MS",
+    "source_url": "https://www.mbp.ms.gov/news/proposed-regulations",
+    "observed_at": "2026-11-04T13:31:15+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "c205726bc54fe8618bee422d",
     "kind": "restored",
     "state_code": "TX",

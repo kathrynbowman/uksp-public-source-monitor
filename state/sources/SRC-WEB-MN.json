@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-MN",
   "state_code": "MN",
   "official_url": "https://mn.gov/boards/pharmacy/public/rulemaking.jsp",
-  "last_checked_utc": "2026-11-03T13:29:47+00:00",
-  "status": "UNCHANGED",
-  "last_success_utc": "2026-11-03T13:29:47+00:00",
-  "last_sha256": "ec9531d7e5fe1ae9f63f66b49d95c0d5cf2b064d175d023057cb0a1c34be67e9",
+  "last_checked_utc": "2026-11-04T13:30:58+00:00",
+  "status": "POTENTIAL_CHANGE",
+  "last_success_utc": "2026-11-04T13:30:58+00:00",
+  "last_sha256": "4a26a12b6fc47a1e3539c250832595fb1f2f63ce09f72ff7b65eacc001bc643c",
   "last_error": null,
   "consecutive_failures": 0
 }
