@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/f7ee0b3cc4e3dd663e6d8e29.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-f7ee0b3cc4e3dd663e6d8e29</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-04T13:31:09+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/426b8bca6d5aa7f053271084.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-426b8bca6d5aa7f053271084</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-05T13:36:52+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -62,11 +62,11 @@
+ Department of Human Services
+ (1)
+ Department of Labor and Regulation
+-(4)
++(1)
+ Department of Military
+ Department of Public Safety
+ Department of Revenue
+-(4)
++(2)
+ Department of Social Services
+ Department of Tourism
+ Department of Transportation
+@@ -74,7 +74,6 @@
+ Department of Tribal Relations
+ Department of Veterans Affairs
+ Public Utilities Commission
+-(1)
+ School and Public Lands
+ SD Retirement System
+ SD Housing Development Authority</description><pubDate>Thu, 05 Nov 2026 13:36:52 GMT</pubDate></item><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/84447bd147490c6706f146a7.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-84447bd147490c6706f146a7</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-05T13:36:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,6 +1,6 @@
+ State Register
+ State Register
+-The October 28, 2026/Vol. XLVIII, Issue 43 of the State Register is now available.
++The November 4, 2026/Vol. XLVIII, Issue 44 of the State Register is now available.
+ see the latest
+ Quarterly Index
+ Overview
+@@ -42,8 +42,10 @@
+ 2017
+ 2016
+ 2015
+-659
++660
+ results found
++State Rules
++November 4, 2026/Vol. XLVIII, Issue 44
+ State Rules
+ October 28, 2026/Vol. XLVIII, Issue 43 Quarterly Index
+ 2026
+@@ -62,5 +64,3 @@
+ September 16, 2026/Vol. XLVIII, Issue 37
+ State Rules
+ September 9, 2026/Vol. XLVIII, Issue 36
+-State Rules
+-September 2, 2026/Vol. XLVIII, Issue 35</description><pubDate>Thu, 05 Nov 2026 13:36:49 GMT</pubDate></item><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/f7ee0b3cc4e3dd663e6d8e29.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-f7ee0b3cc4e3dd663e6d8e29</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-04T13:31:09+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -53,7 +53,6 @@
  Department of Agriculture and Natural Resources

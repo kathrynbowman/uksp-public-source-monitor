@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-SD",
   "state_code": "SD",
   "official_url": "https://rules.sd.gov/",
-  "last_checked_utc": "2026-11-04T13:31:09+00:00",
+  "last_checked_utc": "2026-11-05T13:36:52+00:00",
   "status": "POTENTIAL_CHANGE",
-  "last_success_utc": "2026-11-04T13:31:09+00:00",
-  "last_sha256": "ee3cc0cecf69b5148fe9c4007a4bb632c39bc7bb9010e85f9f463824eaba9e89",
+  "last_success_utc": "2026-11-05T13:36:52+00:00",
+  "last_sha256": "8e863f59a29b8eac89e63ce33f901480bb22ae3620dd8222106dd98056c9d00a",
   "last_error": null,
   "consecutive_failures": 0
 }

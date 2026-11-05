@@ -62,11 +62,11 @@ Department of Health
 Department of Human Services
 (1)
 Department of Labor and Regulation
-(4)
+(1)
 Department of Military
 Department of Public Safety
 Department of Revenue
-(4)
+(2)
 Department of Social Services
 Department of Tourism
 Department of Transportation
@@ -74,7 +74,6 @@ Department of Transportation
 Department of Tribal Relations
 Department of Veterans Affairs
 Public Utilities Commission
-(1)
 School and Public Lands
 SD Retirement System
 SD Housing Development Authority

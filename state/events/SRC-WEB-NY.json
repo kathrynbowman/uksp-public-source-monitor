@@ -1,5 +1,13 @@
 [
   {
+    "id": "84447bd147490c6706f146a7",
+    "observed_at": "2026-11-05T13:36:49+00:00",
+    "previous_sha256": "6352bccafdc26b6d56cfdf3bf292f8261ab35fab4364e4d607f41b6e49ae673f",
+    "current_sha256": "af025f4c227867b798ab208c654cb280d7a61bd8a4e49035dce08d96f8b5b180",
+    "diff": "--- previous\n+++ current\n@@ -1,6 +1,6 @@\n State Register\n State Register\n-The October 28, 2026/Vol. XLVIII, Issue 43 of the State Register is now available.\n+The November 4, 2026/Vol. XLVIII, Issue 44 of the State Register is now available.\n see the latest\n Quarterly Index\n Overview\n@@ -42,8 +42,10 @@\n 2017\n 2016\n 2015\n-659\n+660\n results found\n+State Rules\n+November 4, 2026/Vol. XLVIII, Issue 44\n State Rules\n October 28, 2026/Vol. XLVIII, Issue 43 Quarterly Index\n 2026\n@@ -62,5 +64,3 @@\n September 16, 2026/Vol. XLVIII, Issue 37\n State Rules\n September 9, 2026/Vol. XLVIII, Issue 36\n-State Rules\n-September 2, 2026/Vol. XLVIII, Issue 35",
+    "summary": "Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-05T13:36:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -1,6 +1,6 @@\n State Register\n State Register\n-The October 28, 2026/Vol. XLVIII, Issue 43 of the State Register is now available.\n+The November 4, 2026/Vol. XLVIII, Issue 44 of the State Register is now available.\n see the latest\n Quarterly Index\n Overview\n@@ -42,8 +42,10 @@\n 2017\n 2016\n 2015\n-659\n+660\n results found\n+State Rules\n+November 4, 2026/Vol. XLVIII, Issue 44\n State Rules\n October 28, 2026/Vol. XLVIII, Issue 43 Quarterly Index\n 2026\n@@ -62,5 +64,3 @@\n September 16, 2026/Vol. XLVIII, Issue 37\n State Rules\n September 9, 2026/Vol. XLVIII, Issue 36\n-State Rules\n-September 2, 2026/Vol. XLVIII, Issue 35"
+  },
+  {
     "id": "590778b9ddaf63ec04cae2af",
     "observed_at": "2026-11-04T13:31:05+00:00",
     "previous_sha256": "8bcd402f179272dd9246411c1c87a5ada7f856b457793d05415dcbaca64c62c5",

@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | NY</title><link>https://dos.ny.gov/state-register</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/590778b9ddaf63ec04cae2af.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-590778b9ddaf63ec04cae2af</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-04T13:31:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | NY</title><link>https://dos.ny.gov/state-register</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/84447bd147490c6706f146a7.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-84447bd147490c6706f146a7</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-05T13:36:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,6 +1,6 @@
+ State Register
+ State Register
+-The October 28, 2026/Vol. XLVIII, Issue 43 of the State Register is now available.
++The November 4, 2026/Vol. XLVIII, Issue 44 of the State Register is now available.
+ see the latest
+ Quarterly Index
+ Overview
+@@ -42,8 +42,10 @@
+ 2017
+ 2016
+ 2015
+-659
++660
+ results found
++State Rules
++November 4, 2026/Vol. XLVIII, Issue 44
+ State Rules
+ October 28, 2026/Vol. XLVIII, Issue 43 Quarterly Index
+ 2026
+@@ -62,5 +64,3 @@
+ September 16, 2026/Vol. XLVIII, Issue 37
+ State Rules
+ September 9, 2026/Vol. XLVIII, Issue 36
+-State Rules
+-September 2, 2026/Vol. XLVIII, Issue 35</description><pubDate>Thu, 05 Nov 2026 13:36:49 GMT</pubDate></item><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/590778b9ddaf63ec04cae2af.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-590778b9ddaf63ec04cae2af</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-04T13:31:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -15,7 +15,7 @@
  Register Submission Deadlines

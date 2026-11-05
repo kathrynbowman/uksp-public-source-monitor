@@ -1,5 +1,13 @@
 [
   {
+    "id": "426b8bca6d5aa7f053271084",
+    "observed_at": "2026-11-05T13:36:52+00:00",
+    "previous_sha256": "ee3cc0cecf69b5148fe9c4007a4bb632c39bc7bb9010e85f9f463824eaba9e89",
+    "current_sha256": "8e863f59a29b8eac89e63ce33f901480bb22ae3620dd8222106dd98056c9d00a",
+    "diff": "--- previous\n+++ current\n@@ -62,11 +62,11 @@\n Department of Human Services\n (1)\n Department of Labor and Regulation\n-(4)\n+(1)\n Department of Military\n Department of Public Safety\n Department of Revenue\n-(4)\n+(2)\n Department of Social Services\n Department of Tourism\n Department of Transportation\n@@ -74,7 +74,6 @@\n Department of Tribal Relations\n Department of Veterans Affairs\n Public Utilities Commission\n-(1)\n School and Public Lands\n SD Retirement System\n SD Housing Development Authority",
+    "summary": "Unverified content difference detected at https://rules.sd.gov/ on 2026-11-05T13:36:52+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -62,11 +62,11 @@\n Department of Human Services\n (1)\n Department of Labor and Regulation\n-(4)\n+(1)\n Department of Military\n Department of Public Safety\n Department of Revenue\n-(4)\n+(2)\n Department of Social Services\n Department of Tourism\n Department of Transportation\n@@ -74,7 +74,6 @@\n Department of Tribal Relations\n Department of Veterans Affairs\n Public Utilities Commission\n-(1)\n School and Public Lands\n SD Retirement System\n SD Housing Development Authority"
+  },
+  {
     "id": "f7ee0b3cc4e3dd663e6d8e29",
     "observed_at": "2026-11-04T13:31:09+00:00",
     "previous_sha256": "d6bcde24e98b5d04ba142f707a0378c5d74456144a719059ccb9179e962aaab9",
