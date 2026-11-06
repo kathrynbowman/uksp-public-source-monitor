@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | NM</title><link>https://www.srca.nm.gov/nmac-home/new-mexico-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/6d694af108bd5294176ab41d.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-6d694af108bd5294176ab41d</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-04T13:31:04+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | NM</title><link>https://www.srca.nm.gov/nmac-home/new-mexico-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/f09550432501c5b1ac4bf1c8.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-f09550432501c5b1ac4bf1c8</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-06T13:29:47+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -23,7 +23,7 @@
+ Volume XXXVII, Issue 19, October 6, 2026
+ Other Issues
+ 
+-Cumulative Index 2026 (Issues 1 - 18)
++Cumulative Index 2026 (Issues 1 - 21)
+ 
+ Previous Issues 1 - 24 : Volume XXXVII - 2026
+ </description><pubDate>Fri, 06 Nov 2026 13:29:47 GMT</pubDate></item><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/6d694af108bd5294176ab41d.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-6d694af108bd5294176ab41d</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-04T13:31:04+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -15,6 +15,8 @@
  .

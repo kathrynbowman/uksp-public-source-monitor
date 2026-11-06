@@ -1,5 +1,15 @@
 [
   {
+    "id": "30374040455beaca7470c83b",
+    "kind": "restored",
+    "state_code": "TX",
+    "source_id": "SRC-WEB-TX",
+    "source_url": "https://www.pharmacy.texas.gov/Rules_Recent_Proposed_Changes.asp",
+    "observed_at": "2026-11-06T13:29:59+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "ed3669f43166ace5efbda074",
     "kind": "failure",
     "state_code": "TX",

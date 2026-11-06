@@ -1,5 +1,13 @@
 [
   {
+    "id": "8f006f52d897242f9cd76d61",
+    "observed_at": "2026-11-06T13:29:53+00:00",
+    "previous_sha256": "8e863f59a29b8eac89e63ce33f901480bb22ae3620dd8222106dd98056c9d00a",
+    "current_sha256": "2bb3d46f45cd5c76bc7f0bc04fde9a8f13d0652fe229f4e914c005de2fc60475",
+    "diff": "--- previous\n+++ current\n@@ -58,9 +58,8 @@\n Governor's Office of Economic Development\n (13)\n Department of Health\n-(5)\n+(1)\n Department of Human Services\n-(1)\n Department of Labor and Regulation\n (1)\n Department of Military",
+    "summary": "Unverified content difference detected at https://rules.sd.gov/ on 2026-11-06T13:29:53+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -58,9 +58,8 @@\n Governor's Office of Economic Development\n (13)\n Department of Health\n-(5)\n+(1)\n Department of Human Services\n-(1)\n Department of Labor and Regulation\n (1)\n Department of Military"
+  },
+  {
     "id": "426b8bca6d5aa7f053271084",
     "observed_at": "2026-11-05T13:36:52+00:00",
     "previous_sha256": "ee3cc0cecf69b5148fe9c4007a4bb632c39bc7bb9010e85f9f463824eaba9e89",

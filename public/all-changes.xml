@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/426b8bca6d5aa7f053271084.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-426b8bca6d5aa7f053271084</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-05T13:36:52+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] WI | SRC-WEB-WI</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WI/0dc1ae1cc2626a5c3380cc7a.html</link><guid isPermaLink="false">uksp-SRC-WEB-WI-0dc1ae1cc2626a5c3380cc7a</guid><description>Unverified content difference detected at https://dsps.wi.gov/rules-statutes/pending-rules/ on 2026-11-06T13:29:57+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,4 +1,3 @@
+-SYSTEM MAINTENANCE: Please note that LicensE will be offline for scheduled maintenance starting at 6:00 p.m. on Wednesday, November 4, 2026. LicensE will be back online once maintenance is completed, which is expected later that same evening.
+ General
+ Pending Rules
+ Review upcoming information and status updates on rule projects.</description><pubDate>Fri, 06 Nov 2026 13:29:57 GMT</pubDate></item><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/8f006f52d897242f9cd76d61.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-8f006f52d897242f9cd76d61</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-06T13:29:53+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -58,9 +58,8 @@
+ Governor's Office of Economic Development
+ (13)
+ Department of Health
+-(5)
++(1)
+ Department of Human Services
+-(1)
+ Department of Labor and Regulation
+ (1)
+ Department of Military</description><pubDate>Fri, 06 Nov 2026 13:29:53 GMT</pubDate></item><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/d763356b0b4cc1bf3df94328.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-d763356b0b4cc1bf3df94328</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-06T13:29:50+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -6,8 +6,8 @@
+ VIEW CURRENT ISSUE
+ of the
+ BULLETIN
+-Volume 56 Number 44
+-Saturday, October 31, 2026
++Volume 56 Number 45
++Saturday, November 7, 2026
+ BROWSE
+ CODE
+ Select a Title
+@@ -141,6 +141,8 @@
+ - Pages 6867-7002
+ Number 44 - October 31, 2026
+ - Pages 7003-7240
++Number 45 - November 7, 2026
++- Pages 7241-7424
+ Volume 55
+ Number 1 - January 4, 2025
+ - Pages 1-230</description><pubDate>Fri, 06 Nov 2026 13:29:50 GMT</pubDate></item><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/f09550432501c5b1ac4bf1c8.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-f09550432501c5b1ac4bf1c8</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-06T13:29:47+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -23,7 +23,7 @@
+ Volume XXXVII, Issue 19, October 6, 2026
+ Other Issues
+ 
+-Cumulative Index 2026 (Issues 1 - 18)
++Cumulative Index 2026 (Issues 1 - 21)
+ 
+ Previous Issues 1 - 24 : Volume XXXVII - 2026
+ </description><pubDate>Fri, 06 Nov 2026 13:29:47 GMT</pubDate></item><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/426b8bca6d5aa7f053271084.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-426b8bca6d5aa7f053271084</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-05T13:36:52+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -62,11 +62,11 @@
  Department of Human Services

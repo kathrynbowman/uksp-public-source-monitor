@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/426b8bca6d5aa7f053271084.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-426b8bca6d5aa7f053271084</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-05T13:36:52+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/8f006f52d897242f9cd76d61.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-8f006f52d897242f9cd76d61</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-06T13:29:53+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -58,9 +58,8 @@
+ Governor's Office of Economic Development
+ (13)
+ Department of Health
+-(5)
++(1)
+ Department of Human Services
+-(1)
+ Department of Labor and Regulation
+ (1)
+ Department of Military</description><pubDate>Fri, 06 Nov 2026 13:29:53 GMT</pubDate></item><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/426b8bca6d5aa7f053271084.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-426b8bca6d5aa7f053271084</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-05T13:36:52+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -62,11 +62,11 @@
  Department of Human Services
