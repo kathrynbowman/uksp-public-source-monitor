@@ -2,8 +2,8 @@
   "source_id": "SRC-WEB-MO",
   "state_code": "MO",
   "official_url": "https://www.pr.missouri.gov/pharmacists-rules-statutes.asp",
-  "last_checked_utc": "2026-11-06T13:29:42+00:00",
+  "last_checked_utc": "2026-11-07T13:15:34+00:00",
   "status": "FAILED",
   "last_error": "HTTPSConnectionPool(host='www.pr.missouri.gov', port=443): Max retries exceeded with url: /pharmacists-rules-statutes.asp (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))",
-  "consecutive_failures": 14
+  "consecutive_failures": 15
 }

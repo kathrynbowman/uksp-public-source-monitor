@@ -1,5 +1,15 @@
 [
   {
+    "id": "44840b1549fbe8d1403dfd93",
+    "kind": "failure",
+    "state_code": "ID",
+    "source_id": "SRC-WEB-ID",
+    "source_url": "https://dopl.idaho.gov/bop/bop-statutes-rules-and-guidance/",
+    "observed_at": "2026-11-07T13:15:51+00:00",
+    "error": "500 Server Error: Internal Server Error for url: https://dopl.idaho.gov/bop/bop-statutes-rules-and-guidance/",
+    "consecutive_failures": 1
+  },
+  {
     "id": "30374040455beaca7470c83b",
     "kind": "restored",
     "state_code": "TX",

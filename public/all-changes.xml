@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] WI | SRC-WEB-WI</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WI/0dc1ae1cc2626a5c3380cc7a.html</link><guid isPermaLink="false">uksp-SRC-WEB-WI-0dc1ae1cc2626a5c3380cc7a</guid><description>Unverified content difference detected at https://dsps.wi.gov/rules-statutes/pending-rules/ on 2026-11-06T13:29:57+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] CO | SRC-WEB-CO</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-CO/159f8053c1481c1979d95741.html</link><guid isPermaLink="false">uksp-SRC-WEB-CO-159f8053c1481c1979d95741</guid><description>Unverified content difference detected at https://www.sos.state.co.us/CCR/Welcome.do on 2026-11-07T13:15:22+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -17,7 +17,7 @@
+ Notices of rulemaking, proposed rules, new and amended rules, and Attorney General rules opinions are published twice monthly
+ in the companion publication, the Colorado Register.
+ The Code of Colorado Regulations is current with administrative rules effective on or before
+-09/13/2026.
++09/14/2026.
+ Search
+ - to get a rule PDF.
+ Browse</description><pubDate>Sat, 07 Nov 2026 13:15:22 GMT</pubDate></item><item><title>[Potential source change] WI | SRC-WEB-WI</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WI/0dc1ae1cc2626a5c3380cc7a.html</link><guid isPermaLink="false">uksp-SRC-WEB-WI-0dc1ae1cc2626a5c3380cc7a</guid><description>Unverified content difference detected at https://dsps.wi.gov/rules-statutes/pending-rules/ on 2026-11-06T13:29:57+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -1,4 +1,3 @@
 -SYSTEM MAINTENANCE: Please note that LicensE will be offline for scheduled maintenance starting at 6:00 p.m. on Wednesday, November 4, 2026. LicensE will be back online once maintenance is completed, which is expected later that same evening.
