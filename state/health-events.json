@@ -1,5 +1,15 @@
 [
   {
+    "id": "fcf744b422508b376645edf9",
+    "kind": "restored",
+    "state_code": "ID",
+    "source_id": "SRC-WEB-ID",
+    "source_url": "https://dopl.idaho.gov/bop/bop-statutes-rules-and-guidance/",
+    "observed_at": "2026-11-08T13:16:15+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "44840b1549fbe8d1403dfd93",
     "kind": "failure",
     "state_code": "ID",
