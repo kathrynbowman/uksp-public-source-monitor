@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-AZ",
   "state_code": "AZ",
   "official_url": "https://apps.azsos.gov/public_services/register/2026/contents.htm",
-  "last_checked_utc": "2026-11-08T13:15:44+00:00",
+  "last_checked_utc": "2026-11-09T13:37:33+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-11-08T13:15:44+00:00",
+  "last_success_utc": "2026-11-09T13:37:33+00:00",
   "last_sha256": "ff6e6aa31284d7257168375fe270b9c5a45894f6a93040f8643b40ab59bce061"
 }
