@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | MN</title><link>https://mn.gov/boards/pharmacy/public/rulemaking.jsp</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/25f999e1053ec03ce9ad1e7c.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-25f999e1053ec03ce9ad1e7c</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-04T13:30:58+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | MN</title><link>https://mn.gov/boards/pharmacy/public/rulemaking.jsp</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/56fe075853ccec2103e29414.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-56fe075853ccec2103e29414</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-10T13:28:31+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,4 +1,6 @@
+ skip to content
++close
++The Board office will be CLOSED on Wednesday, November 11th in honor of the Veterans Day holiday. The office will reopen at 8am on Thursday, November 12th.
+ Primary navigation
+ Rulemaking
+ Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:</description><pubDate>Tue, 10 Nov 2026 13:28:31 GMT</pubDate></item><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/25f999e1053ec03ce9ad1e7c.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-25f999e1053ec03ce9ad1e7c</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-04T13:30:58+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -1,18 +1,22 @@
  skip to content

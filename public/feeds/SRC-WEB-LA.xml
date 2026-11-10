@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | LA</title><link>https://www.pharmacy.la.gov/page/regulatory-projects</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | LA</title><link>https://www.pharmacy.la.gov/page/regulatory-projects</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] LA | SRC-WEB-LA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-LA/d566ba9de5ab45c0b5304808.html</link><guid isPermaLink="false">uksp-SRC-WEB-LA-d566ba9de5ab45c0b5304808</guid><description>Unverified content difference detected at https://www.pharmacy.la.gov/page/regulatory-projects on 2026-11-10T13:28:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -69,6 +69,10 @@
+ Louisiana Register
+ .
+ 07-24-2026 - Distributed electronic Notice of Rulemaking Activity.
++10-26-2026 - OLRP approved the proposed regulatory project.
++11-09-2026 - Submitted Insertion Order to the
++Louisiana Register
++for publication of the Final Rule in the November 2026 edition.
+ 2026-08 - Emergency Medical Services (EMS) Agencies
+ [Source:
+ Regulatory Proposal 2026-D</description><pubDate>Tue, 10 Nov 2026 13:28:17 GMT</pubDate></item></channel></rss>

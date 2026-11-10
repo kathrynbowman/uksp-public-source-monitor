@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/982c65c03e534c30572457d2.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-982c65c03e534c30572457d2</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-09T13:37:43+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/56fe075853ccec2103e29414.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-56fe075853ccec2103e29414</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-10T13:28:31+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,4 +1,6 @@
+ skip to content
++close
++The Board office will be CLOSED on Wednesday, November 11th in honor of the Veterans Day holiday. The office will reopen at 8am on Thursday, November 12th.
+ Primary navigation
+ Rulemaking
+ Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:</description><pubDate>Tue, 10 Nov 2026 13:28:31 GMT</pubDate></item><item><title>[Potential source change] LA | SRC-WEB-LA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-LA/d566ba9de5ab45c0b5304808.html</link><guid isPermaLink="false">uksp-SRC-WEB-LA-d566ba9de5ab45c0b5304808</guid><description>Unverified content difference detected at https://www.pharmacy.la.gov/page/regulatory-projects on 2026-11-10T13:28:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -69,6 +69,10 @@
+ Louisiana Register
+ .
+ 07-24-2026 - Distributed electronic Notice of Rulemaking Activity.
++10-26-2026 - OLRP approved the proposed regulatory project.
++11-09-2026 - Submitted Insertion Order to the
++Louisiana Register
++for publication of the Final Rule in the November 2026 edition.
+ 2026-08 - Emergency Medical Services (EMS) Agencies
+ [Source:
+ Regulatory Proposal 2026-D</description><pubDate>Tue, 10 Nov 2026 13:28:17 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/982c65c03e534c30572457d2.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-982c65c03e534c30572457d2</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-09T13:37:43+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -19,7 +19,7 @@
  Agency Meeting and Hearing Notices

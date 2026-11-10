@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "d566ba9de5ab45c0b5304808",
+    "observed_at": "2026-11-10T13:28:17+00:00",
+    "previous_sha256": "271e4c44298219eb8d534ad87f9d2d86ff7dbb68dd5e7bc8010a8b4f2322ec1d",
+    "current_sha256": "88ae5dedf48004955a6da1aa68afd6bcc240870fb22d036cbfdf7db407516d8c",
+    "diff": "--- previous\n+++ current\n@@ -69,6 +69,10 @@\n Louisiana Register\n .\n 07-24-2026 - Distributed electronic Notice of Rulemaking Activity.\n+10-26-2026 - OLRP approved the proposed regulatory project.\n+11-09-2026 - Submitted Insertion Order to the\n+Louisiana Register\n+for publication of the Final Rule in the November 2026 edition.\n 2026-08 - Emergency Medical Services (EMS) Agencies\n [Source:\n Regulatory Proposal 2026-D",
+    "summary": "Unverified content difference detected at https://www.pharmacy.la.gov/page/regulatory-projects on 2026-11-10T13:28:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -69,6 +69,10 @@\n Louisiana Register\n .\n 07-24-2026 - Distributed electronic Notice of Rulemaking Activity.\n+10-26-2026 - OLRP approved the proposed regulatory project.\n+11-09-2026 - Submitted Insertion Order to the\n+Louisiana Register\n+for publication of the Final Rule in the November 2026 edition.\n 2026-08 - Emergency Medical Services (EMS) Agencies\n [Source:\n Regulatory Proposal 2026-D"
+  }
+]
