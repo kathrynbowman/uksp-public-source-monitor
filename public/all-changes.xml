@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/56fe075853ccec2103e29414.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-56fe075853ccec2103e29414</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-10T13:28:31+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/e43393599ea8ab69e6329db3.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-e43393599ea8ab69e6329db3</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-11T13:34:36+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,8 +1,7 @@
+ State Register
+ State Register
+-The November 4, 2026/Vol. XLVIII, Issue 44 of the State Register is now available.
++The November 10, 2026/Vol. XLVIII, Issue 45 of the State Register is now available.
+ see the latest
+-Quarterly Index
+ Overview
+ The Division of Administrative Rules provides vital web and publication services to all of the divisions within the Department of State as well as supporting New York's rule making process. DAR produces the weekly State Register that provides information on the rule making activities of state agencies. The division also is the official compiler of state agency rules and regulations (NYCRR) and it publishes information on the Great Seal of New York, the State Constitution, and other official state documents.
+ State Register
+@@ -42,8 +41,10 @@
+ 2017
+ 2016
+ 2015
+-660
++661
+ results found
++2026
++November 10, 202</description><pubDate>Wed, 11 Nov 2026 13:34:36 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/d552652e49a9bcdbefb0f10c.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-d552652e49a9bcdbefb0f10c</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-11T13:34:29+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -19,7 +19,7 @@
+ Agency Meeting and Hearing Notices
+ Other documents considered to be in the public interest
+ Order Print and PDF Copies
+-The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 09, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.
++The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 11, 2026. The text appearing here is not the offi</description><pubDate>Wed, 11 Nov 2026 13:34:29 GMT</pubDate></item><item><title>[Potential source change] CO | SRC-WEB-CO</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-CO/8f5a990f0ba46e3a35d43670.html</link><guid isPermaLink="false">uksp-SRC-WEB-CO-8f5a990f0ba46e3a35d43670</guid><description>Unverified content difference detected at https://www.sos.state.co.us/CCR/Welcome.do on 2026-11-11T13:34:20+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -17,7 +17,7 @@
+ Notices of rulemaking, proposed rules, new and amended rules, and Attorney General rules opinions are published twice monthly
+ in the companion publication, the Colorado Register.
+ The Code of Colorado Regulations is current with administrative rules effective on or before
+-09/14/2026.
++09/30/2026.
+ Search
+ - to get a rule PDF.
+ Browse</description><pubDate>Wed, 11 Nov 2026 13:34:20 GMT</pubDate></item><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/9f858d4bf4341524177dc577.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-9f858d4bf4341524177dc577</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-11T13:34:19+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 46
++Friday, November 13, 2026
++p. 2891-2950
+ Authenticated PDF
+ Issue 45
+ Friday, November 6, 2026</description><pubDate>Wed, 11 Nov 2026 13:34:19 GMT</pubDate></item><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/56fe075853ccec2103e29414.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-56fe075853ccec2103e29414</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-10T13:28:31+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -1,4 +1,6 @@
  skip to content

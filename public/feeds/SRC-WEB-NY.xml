@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | NY</title><link>https://dos.ny.gov/state-register</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/84447bd147490c6706f146a7.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-84447bd147490c6706f146a7</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-05T13:36:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | NY</title><link>https://dos.ny.gov/state-register</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/e43393599ea8ab69e6329db3.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-e43393599ea8ab69e6329db3</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-11T13:34:36+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,8 +1,7 @@
+ State Register
+ State Register
+-The November 4, 2026/Vol. XLVIII, Issue 44 of the State Register is now available.
++The November 10, 2026/Vol. XLVIII, Issue 45 of the State Register is now available.
+ see the latest
+-Quarterly Index
+ Overview
+ The Division of Administrative Rules provides vital web and publication services to all of the divisions within the Department of State as well as supporting New York's rule making process. DAR produces the weekly State Register that provides information on the rule making activities of state agencies. The division also is the official compiler of state agency rules and regulations (NYCRR) and it publishes information on the Great Seal of New York, the State Constitution, and other official state documents.
+ State Register
+@@ -42,8 +41,10 @@
+ 2017
+ 2016
+ 2015
+-660
++661
+ results found
++2026
++November 10, 202</description><pubDate>Wed, 11 Nov 2026 13:34:36 GMT</pubDate></item><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/84447bd147490c6706f146a7.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-84447bd147490c6706f146a7</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-05T13:36:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -1,6 +1,6 @@
  State Register

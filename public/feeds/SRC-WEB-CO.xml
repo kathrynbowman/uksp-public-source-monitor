@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | CO</title><link>https://www.sos.state.co.us/CCR/Welcome.do</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] CO | SRC-WEB-CO</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-CO/159f8053c1481c1979d95741.html</link><guid isPermaLink="false">uksp-SRC-WEB-CO-159f8053c1481c1979d95741</guid><description>Unverified content difference detected at https://www.sos.state.co.us/CCR/Welcome.do on 2026-11-07T13:15:22+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | CO</title><link>https://www.sos.state.co.us/CCR/Welcome.do</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] CO | SRC-WEB-CO</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-CO/8f5a990f0ba46e3a35d43670.html</link><guid isPermaLink="false">uksp-SRC-WEB-CO-8f5a990f0ba46e3a35d43670</guid><description>Unverified content difference detected at https://www.sos.state.co.us/CCR/Welcome.do on 2026-11-11T13:34:20+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -17,7 +17,7 @@
+ Notices of rulemaking, proposed rules, new and amended rules, and Attorney General rules opinions are published twice monthly
+ in the companion publication, the Colorado Register.
+ The Code of Colorado Regulations is current with administrative rules effective on or before
+-09/14/2026.
++09/30/2026.
+ Search
+ - to get a rule PDF.
+ Browse</description><pubDate>Wed, 11 Nov 2026 13:34:20 GMT</pubDate></item><item><title>[Potential source change] CO | SRC-WEB-CO</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-CO/159f8053c1481c1979d95741.html</link><guid isPermaLink="false">uksp-SRC-WEB-CO-159f8053c1481c1979d95741</guid><description>Unverified content difference detected at https://www.sos.state.co.us/CCR/Welcome.do on 2026-11-07T13:15:22+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -17,7 +17,7 @@
  Notices of rulemaking, proposed rules, new and amended rules, and Attorney General rules opinions are published twice monthly
