@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-CO",
   "state_code": "CO",
   "official_url": "https://www.sos.state.co.us/CCR/Welcome.do",
-  "last_checked_utc": "2026-11-12T13:37:20+00:00",
+  "last_checked_utc": "2026-11-13T13:32:28+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-11-12T13:37:20+00:00",
+  "last_success_utc": "2026-11-13T13:32:28+00:00",
   "last_sha256": "9a79e7d193cd27162059475d8c42755e660ee28c5aa671db1d32308122d1cee2",
   "last_error": null,
   "consecutive_failures": 0
