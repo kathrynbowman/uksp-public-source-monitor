@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-WA",
   "state_code": "WA",
   "official_url": "https://leg.wa.gov/state-laws-and-rules/washington-state-register/",
-  "last_checked_utc": "2026-11-13T13:32:50+00:00",
-  "status": "UNCHANGED",
-  "last_success_utc": "2026-11-13T13:32:50+00:00",
-  "last_sha256": "a61c99869f8e0afa7a5d3c37fd6829bfc1d7da16a4e8947a019ce8ad283b83fb",
+  "last_checked_utc": "2026-11-14T13:16:08+00:00",
+  "status": "POTENTIAL_CHANGE",
+  "last_success_utc": "2026-11-14T13:16:08+00:00",
+  "last_sha256": "96748d3bb061e5a933bff96e600e611230dc8ab7bdd2c375370b11cc44347280",
   "last_error": null,
   "consecutive_failures": 0
 }

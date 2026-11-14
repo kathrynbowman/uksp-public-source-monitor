@@ -1,5 +1,13 @@
 [
   {
+    "id": "158c5893965eb8428c99652e",
+    "observed_at": "2026-11-14T13:16:05+00:00",
+    "previous_sha256": "dadfb7c604e09daf2c6be7426378d01b2f0ec360258b812564aa2e8936a50e86",
+    "current_sha256": "35fd6dd0017b067918f4a0b954dcb8d1ab62fd7f0ab32d0cdb223ebed56ff3d8",
+    "diff": "--- previous\n+++ current\n@@ -23,6 +23,8 @@\n Utah State Bulletin\n are archived and available for reference, research, or recordkeeping.\n The 2026 issues of the Bulletin are available in PDF (official) format.\n+Vol. 2026, No. 22 (11/15/2026) PDF\n+MD5 Hash: 802491980894bee4fa0c5a5407d22459\n Vol. 2026, No. 21 (11/01/2026) PDF\n MD5 Hash: 661c210fcf4cb8b44187b256122f5e15\n Vol. 2026, No. 20 (10/15/2026) PDF",
+    "summary": "Unverified content difference detected at https://rules.utah.gov/publications/utah-state-bulletin/ on 2026-11-14T13:16:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -23,6 +23,8 @@\n Utah State Bulletin\n are archived and available for reference, research, or recordkeeping.\n The 2026 issues of the Bulletin are available in PDF (official) format.\n+Vol. 2026, No. 22 (11/15/2026) PDF\n+MD5 Hash: 802491980894bee4fa0c5a5407d22459\n Vol. 2026, No. 21 (11/01/2026) PDF\n MD5 Hash: 661c210fcf4cb8b44187b256122f5e15\n Vol. 2026, No. 20 (10/15/2026) PDF"
+  },
+  {
     "id": "b7a0c7e5d39587c77985e1a8",
     "observed_at": "2026-11-03T13:30:19+00:00",
     "previous_sha256": "0917434ee34bd2e370b1961340480d4d11b2c92ddba91bca6d55da338e01ccaa",

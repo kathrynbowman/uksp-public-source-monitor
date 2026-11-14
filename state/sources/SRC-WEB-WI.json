@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-WI",
   "state_code": "WI",
   "official_url": "https://dsps.wi.gov/rules-statutes/pending-rules/",
-  "last_checked_utc": "2026-11-13T13:32:51+00:00",
-  "status": "POTENTIAL_CHANGE",
-  "last_success_utc": "2026-11-13T13:32:51+00:00",
+  "last_checked_utc": "2026-11-14T13:16:09+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-11-14T13:16:09+00:00",
   "last_sha256": "9c32d0052ca586403f7c1bdc32d523f45d72e171f10aea5b5a7931241cd32c5c",
   "last_error": null,
   "consecutive_failures": 0

@@ -1,2 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | WA</title><link>https://leg.wa.gov/state-laws-and-rules/washington-state-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | WA</title><link>https://leg.wa.gov/state-laws-and-rules/washington-state-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] WA | SRC-WEB-WA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WA/6c908ceca2d806e5f070da15.html</link><guid isPermaLink="false">uksp-SRC-WEB-WA-6c908ceca2d806e5f070da15</guid><description>Unverified content difference detected at https://leg.wa.gov/state-laws-and-rules/washington-state-register/ on 2026-11-14T13:16:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -5,7 +5,7 @@
+ Washington State Register
+ Washington State Register
+ The Washington State Register is an official publication for rule-making activity by state agencies in Washington. It includes notices of proposed and final rules, public meetings, and other legal information.
+-Publication current through October 21, 2026 and 26-21 register issue.
++Publication current through November 4, 2026 and 26-22 register issue.
+ The Statute Law Commit​tee declares that the certified PDF Register documents ​on the Code Reviser's website constitute the official publication of the Washington State Register.
+ Find specific WSR documents
+ Search rules by register number (e.g. 01-01-000)
+@@ -22,7 +22,7 @@
+ WAC/WSR table
+ (If you know the WAC number)
+ Rule-making information
+-Rule-making help for state agencies
++Rule-making help
+ This page guides Washington State agencies thro</description><pubDate>Sat, 14 Nov 2026 13:16:08 GMT</pubDate></item></channel></rss>

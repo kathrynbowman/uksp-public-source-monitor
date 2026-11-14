@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-NM",
   "state_code": "NM",
   "official_url": "https://www.srca.nm.gov/nmac-home/new-mexico-register/",
-  "last_checked_utc": "2026-11-13T13:32:43+00:00",
+  "last_checked_utc": "2026-11-14T13:15:59+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-11-13T13:32:43+00:00",
+  "last_success_utc": "2026-11-14T13:15:59+00:00",
   "last_sha256": "70b51a96cf1cc622b881083d0daf6de20a7f5dcb3941eb4bce746300b677abf2",
   "last_error": null,
   "consecutive_failures": 0
