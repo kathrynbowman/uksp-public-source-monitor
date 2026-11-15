@@ -1,5 +1,15 @@
 [
   {
+    "id": "ff3f097f9921fc0c075cf5da",
+    "kind": "failure",
+    "state_code": "IL",
+    "source_id": "SRC-WEB-IL",
+    "source_url": "https://idfpr.illinois.gov/profs/rules/proprules.html",
+    "observed_at": "2026-11-15T13:18:04+00:00",
+    "error": "HTTPSConnectionPool(host='idfpr.illinois.gov', port=443): Max retries exceeded with url: /profs/rules/proprules.html (Caused by NameResolutionError(\"HTTPSConnection(host='idfpr.illinois.gov', port=443): Failed to resolve 'idfpr.illinois.gov' ([Errno -3] Temporary failure in name resolution)\"))",
+    "consecutive_failures": 1
+  },
+  {
     "id": "fcf744b422508b376645edf9",
     "kind": "restored",
     "state_code": "ID",
