@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "412bbcfe9c39a2bac431c1d4",
+    "observed_at": "2026-11-16T15:29:53+00:00",
+    "previous_sha256": "75e513142e83592d212ad6f889c4770c03a668019d61be36e85602e85383e2a7",
+    "current_sha256": "b14455caf29fb7d96b08e9c6cb388f56bc96d44a59ea627fd1f6662c3b50e4ee",
+    "diff": "--- previous\n+++ current\n@@ -38,7 +38,6 @@\n Newsletters\n Prescription Monitoring Program\n Disposing of Unused Medication\n-MPJE Study Material\n DE Law for Pharmacy\n DE Law for Controlled Substances\n Pharmacy Rules & Regulations",
+    "summary": "Unverified content difference detected at https://dpr.delaware.gov/boards/pharmacy/ on 2026-11-16T15:29:53+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -38,7 +38,6 @@\n Newsletters\n Prescription Monitoring Program\n Disposing of Unused Medication\n-MPJE Study Material\n DE Law for Pharmacy\n DE Law for Controlled Substances\n Pharmacy Rules & Regulations"
+  }
+]

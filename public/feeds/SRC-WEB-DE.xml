@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | DE</title><link>https://dpr.delaware.gov/boards/pharmacy/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | DE</title><link>https://dpr.delaware.gov/boards/pharmacy/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] DE | SRC-WEB-DE</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-DE/412bbcfe9c39a2bac431c1d4.html</link><guid isPermaLink="false">uksp-SRC-WEB-DE-412bbcfe9c39a2bac431c1d4</guid><description>Unverified content difference detected at https://dpr.delaware.gov/boards/pharmacy/ on 2026-11-16T15:29:53+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -38,7 +38,6 @@
+ Newsletters
+ Prescription Monitoring Program
+ Disposing of Unused Medication
+-MPJE Study Material
+ DE Law for Pharmacy
+ DE Law for Controlled Substances
+ Pharmacy Rules &amp; Regulations</description><pubDate>Mon, 16 Nov 2026 15:29:53 GMT</pubDate></item></channel></rss>

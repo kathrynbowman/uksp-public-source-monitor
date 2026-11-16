@@ -1,5 +1,15 @@
 [
   {
+    "id": "3f427a9e7f13a21adb8bdb9d",
+    "kind": "restored",
+    "state_code": "IL",
+    "source_id": "SRC-WEB-IL",
+    "source_url": "https://idfpr.illinois.gov/profs/rules/proprules.html",
+    "observed_at": "2026-11-16T15:30:15+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "ff3f097f9921fc0c075cf5da",
     "kind": "failure",
     "state_code": "IL",

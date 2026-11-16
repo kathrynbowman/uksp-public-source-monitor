@@ -1,5 +1,13 @@
 [
   {
+    "id": "214524ba5d99fd65fb8a2779",
+    "observed_at": "2026-11-16T15:30:10+00:00",
+    "previous_sha256": "2bb3d46f45cd5c76bc7f0bc04fde9a8f13d0652fe229f4e914c005de2fc60475",
+    "current_sha256": "455db3aa095be5d4e8cc77d86fea28ec2a206f7af39266d60f24994d865d19ad",
+    "diff": "--- previous\n+++ current\n@@ -61,7 +61,6 @@\n (1)\n Department of Human Services\n Department of Labor and Regulation\n-(1)\n Department of Military\n Department of Public Safety\n Department of Revenue",
+    "summary": "Unverified content difference detected at https://rules.sd.gov/ on 2026-11-16T15:30:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -61,7 +61,6 @@\n (1)\n Department of Human Services\n Department of Labor and Regulation\n-(1)\n Department of Military\n Department of Public Safety\n Department of Revenue"
+  },
+  {
     "id": "8f006f52d897242f9cd76d61",
     "observed_at": "2026-11-06T13:29:53+00:00",
     "previous_sha256": "8e863f59a29b8eac89e63ce33f901480bb22ae3620dd8222106dd98056c9d00a",

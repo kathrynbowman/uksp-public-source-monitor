@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] WA | SRC-WEB-WA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WA/6c908ceca2d806e5f070da15.html</link><guid isPermaLink="false">uksp-SRC-WEB-WA-6c908ceca2d806e5f070da15</guid><description>Unverified content difference detected at https://leg.wa.gov/state-laws-and-rules/washington-state-register/ on 2026-11-14T13:16:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/214524ba5d99fd65fb8a2779.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-214524ba5d99fd65fb8a2779</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-16T15:30:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -61,7 +61,6 @@
+ (1)
+ Department of Human Services
+ Department of Labor and Regulation
+-(1)
+ Department of Military
+ Department of Public Safety
+ Department of Revenue</description><pubDate>Mon, 16 Nov 2026 15:30:10 GMT</pubDate></item><item><title>[Potential source change] DE | SRC-WEB-DE</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-DE/412bbcfe9c39a2bac431c1d4.html</link><guid isPermaLink="false">uksp-SRC-WEB-DE-412bbcfe9c39a2bac431c1d4</guid><description>Unverified content difference detected at https://dpr.delaware.gov/boards/pharmacy/ on 2026-11-16T15:29:53+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -38,7 +38,6 @@
+ Newsletters
+ Prescription Monitoring Program
+ Disposing of Unused Medication
+-MPJE Study Material
+ DE Law for Pharmacy
+ DE Law for Controlled Substances
+ Pharmacy Rules &amp; Regulations</description><pubDate>Mon, 16 Nov 2026 15:29:53 GMT</pubDate></item><item><title>[Potential source change] WA | SRC-WEB-WA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WA/6c908ceca2d806e5f070da15.html</link><guid isPermaLink="false">uksp-SRC-WEB-WA-6c908ceca2d806e5f070da15</guid><description>Unverified content difference detected at https://leg.wa.gov/state-laws-and-rules/washington-state-register/ on 2026-11-14T13:16:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -5,7 +5,7 @@
  Washington State Register
