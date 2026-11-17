@@ -1,5 +1,15 @@
 [
   {
+    "id": "87df89da4c52eb37c989d1cf",
+    "kind": "failure",
+    "state_code": "SD",
+    "source_id": "SRC-WEB-SD",
+    "source_url": "https://rules.sd.gov/",
+    "observed_at": "2026-11-17T13:37:09+00:00",
+    "error": "HTTPSConnectionPool(host='rules.sd.gov', port=443): Read timed out. (read timeout=20)",
+    "consecutive_failures": 1
+  },
+  {
     "id": "3f427a9e7f13a21adb8bdb9d",
     "kind": "restored",
     "state_code": "IL",
