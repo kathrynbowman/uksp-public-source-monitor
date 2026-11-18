@@ -1,5 +1,13 @@
 [
   {
+    "id": "b61347129efaf99ed4bb6cc9",
+    "observed_at": "2026-11-18T13:38:38+00:00",
+    "previous_sha256": "70b51a96cf1cc622b881083d0daf6de20a7f5dcb3941eb4bce746300b677abf2",
+    "current_sha256": "c479be4d097509fa3763312796e082978a2f9c0cc1b18521b8e938c6a98457f5",
+    "diff": "--- previous\n+++ current\n@@ -16,11 +16,9 @@\n Online Issues\n Volume XXXVII\n \n+Volume XXXVII, Issue 22, November 17, 2026\n+\n Volume XXXVII, Issue 21, November 3, 2026\n-\n-Volume XXXVII, Issue 20, October 20, 2026\n-\n-Volume XXXVII, Issue 19, October 6, 2026\n Other Issues\n \n Cumulative Index 2026 (Issues 1 - 21)",
+    "summary": "Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-18T13:38:38+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -16,11 +16,9 @@\n Online Issues\n Volume XXXVII\n \n+Volume XXXVII, Issue 22, November 17, 2026\n+\n Volume XXXVII, Issue 21, November 3, 2026\n-\n-Volume XXXVII, Issue 20, October 20, 2026\n-\n-Volume XXXVII, Issue 19, October 6, 2026\n Other Issues\n \n Cumulative Index 2026 (Issues 1 - 21)"
+  },
+  {
     "id": "f09550432501c5b1ac4bf1c8",
     "observed_at": "2026-11-06T13:29:47+00:00",
     "previous_sha256": "f89cef66e13b78fbd4794e0aca566ee6cdfa08a4492055635b74007ac26b322b",

@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] WI | SRC-WEB-WI</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WI/6682c68045fc06e38db90e74.html</link><guid isPermaLink="false">uksp-SRC-WEB-WI-6682c68045fc06e38db90e74</guid><description>Unverified content difference detected at https://dsps.wi.gov/rules-statutes/pending-rules/ on 2026-11-17T13:37:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/b61347129efaf99ed4bb6cc9.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-b61347129efaf99ed4bb6cc9</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-18T13:38:38+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -16,11 +16,9 @@
+ Online Issues
+ Volume XXXVII
+ 
++Volume XXXVII, Issue 22, November 17, 2026
++
+ Volume XXXVII, Issue 21, November 3, 2026
+-
+-Volume XXXVII, Issue 20, October 20, 2026
+-
+-Volume XXXVII, Issue 19, October 6, 2026
+ Other Issues
+ 
+ Cumulative Index 2026 (Issues 1 - 21)</description><pubDate>Wed, 18 Nov 2026 13:38:38 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/6df44f6d1f36a49cb3ae18b5.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-6df44f6d1f36a49cb3ae18b5</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-18T13:38:31+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -19,7 +19,7 @@
+ Agency Meeting and Hearing Notices
+ Other documents considered to be in the public interest
+ Order Print and PDF Copies
+-The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 11, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.
++The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 17, 2026. The text appearing here is not the offi</description><pubDate>Wed, 18 Nov 2026 13:38:31 GMT</pubDate></item><item><title>[Potential source change] WI | SRC-WEB-WI</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-WI/6682c68045fc06e38db90e74.html</link><guid isPermaLink="false">uksp-SRC-WEB-WI-6682c68045fc06e38db90e74</guid><description>Unverified content difference detected at https://dsps.wi.gov/rules-statutes/pending-rules/ on 2026-11-17T13:37:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -69,7 +69,7 @@
  SS 010-26 - DE 1, 3, and 5 - Scope of Practice for Dental Hygienist

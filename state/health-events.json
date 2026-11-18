@@ -1,5 +1,15 @@
 [
   {
+    "id": "2c51597d640d60c7262dd847",
+    "kind": "restored",
+    "state_code": "SD",
+    "source_id": "SRC-WEB-SD",
+    "source_url": "https://rules.sd.gov/",
+    "observed_at": "2026-11-18T13:38:47+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "87df89da4c52eb37c989d1cf",
     "kind": "failure",
     "state_code": "SD",
