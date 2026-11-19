@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | IN</title><link>https://www.in.gov/pla/professions/pharmacy-home/pharmacy-board/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | IN</title><link>https://www.in.gov/pla/professions/pharmacy-home/pharmacy-board/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] IN | SRC-WEB-IN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-IN/4cd167e18e5b59a520a47512.html</link><guid isPermaLink="false">uksp-SRC-WEB-IN-4cd167e18e5b59a520a47512</guid><description>Unverified content difference detected at https://www.in.gov/pla/professions/pharmacy-home/pharmacy-board/ on 2026-11-19T13:40:13+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -158,6 +158,7 @@
+ July 13, 2026
+ August 10, 2026
+ September 14, 2026
++October 5, 2026
+ Archived Board Minutes
+ 2025
+ January 13, 2025</description><pubDate>Thu, 19 Nov 2026 13:40:13 GMT</pubDate></item></channel></rss>

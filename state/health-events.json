@@ -1,5 +1,45 @@
 [
   {
+    "id": "cbeb2e065529761a4253eb4c",
+    "kind": "failure",
+    "state_code": "SD",
+    "source_id": "SRC-WEB-SD",
+    "source_url": "https://rules.sd.gov/",
+    "observed_at": "2026-11-19T13:40:55+00:00",
+    "error": "HTTPSConnectionPool(host='rules.sd.gov', port=443): Read timed out. (read timeout=20)",
+    "consecutive_failures": 1
+  },
+  {
+    "id": "818ea2ec8bb1d674d5f60283",
+    "kind": "failure",
+    "state_code": "MN",
+    "source_id": "SRC-WEB-MN",
+    "source_url": "https://mn.gov/boards/pharmacy/public/rulemaking.jsp",
+    "observed_at": "2026-11-19T13:40:55+00:00",
+    "error": "Source is not a public HTTPS URL",
+    "consecutive_failures": 1
+  },
+  {
+    "id": "5d2bd5631ae5722a476ee88e",
+    "kind": "failure",
+    "state_code": "MA",
+    "source_id": "SRC-WEB-MA",
+    "source_url": "https://www.sec.state.ma.us/divisions/pubs-regs/pubs-regs.htm",
+    "observed_at": "2026-11-19T13:40:55+00:00",
+    "error": "Too little usable text to form a trustworthy baseline",
+    "consecutive_failures": 1
+  },
+  {
+    "id": "bffa4b7c11fc0223eb9c5882",
+    "kind": "failure",
+    "state_code": "AZ",
+    "source_id": "SRC-WEB-AZ",
+    "source_url": "https://apps.azsos.gov/public_services/register/2026/contents.htm",
+    "observed_at": "2026-11-19T13:40:55+00:00",
+    "error": "403 Client Error: Forbidden for url: https://apps.azsos.gov/public_services/register/2026/contents.htm",
+    "consecutive_failures": 1
+  },
+  {
     "id": "2c51597d640d60c7262dd847",
     "kind": "restored",
     "state_code": "SD",

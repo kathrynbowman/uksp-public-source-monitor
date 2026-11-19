@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-DE",
   "state_code": "DE",
   "official_url": "https://dpr.delaware.gov/boards/pharmacy/",
-  "last_checked_utc": "2026-11-18T13:38:24+00:00",
+  "last_checked_utc": "2026-11-19T13:40:09+00:00",
   "status": "UNCHANGED",
   "last_error": null,
   "consecutive_failures": 0,
-  "last_success_utc": "2026-11-18T13:38:24+00:00",
+  "last_success_utc": "2026-11-19T13:40:09+00:00",
   "last_sha256": "b14455caf29fb7d96b08e9c6cb388f56bc96d44a59ea627fd1f6662c3b50e4ee"
 }

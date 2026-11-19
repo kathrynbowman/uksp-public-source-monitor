@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/b61347129efaf99ed4bb6cc9.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-b61347129efaf99ed4bb6cc9</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-18T13:38:38+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/addd1f61a3ec2c62412c77f9.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-addd1f61a3ec2c62412c77f9</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-19T13:40:26+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,7 +1,8 @@
+ State Register
+ State Register
+-The November 10, 2026/Vol. XLVIII, Issue 45 of the State Register is now available.
++The November 18, 2026/Vol. XLVIII, Issue 46 of the State Register is now available.
+ see the latest
++Dissolution by Proclamation
+ Overview
+ The Division of Administrative Rules provides vital web and publication services to all of the divisions within the Department of State as well as supporting New York's rule making process. DAR produces the weekly State Register that provides information on the rule making activities of state agencies. The division also is the official compiler of state agency rules and regulations (NYCRR) and it publishes information on the Great Seal of New York, the State Constitution, and other official state documents.
+ State Register
+@@ -41,8 +42,12 @@
+ 2017
+ 2016
+ 2015
+-661
++663
+ results found
++2026
++Nov</description><pubDate>Thu, 19 Nov 2026 13:40:26 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/3e2620bdb2c73d7dec00decc.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-3e2620bdb2c73d7dec00decc</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-19T13:40:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -19,7 +19,7 @@
+ Agency Meeting and Hearing Notices
+ Other documents considered to be in the public interest
+ Order Print and PDF Copies
+-The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 17, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.
++The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 18, 2026. The text appearing here is not the offi</description><pubDate>Thu, 19 Nov 2026 13:40:17 GMT</pubDate></item><item><title>[Potential source change] IN | SRC-WEB-IN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-IN/4cd167e18e5b59a520a47512.html</link><guid isPermaLink="false">uksp-SRC-WEB-IN-4cd167e18e5b59a520a47512</guid><description>Unverified content difference detected at https://www.in.gov/pla/professions/pharmacy-home/pharmacy-board/ on 2026-11-19T13:40:13+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -158,6 +158,7 @@
+ July 13, 2026
+ August 10, 2026
+ September 14, 2026
++October 5, 2026
+ Archived Board Minutes
+ 2025
+ January 13, 2025</description><pubDate>Thu, 19 Nov 2026 13:40:13 GMT</pubDate></item><item><title>[Potential source change] NM | SRC-WEB-NM</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NM/b61347129efaf99ed4bb6cc9.html</link><guid isPermaLink="false">uksp-SRC-WEB-NM-b61347129efaf99ed4bb6cc9</guid><description>Unverified content difference detected at https://www.srca.nm.gov/nmac-home/new-mexico-register/ on 2026-11-18T13:38:38+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -16,11 +16,9 @@
  Online Issues
