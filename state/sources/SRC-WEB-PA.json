@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-PA",
   "state_code": "PA",
   "official_url": "https://pacodeandbulletin.gov/",
-  "last_checked_utc": "2026-11-19T13:40:28+00:00",
-  "status": "UNCHANGED",
-  "last_success_utc": "2026-11-19T13:40:28+00:00",
-  "last_sha256": "bc4a8cf3d7c4c4339c759687aa26f1b5d26a337c9c69d0ba1c5874a145261984",
+  "last_checked_utc": "2026-11-20T13:36:44+00:00",
+  "status": "POTENTIAL_CHANGE",
+  "last_success_utc": "2026-11-20T13:36:44+00:00",
+  "last_sha256": "6a5801504de87d2816333d88e9ffd0abf47547ca86f4556d16a49a973872ecb6",
   "last_error": null,
   "consecutive_failures": 0
 }

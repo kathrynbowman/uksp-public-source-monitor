@@ -1,5 +1,13 @@
 [
   {
+    "id": "a0da37f9715262e51584f22c",
+    "observed_at": "2026-11-20T13:36:34+00:00",
+    "previous_sha256": "88ae5dedf48004955a6da1aa68afd6bcc240870fb22d036cbfdf7db407516d8c",
+    "current_sha256": "aa09085760ccac0f846419d7622c841a36731e8191f4170729dc19bcb0779d1d",
+    "diff": "--- previous\n+++ current\n@@ -73,6 +73,14 @@\n 11-09-2026 - Submitted Insertion Order to the\n Louisiana Register\n for publication of the Final Rule in the November 2026 edition.\n+11-19-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.\n+11-20-2026 - The\n+Final Rule\n+was published in the 2026\n+Louisiana Register\n+(Volume 52,\n+November edition\n+) and takes effect on November 20, 2026.\n 2026-08 - Emergency Medical Services (EMS) Agencies\n [Source:\n Regulatory Proposal 2026-D",
+    "summary": "Unverified content difference detected at https://www.pharmacy.la.gov/page/regulatory-projects on 2026-11-20T13:36:34+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -73,6 +73,14 @@\n 11-09-2026 - Submitted Insertion Order to the\n Louisiana Register\n for publication of the Final Rule in the November 2026 edition.\n+11-19-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.\n+11-20-2026 - The\n+Final Rule\n+was published in the 2026\n+Louisiana Register\n+(Volume 52,\n+November edition\n+) and takes effect on November 20, 2026.\n 2026-08 - Emergency Medical Services (EMS) Agencies\n [Source:\n Regulatory Proposal 2026-D"
+  },
+  {
     "id": "d566ba9de5ab45c0b5304808",
     "observed_at": "2026-11-10T13:28:17+00:00",
     "previous_sha256": "271e4c44298219eb8d534ad87f9d2d86ff7dbb68dd5e7bc8010a8b4f2322ec1d",

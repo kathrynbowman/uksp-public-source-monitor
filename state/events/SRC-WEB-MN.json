@@ -1,5 +1,13 @@
 [
   {
+    "id": "b107eb61fd7aaffe85de68b9",
+    "observed_at": "2026-11-20T13:36:36+00:00",
+    "previous_sha256": "4a26a12b6fc47a1e3539c250832595fb1f2f63ce09f72ff7b65eacc001bc643c",
+    "current_sha256": "d650464c0175ca13576aadca9dfc9d037a53211b816632050f63cbd31b9ac1fb",
+    "diff": "--- previous\n+++ current\n@@ -1,4 +1,6 @@\n skip to content\n+close\n+The Board office will be CLOSED on Thursday Nov 26th and Friday Nov 27th for the Thanksgiving holiday. The office will reopen at 8am on Monday, November 30th.\n Primary navigation\n Rulemaking\n Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:",
+    "summary": "Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-20T13:36:36+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -1,4 +1,6 @@\n skip to content\n+close\n+The Board office will be CLOSED on Thursday Nov 26th and Friday Nov 27th for the Thanksgiving holiday. The office will reopen at 8am on Monday, November 30th.\n Primary navigation\n Rulemaking\n Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:"
+  },
+  {
     "id": "56fe075853ccec2103e29414",
     "observed_at": "2026-11-10T13:28:31+00:00",
     "previous_sha256": "4a26a12b6fc47a1e3539c250832595fb1f2f63ce09f72ff7b65eacc001bc643c",

@@ -1,5 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/addd1f61a3ec2c62412c77f9.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-addd1f61a3ec2c62412c77f9</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-19T13:40:26+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/573c5f88d68aef3808ceed5e.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-573c5f88d68aef3808ceed5e</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-20T13:36:44+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -6,8 +6,8 @@
+ VIEW CURRENT ISSUE
+ of the
+ BULLETIN
+-Volume 56 Number 46
+-Saturday, November 14, 2026
++Volume 56 Number 47
++Saturday, November 21, 2026
+ BROWSE
+ CODE
+ Select a Title
+@@ -145,6 +145,8 @@
+ - Pages 7241-7424
+ Number 46 - November 14, 2026
+ - Pages 7425-7504
++Number 47 - November 21, 2026
++- Pages 7505-7585
+ Volume 55
+ Number 1 - January 4, 2025
+ - Pages 1-230</description><pubDate>Fri, 20 Nov 2026 13:36:44 GMT</pubDate></item><item><title>[Potential source change] MN | SRC-WEB-MN</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MN/b107eb61fd7aaffe85de68b9.html</link><guid isPermaLink="false">uksp-SRC-WEB-MN-b107eb61fd7aaffe85de68b9</guid><description>Unverified content difference detected at https://mn.gov/boards/pharmacy/public/rulemaking.jsp on 2026-11-20T13:36:36+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,4 +1,6 @@
+ skip to content
++close
++The Board office will be CLOSED on Thursday Nov 26th and Friday Nov 27th for the Thanksgiving holiday. The office will reopen at 8am on Monday, November 30th.
+ Primary navigation
+ Rulemaking
+ Effective October 19, 2026, Minnesota Rules, part 6800.3400, subpart 1a took effect and permits the following information to be included on prescription drug labels:</description><pubDate>Fri, 20 Nov 2026 13:36:36 GMT</pubDate></item><item><title>[Potential source change] LA | SRC-WEB-LA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-LA/a0da37f9715262e51584f22c.html</link><guid isPermaLink="false">uksp-SRC-WEB-LA-a0da37f9715262e51584f22c</guid><description>Unverified content difference detected at https://www.pharmacy.la.gov/page/regulatory-projects on 2026-11-20T13:36:34+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -73,6 +73,14 @@
+ 11-09-2026 - Submitted Insertion Order to the
+ Louisiana Register
+ for publication of the Final Rule in the November 2026 edition.
++11-19-2026 - Distributed electronic Notice of Rulemaking Activity in regard to Final Rule publication.
++11-20-2026 - The
++Final Rule
++was published in the 2026
++Louisiana Register
++(Volume 52,
++November edition
++) and takes effect on November 20, 2026.
+ 2026-08 - Emergency Medical Services (EMS) Agencies
+ [Source:
+ Regulatory Proposal 2026-D</description><pubDate>Fri, 20 Nov 2026 13:36:34 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/9e60ed5a628385d6b6a035db.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-9e60ed5a628385d6b6a035db</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-20T13:36:34+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -19,7 +19,7 @@
+ Agency Meeting and Hearing Notices
+ Other documents considered to be in the public interest
+ Order Print and PDF Copies
+-The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 18, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.
++The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 20, 2026. The text appearing here is not the offi</description><pubDate>Fri, 20 Nov 2026 13:36:34 GMT</pubDate></item><item><title>[Potential source change] AL | SRC-WEB-AL</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AL/83a111f1cfc41d41dcf5324c.html</link><guid isPermaLink="false">uksp-SRC-WEB-AL-83a111f1cfc41d41dcf5324c</guid><description>Unverified content difference detected at https://albop.com/statutes-rules/ on 2026-11-20T13:36:25+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -25,22 +25,22 @@
+ September
+ 680-X-2-.51
+ Licenses for Qualified Military Servicemembers and their Spouses
+-New Rule. Public hearing 11.18.26. Comments due to Anne Marie Nolen by 11.17.
++New Rule. Adopted without change. Effective date January 14, 2027.
+ 9.16.26
+ September
+ 680-X-1-.05
+ Electronic Signatures
+-New Rule. Public hearing 11.18.26. Comments due to Anne Marie Nolen by 11.17.
++New Rule. Adopted without change. Effective date January 14, 2027.
+ 8.19.26
+ August
+ 680-X-2-.18
+ Institutional Pharmacies
+-Amendment. Public hearing 10.21.26. Vote was tabled until November.
++Amendment. Public hearing 10.21.26. Rule was not adopted.
+ 8.19.26
+ August
+ 680-X-2-.23
+ Drug Manufacturers; Wholesale Distributors; Private Label Distributors, Repackagers, Third- Party Logistics Providers, Outsourcing Facilities; Reverse Distributors; Retail Medical Oxygen Suppliers
+-Am</description><pubDate>Fri, 20 Nov 2026 13:36:25 GMT</pubDate></item><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/addd1f61a3ec2c62412c77f9.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-addd1f61a3ec2c62412c77f9</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-19T13:40:26+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -1,7 +1,8 @@
  State Register

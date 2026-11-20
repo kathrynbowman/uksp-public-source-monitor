@@ -1,2 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | AL</title><link>https://albop.com/statutes-rules/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | AL</title><link>https://albop.com/statutes-rules/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] AL | SRC-WEB-AL</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AL/83a111f1cfc41d41dcf5324c.html</link><guid isPermaLink="false">uksp-SRC-WEB-AL-83a111f1cfc41d41dcf5324c</guid><description>Unverified content difference detected at https://albop.com/statutes-rules/ on 2026-11-20T13:36:25+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -25,22 +25,22 @@
+ September
+ 680-X-2-.51
+ Licenses for Qualified Military Servicemembers and their Spouses
+-New Rule. Public hearing 11.18.26. Comments due to Anne Marie Nolen by 11.17.
++New Rule. Adopted without change. Effective date January 14, 2027.
+ 9.16.26
+ September
+ 680-X-1-.05
+ Electronic Signatures
+-New Rule. Public hearing 11.18.26. Comments due to Anne Marie Nolen by 11.17.
++New Rule. Adopted without change. Effective date January 14, 2027.
+ 8.19.26
+ August
+ 680-X-2-.18
+ Institutional Pharmacies
+-Amendment. Public hearing 10.21.26. Vote was tabled until November.
++Amendment. Public hearing 10.21.26. Rule was not adopted.
+ 8.19.26
+ August
+ 680-X-2-.23
+ Drug Manufacturers; Wholesale Distributors; Private Label Distributors, Repackagers, Third- Party Logistics Providers, Outsourcing Facilities; Reverse Distributors; Retail Medical Oxygen Suppliers
+-Am</description><pubDate>Fri, 20 Nov 2026 13:36:25 GMT</pubDate></item></channel></rss>

@@ -1,5 +1,45 @@
 [
   {
+    "id": "b471b4a2c5ab1096745f1c35",
+    "kind": "restored",
+    "state_code": "SD",
+    "source_id": "SRC-WEB-SD",
+    "source_url": "https://rules.sd.gov/",
+    "observed_at": "2026-11-20T13:36:50+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "5cfb0da06b37b0eb13beacce",
+    "kind": "restored",
+    "state_code": "MN",
+    "source_id": "SRC-WEB-MN",
+    "source_url": "https://mn.gov/boards/pharmacy/public/rulemaking.jsp",
+    "observed_at": "2026-11-20T13:36:50+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "7fcf0e9db3fb2ed22a45df77",
+    "kind": "restored",
+    "state_code": "MA",
+    "source_id": "SRC-WEB-MA",
+    "source_url": "https://www.sec.state.ma.us/divisions/pubs-regs/pubs-regs.htm",
+    "observed_at": "2026-11-20T13:36:50+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "90b2f189903aaa3fa58bbe21",
+    "kind": "restored",
+    "state_code": "AZ",
+    "source_id": "SRC-WEB-AZ",
+    "source_url": "https://apps.azsos.gov/public_services/register/2026/contents.htm",
+    "observed_at": "2026-11-20T13:36:50+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "cbeb2e065529761a4253eb4c",
     "kind": "failure",
     "state_code": "SD",
