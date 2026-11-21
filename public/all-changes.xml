@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/573c5f88d68aef3808ceed5e.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-573c5f88d68aef3808ceed5e</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-20T13:36:44+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/9420b1b758fc3dd0be3b60fe.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-9420b1b758fc3dd0be3b60fe</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-21T13:23:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -146,7 +146,7 @@
+ Number 46 - November 14, 2026
+ - Pages 7425-7504
+ Number 47 - November 21, 2026
+-- Pages 7505-7585
++- Pages 7505-7584
+ Volume 55
+ Number 1 - January 4, 2025
+ - Pages 1-230</description><pubDate>Sat, 21 Nov 2026 13:23:17 GMT</pubDate></item><item><title>[Potential source change] FL | SRC-WEB-FL</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-FL/105a08777d937cea996f6a57.html</link><guid isPermaLink="false">uksp-SRC-WEB-FL-105a08777d937cea996f6a57</guid><description>Unverified content difference detected at https://dos.fl.gov/offices/administrative-code-and-register/ on 2026-11-21T13:22:57+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -42,7 +42,7 @@
+ External Affairs
+ Election Crimes and Security
+ Ron DeSantis, Governor
+-Cord Byrd, Secretary of State
++Jennifer Kennedy, Interim Secretary of State
+ Privacy Policy
+ Accessibility
+ Site Map</description><pubDate>Sat, 21 Nov 2026 13:22:57 GMT</pubDate></item><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/18af0012d3ed84c5808e66a1.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-18af0012d3ed84c5808e66a1</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-21T13:22:54+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 47
++Friday, November 20, 2026
++p. 2951-3018
+ Authenticated PDF
+ Issue 46
+ Friday, November 13, 2026</description><pubDate>Sat, 21 Nov 2026 13:22:54 GMT</pubDate></item><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/573c5f88d68aef3808ceed5e.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-573c5f88d68aef3808ceed5e</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-20T13:36:44+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -6,8 +6,8 @@
  VIEW CURRENT ISSUE

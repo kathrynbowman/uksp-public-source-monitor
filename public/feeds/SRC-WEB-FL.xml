@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | FL</title><link>https://dos.fl.gov/offices/administrative-code-and-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | FL</title><link>https://dos.fl.gov/offices/administrative-code-and-register/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] FL | SRC-WEB-FL</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-FL/105a08777d937cea996f6a57.html</link><guid isPermaLink="false">uksp-SRC-WEB-FL-105a08777d937cea996f6a57</guid><description>Unverified content difference detected at https://dos.fl.gov/offices/administrative-code-and-register/ on 2026-11-21T13:22:57+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -42,7 +42,7 @@
+ External Affairs
+ Election Crimes and Security
+ Ron DeSantis, Governor
+-Cord Byrd, Secretary of State
++Jennifer Kennedy, Interim Secretary of State
+ Privacy Policy
+ Accessibility
+ Site Map</description><pubDate>Sat, 21 Nov 2026 13:22:57 GMT</pubDate></item></channel></rss>

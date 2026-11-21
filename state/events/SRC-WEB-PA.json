@@ -1,5 +1,13 @@
 [
   {
+    "id": "9420b1b758fc3dd0be3b60fe",
+    "observed_at": "2026-11-21T13:23:17+00:00",
+    "previous_sha256": "6a5801504de87d2816333d88e9ffd0abf47547ca86f4556d16a49a973872ecb6",
+    "current_sha256": "5e5adee107ab49e2ed2d709fe3c31cdf8808a3400780b3ede26ef8cc3ab81539",
+    "diff": "--- previous\n+++ current\n@@ -146,7 +146,7 @@\n Number 46 - November 14, 2026\n - Pages 7425-7504\n Number 47 - November 21, 2026\n-- Pages 7505-7585\n+- Pages 7505-7584\n Volume 55\n Number 1 - January 4, 2025\n - Pages 1-230",
+    "summary": "Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-21T13:23:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -146,7 +146,7 @@\n Number 46 - November 14, 2026\n - Pages 7425-7504\n Number 47 - November 21, 2026\n-- Pages 7505-7585\n+- Pages 7505-7584\n Volume 55\n Number 1 - January 4, 2025\n - Pages 1-230"
+  },
+  {
     "id": "573c5f88d68aef3808ceed5e",
     "observed_at": "2026-11-20T13:36:44+00:00",
     "previous_sha256": "bc4a8cf3d7c4c4339c759687aa26f1b5d26a337c9c69d0ba1c5874a145261984",

@@ -1,5 +1,13 @@
 [
   {
+    "id": "18af0012d3ed84c5808e66a1",
+    "observed_at": "2026-11-21T13:22:54+00:00",
+    "previous_sha256": "3145d1bf4c31bd955e7aa6e92a5ddea686392ed061a9c0c564b21f0abb26a58c",
+    "current_sha256": "7098ea404a420ca10c14c983b7aa35daaedc5206436b5365a50d70667f8b05b6",
+    "diff": "--- previous\n+++ current\n@@ -28,6 +28,10 @@\n Issue\n Date\n Pages\n+Authenticated PDF\n+Issue 47\n+Friday, November 20, 2026\n+p. 2951-3018\n Authenticated PDF\n Issue 46\n Friday, November 13, 2026",
+    "summary": "Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-21T13:22:54+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -28,6 +28,10 @@\n Issue\n Date\n Pages\n+Authenticated PDF\n+Issue 47\n+Friday, November 20, 2026\n+p. 2951-3018\n Authenticated PDF\n Issue 46\n Friday, November 13, 2026"
+  },
+  {
     "id": "9f858d4bf4341524177dc577",
     "observed_at": "2026-11-11T13:34:19+00:00",
     "previous_sha256": "ff6e6aa31284d7257168375fe270b9c5a45894f6a93040f8643b40ab59bce061",

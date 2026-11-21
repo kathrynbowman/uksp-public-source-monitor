@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "105a08777d937cea996f6a57",
+    "observed_at": "2026-11-21T13:22:57+00:00",
+    "previous_sha256": "337297f20191f3130c3829bad71aa71d0f8a4725cfeed8778e58b82afb3f744b",
+    "current_sha256": "374b27bf173c81fd4c2de2a6a40fbc8e5404a469bc99c6a01b528328c99a3794",
+    "diff": "--- previous\n+++ current\n@@ -42,7 +42,7 @@\n External Affairs\n Election Crimes and Security\n Ron DeSantis, Governor\n-Cord Byrd, Secretary of State\n+Jennifer Kennedy, Interim Secretary of State\n Privacy Policy\n Accessibility\n Site Map",
+    "summary": "Unverified content difference detected at https://dos.fl.gov/offices/administrative-code-and-register/ on 2026-11-21T13:22:57+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -42,7 +42,7 @@\n External Affairs\n Election Crimes and Security\n Ron DeSantis, Governor\n-Cord Byrd, Secretary of State\n+Jennifer Kennedy, Interim Secretary of State\n Privacy Policy\n Accessibility\n Site Map"
+  }
+]

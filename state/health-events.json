@@ -1,5 +1,15 @@
 [
   {
+    "id": "b2f42146fe89f753a1ba2c2d",
+    "kind": "failure",
+    "state_code": "SC",
+    "source_id": "SRC-WEB-SC",
+    "source_url": "https://llr.sc.gov/bop/compoundupdates.aspx",
+    "observed_at": "2026-11-21T13:23:34+00:00",
+    "error": "HTTPSConnectionPool(host='llr.sc.gov', port=443): Read timed out. (read timeout=8)",
+    "consecutive_failures": 1
+  },
+  {
     "id": "b471b4a2c5ab1096745f1c35",
     "kind": "restored",
     "state_code": "SD",
