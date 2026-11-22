@@ -1,5 +1,25 @@
 [
   {
+    "id": "0abb2a7afef2459c7c28ff12",
+    "kind": "restored",
+    "state_code": "SC",
+    "source_id": "SRC-WEB-SC",
+    "source_url": "https://llr.sc.gov/bop/compoundupdates.aspx",
+    "observed_at": "2026-11-22T13:21:37+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "252ca477cb226d2b6a393291",
+    "kind": "failure",
+    "state_code": "PA",
+    "source_id": "SRC-WEB-PA",
+    "source_url": "https://pacodeandbulletin.gov/",
+    "observed_at": "2026-11-22T13:21:37+00:00",
+    "error": "HTTPSConnectionPool(host='pacodeandbulletin.gov', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='pacodeandbulletin.gov', port=443): Failed to resolve 'pacodeandbulletin.gov' ([Errno -5] No address associated with hostname)\"))",
+    "consecutive_failures": 1
+  },
+  {
     "id": "b2f42146fe89f753a1ba2c2d",
     "kind": "failure",
     "state_code": "SC",
