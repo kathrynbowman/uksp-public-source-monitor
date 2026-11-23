@@ -1,5 +1,15 @@
 [
   {
+    "id": "427462010e98f648971743e4",
+    "kind": "restored",
+    "state_code": "PA",
+    "source_id": "SRC-WEB-PA",
+    "source_url": "https://pacodeandbulletin.gov/",
+    "observed_at": "2026-11-23T13:45:08+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
     "id": "0abb2a7afef2459c7c28ff12",
     "kind": "restored",
     "state_code": "SC",

@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/214524ba5d99fd65fb8a2779.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-214524ba5d99fd65fb8a2779</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-16T15:30:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | SD</title><link>https://rules.sd.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/acce529731f407b8cf0c0fe0.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-acce529731f407b8cf0c0fe0</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-23T13:45:02+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -64,7 +64,7 @@
+ Department of Military
+ Department of Public Safety
+ Department of Revenue
+-(2)
++(1)
+ Department of Social Services
+ Department of Tourism
+ Department of Transportation</description><pubDate>Mon, 23 Nov 2026 13:45:02 GMT</pubDate></item><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/214524ba5d99fd65fb8a2779.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-214524ba5d99fd65fb8a2779</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-16T15:30:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -61,7 +61,6 @@
  (1)

@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/9420b1b758fc3dd0be3b60fe.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-9420b1b758fc3dd0be3b60fe</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-21T13:23:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] SD | SRC-WEB-SD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-SD/acce529731f407b8cf0c0fe0.html</link><guid isPermaLink="false">uksp-SRC-WEB-SD-acce529731f407b8cf0c0fe0</guid><description>Unverified content difference detected at https://rules.sd.gov/ on 2026-11-23T13:45:02+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -64,7 +64,7 @@
+ Department of Military
+ Department of Public Safety
+ Department of Revenue
+-(2)
++(1)
+ Department of Social Services
+ Department of Tourism
+ Department of Transportation</description><pubDate>Mon, 23 Nov 2026 13:45:02 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/9f88d05103693ac15321952a.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-9f88d05103693ac15321952a</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-23T13:44:42+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -19,7 +19,7 @@
+ Agency Meeting and Hearing Notices
+ Other documents considered to be in the public interest
+ Order Print and PDF Copies
+-The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 20, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.
++The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 23, 2026. The text appearing here is not the offi</description><pubDate>Mon, 23 Nov 2026 13:44:42 GMT</pubDate></item><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/9420b1b758fc3dd0be3b60fe.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-9420b1b758fc3dd0be3b60fe</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-21T13:23:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -146,7 +146,7 @@
  Number 46 - November 14, 2026
