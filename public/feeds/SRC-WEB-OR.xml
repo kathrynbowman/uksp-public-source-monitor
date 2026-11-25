@@ -1,2 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | OR</title><link>https://www.oregon.gov/pharmacy/Pages/Rulemaking-Information.aspx</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | OR</title><link>https://www.oregon.gov/pharmacy/Pages/Rulemaking-Information.aspx</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] OR | SRC-WEB-OR</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-OR/a5c68650a0e84e63ec89cf06.html</link><guid isPermaLink="false">uksp-SRC-WEB-OR-a5c68650a0e84e63ec89cf06</guid><description>Unverified content difference detected at https://www.oregon.gov/pharmacy/Pages/Rulemaking-Information.aspx on 2026-11-25T13:45:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,12 +1,5 @@
+ Rulemaking Information
+ Site Navigation
+-November 24, 2026 Rulemaking Hearing
+-The November 24, 2026 Rulemaking Hearing will held virtually via Teams and begins at 9:30AM.
+-If you wish to provide virtual oral testimony in real time during the hearing, please complete and submit the Rulemaking Hearing Testimony Sign-up form below. You may also sign up by submitting your first and last name, email address and which rules/protocols you would like to comment on to pharmacy.rulemaking@bop.oregon.gov no later than 8:30AM on November 24, 2026. You will receive a confirmation email and a calendar invitation to join the virtual hearing.
+-Written comments must be received by 4:30PM on November 24, 2026. Submit written comments to pharmacy.rulemaking@bop.oregon.gov.
+-If you would like to listen to the hearing, join the virtual
+-Teams meeting
+-or call: (503</description><pubDate>Wed, 25 Nov 2026 13:45:10 GMT</pubDate></item></channel></rss>

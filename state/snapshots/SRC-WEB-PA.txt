@@ -6,8 +6,8 @@ Refined Text Search (by Agency, Issue, etc)
 VIEW CURRENT ISSUE
 of the
 BULLETIN
-Volume 56 Number 47
-Saturday, November 21, 2026
+Volume 56 Number 48
+Saturday, November 28, 2026
 BROWSE
 CODE
 Select a Title
@@ -147,6 +147,8 @@ Number 46 - November 14, 2026
 - Pages 7425-7504
 Number 47 - November 21, 2026
 - Pages 7505-7584
+Number 48 - November 28, 2026
+- Pages 7585-7706
 Volume 55
 Number 1 - January 4, 2025
 - Pages 1-230

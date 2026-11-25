@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | VT</title><link>https://sos.vermont.gov/pharmacy/statutes-rules-resources</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/0fdb14de9b04fbc926a52a08.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-0fdb14de9b04fbc926a52a08</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-10-31T13:13:42+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | VT</title><link>https://sos.vermont.gov/pharmacy/statutes-rules-resources</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/064e946f8f4119618a98c371.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-064e946f8f4119618a98c371</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-11-25T13:45:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -11,6 +11,8 @@
+ Prescription Monitoring
+ OPR Home
+ Visit the Calendar Page
++Holiday closure
++All Vermont Secretary of State offices are closing early at 2 pm on Wednesday 11/25 for the Thanksgiving holiday. Our offices will reopen for regular business hours on Monday 11/30.
+ A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by
+ contacting our office
+ .</description><pubDate>Wed, 25 Nov 2026 13:45:15 GMT</pubDate></item><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/0fdb14de9b04fbc926a52a08.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-0fdb14de9b04fbc926a52a08</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-10-31T13:13:42+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -11,6 +11,9 @@
  Prescription Monitoring

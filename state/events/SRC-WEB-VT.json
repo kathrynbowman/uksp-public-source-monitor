@@ -1,5 +1,13 @@
 [
   {
+    "id": "064e946f8f4119618a98c371",
+    "observed_at": "2026-11-25T13:45:15+00:00",
+    "previous_sha256": "397061d94d1a4728815c395ba72e082bb2f49ea1f2d4a76f1d5f09ce49361b4b",
+    "current_sha256": "6cfbfe55a701dd7f6c41e07424bcc1173039b3da5129bdc33a75a55d4643c53e",
+    "diff": "--- previous\n+++ current\n@@ -11,6 +11,8 @@\n Prescription Monitoring\n OPR Home\n Visit the Calendar Page\n+Holiday closure\n+All Vermont Secretary of State offices are closing early at 2 pm on Wednesday 11/25 for the Thanksgiving holiday. Our offices will reopen for regular business hours on Monday 11/30.\n A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by\n contacting our office\n .",
+    "summary": "Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-11-25T13:45:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -11,6 +11,8 @@\n Prescription Monitoring\n OPR Home\n Visit the Calendar Page\n+Holiday closure\n+All Vermont Secretary of State offices are closing early at 2 pm on Wednesday 11/25 for the Thanksgiving holiday. Our offices will reopen for regular business hours on Monday 11/30.\n A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by\n contacting our office\n ."
+  },
+  {
     "id": "0fdb14de9b04fbc926a52a08",
     "observed_at": "2026-10-31T13:13:42+00:00",
     "previous_sha256": "cb5b50a3a88ca1f6d658826556b784d5d71b573fa5df634b9dbec403724661c7",

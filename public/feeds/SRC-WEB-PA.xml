@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | PA</title><link>https://pacodeandbulletin.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/9420b1b758fc3dd0be3b60fe.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-9420b1b758fc3dd0be3b60fe</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-21T13:23:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | PA</title><link>https://pacodeandbulletin.gov/</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/3320fe734db4874b1a4782b7.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-3320fe734db4874b1a4782b7</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-25T13:45:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -6,8 +6,8 @@
+ VIEW CURRENT ISSUE
+ of the
+ BULLETIN
+-Volume 56 Number 47
+-Saturday, November 21, 2026
++Volume 56 Number 48
++Saturday, November 28, 2026
+ BROWSE
+ CODE
+ Select a Title
+@@ -147,6 +147,8 @@
+ - Pages 7425-7504
+ Number 47 - November 21, 2026
+ - Pages 7505-7584
++Number 48 - November 28, 2026
++- Pages 7585-7706
+ Volume 55
+ Number 1 - January 4, 2025
+ - Pages 1-230</description><pubDate>Wed, 25 Nov 2026 13:45:10 GMT</pubDate></item><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/9420b1b758fc3dd0be3b60fe.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-9420b1b758fc3dd0be3b60fe</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-21T13:23:17+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -146,7 +146,7 @@
  Number 46 - November 14, 2026

@@ -1,5 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] NE | SRC-WEB-NE</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NE/5c7b9d25414a70314ff88c42.html</link><guid isPermaLink="false">uksp-SRC-WEB-NE-5c7b9d25414a70314ff88c42</guid><description>Unverified content difference detected at https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx on 2026-11-24T13:40:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/064e946f8f4119618a98c371.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-064e946f8f4119618a98c371</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-11-25T13:45:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -11,6 +11,8 @@
+ Prescription Monitoring
+ OPR Home
+ Visit the Calendar Page
++Holiday closure
++All Vermont Secretary of State offices are closing early at 2 pm on Wednesday 11/25 for the Thanksgiving holiday. Our offices will reopen for regular business hours on Monday 11/30.
+ A phishing scam is targeting licensees and business by email and phone, posing as the Office of Professional Regulation. These are not legitimate. You can always verify communications are legitimate by
+ contacting our office
+ .</description><pubDate>Wed, 25 Nov 2026 13:45:15 GMT</pubDate></item><item><title>[Potential source change] OR | SRC-WEB-OR</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-OR/a5c68650a0e84e63ec89cf06.html</link><guid isPermaLink="false">uksp-SRC-WEB-OR-a5c68650a0e84e63ec89cf06</guid><description>Unverified content difference detected at https://www.oregon.gov/pharmacy/Pages/Rulemaking-Information.aspx on 2026-11-25T13:45:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,12 +1,5 @@
+ Rulemaking Information
+ Site Navigation
+-November 24, 2026 Rulemaking Hearing
+-The November 24, 2026 Rulemaking Hearing will held virtually via Teams and begins at 9:30AM.
+-If you wish to provide virtual oral testimony in real time during the hearing, please complete and submit the Rulemaking Hearing Testimony Sign-up form below. You may also sign up by submitting your first and last name, email address and which rules/protocols you would like to comment on to pharmacy.rulemaking@bop.oregon.gov no later than 8:30AM on November 24, 2026. You will receive a confirmation email and a calendar invitation to join the virtual hearing.
+-Written comments must be received by 4:30PM on November 24, 2026. Submit written comments to pharmacy.rulemaking@bop.oregon.gov.
+-If you would like to listen to the hearing, join the virtual
+-Teams meeting
+-or call: (503</description><pubDate>Wed, 25 Nov 2026 13:45:10 GMT</pubDate></item><item><title>[Potential source change] PA | SRC-WEB-PA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-PA/3320fe734db4874b1a4782b7.html</link><guid isPermaLink="false">uksp-SRC-WEB-PA-3320fe734db4874b1a4782b7</guid><description>Unverified content difference detected at https://pacodeandbulletin.gov/ on 2026-11-25T13:45:10+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -6,8 +6,8 @@
+ VIEW CURRENT ISSUE
+ of the
+ BULLETIN
+-Volume 56 Number 47
+-Saturday, November 21, 2026
++Volume 56 Number 48
++Saturday, November 28, 2026
+ BROWSE
+ CODE
+ Select a Title
+@@ -147,6 +147,8 @@
+ - Pages 7425-7504
+ Number 47 - November 21, 2026
+ - Pages 7505-7584
++Number 48 - November 28, 2026
++- Pages 7585-7706
+ Volume 55
+ Number 1 - January 4, 2025
+ - Pages 1-230</description><pubDate>Wed, 25 Nov 2026 13:45:10 GMT</pubDate></item><item><title>[Potential source change] NY | SRC-WEB-NY</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NY/05950fec162517ea80d65040.html</link><guid isPermaLink="false">uksp-SRC-WEB-NY-05950fec162517ea80d65040</guid><description>Unverified content difference detected at https://dos.ny.gov/state-register on 2026-11-25T13:45:08+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,8 +1,7 @@
+ State Register
+ State Register
+-The November 18, 2026/Vol. XLVIII, Issue 46 of the State Register is now available.
++The November 25, 2026/Vol. XLVIII, Issue 47 of the State Register is now available.
+ see the latest
+-Dissolution by Proclamation
+ Overview
+ The Division of Administrative Rules provides vital web and publication services to all of the divisions within the Department of State as well as supporting New York's rule making process. DAR produces the weekly State Register that provides information on the rule making activities of state agencies. The division also is the official compiler of state agency rules and regulations (NYCRR) and it publishes information on the Great Seal of New York, the State Constitution, and other official state documents.
+ State Register
+@@ -42,8 +41,10 @@
+ 2017
+ 2016
+ 2015
+-663
++664
+ results found
++2026
++Nov</description><pubDate>Wed, 25 Nov 2026 13:45:08 GMT</pubDate></item><item><title>[Potential source change] CA | SRC-WEB-CA</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-CA/181a6a76c44fd7069cd59637.html</link><guid isPermaLink="false">uksp-SRC-WEB-CA-181a6a76c44fd7069cd59637</guid><description>Unverified content difference detected at https://pharmacy.ca.gov/laws_regs/pending_regs.shtml on 2026-11-25T13:44:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -1,7 +1,7 @@
+ Home
+ Laws and Regulations
+ Pending Regulations
+-Pending Regulations (Last Updated 10/23/2026)
++Pending Regulations (Last Updated 11/24/2026)
+ To promulgate a regulation, the board must follow the rulemaking procedures specified in the Administrative Procedures Act and regulations adopted by the Office of Administrative Law (OAL). The general process is summarized below (note: the board may stop pursuing a regulation at any point in the process):
+ Once the Board approves the initial proposed text, board staff prepare the initial rulemaking package that is submitted for pre-review and approval by the following agencies, a process that may take six months or longer:
+ Department of Consumer Affairs (DCA) – Legal Office,
+@@ -69,30 +69,3 @@
+ (PDF)
+ Modified Text
+ (PDF)
+-Central Fill Pharmacies
+-Documents
+-Add section 1707.4 of Title 16, Division 17, A</description><pubDate>Wed, 25 Nov 2026 13:44:49 GMT</pubDate></item><item><title>[Potential source change] NE | SRC-WEB-NE</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-NE/5c7b9d25414a70314ff88c42.html</link><guid isPermaLink="false">uksp-SRC-WEB-NE-5c7b9d25414a70314ff88c42</guid><description>Unverified content difference detected at https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx on 2026-11-24T13:40:05+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -37,7 +37,7 @@
  If auxiliary aids or reasonable accommodations are needed to participate in a hearing, please call (402) 471-8417. Individuals who are deaf or hard of hearing may call DHHS via the Nebraska Relay System at 711 or (800) 833-7352 TDD at least two weeks before the hearing date. This notice is given in compliance with Neb. Rev. Stat. Section 84-907.
