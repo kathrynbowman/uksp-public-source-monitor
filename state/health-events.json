@@ -1,5 +1,15 @@
 [
   {
+    "id": "6830fef54e9edd59a882d535",
+    "kind": "failure",
+    "state_code": "WI",
+    "source_id": "SRC-WEB-WI",
+    "source_url": "https://dsps.wi.gov/rules-statutes/pending-rules/",
+    "observed_at": "2026-11-26T13:44:13+00:00",
+    "error": "HTTPSConnectionPool(host='dsps.wi.gov', port=443): Max retries exceeded with url: /rules-statutes/pending-rules/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='dsps.wi.gov', port=443) at 0x70878c5b8080>, 'Connection to dsps.wi.gov timed out. (connect timeout=8)'))",
+    "consecutive_failures": 1
+  },
+  {
     "id": "427462010e98f648971743e4",
     "kind": "restored",
     "state_code": "PA",

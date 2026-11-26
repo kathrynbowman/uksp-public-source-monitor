@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | AZ</title><link>https://apps.azsos.gov/public_services/register/2026/contents.htm</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/18af0012d3ed84c5808e66a1.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-18af0012d3ed84c5808e66a1</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-21T13:22:54+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified source changes | AZ</title><link>https://apps.azsos.gov/public_services/register/2026/contents.htm</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/2010e322174f4a5c48b55be0.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-2010e322174f4a5c48b55be0</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-26T13:43:27+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 48
++Friday, November 27, 2026
++p. 3019-3092
+ Authenticated PDF
+ Issue 47
+ Friday, November 20, 2026</description><pubDate>Thu, 26 Nov 2026 13:43:27 GMT</pubDate></item><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/18af0012d3ed84c5808e66a1.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-18af0012d3ed84c5808e66a1</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-21T13:22:54+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -28,6 +28,10 @@
  Issue

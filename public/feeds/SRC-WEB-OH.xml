@@ -1,2 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified source changes | OH</title><link>https://pharmacy.ohio.gov/LawsRules/ProposedRules</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language></channel></rss>
+<rss version="2.0"><channel><title>UKSP unverified source changes | OH</title><link>https://pharmacy.ohio.gov/LawsRules/ProposedRules</link><description>Unverified webpage revisions only; never legal determinations</description><language>en-us</language><item><title>[Potential source change] OH | SRC-WEB-OH</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-OH/3bac2e1e61668efffa0f5205.html</link><guid isPermaLink="false">uksp-SRC-WEB-OH-3bac2e1e61668efffa0f5205</guid><description>Unverified content difference detected at https://pharmacy.ohio.gov/LawsRules/ProposedRules on 2026-11-26T13:43:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -25,16 +25,13 @@
+ are required to draft rules in collaboration with stakeholders, assess and justify an adverse impact on the business community (as defined by SB 2 of the 129th General Assembly), and provide
+ an opportunity for the affected public to provide input on the rules.
+ In this section you will find proposed rules, business impact assessments and any additional documentation:
+-CSI - BIA - Emergency Medical Services
+-(Comments Due 9.14.2026)
+-CSI - BIA - Animal Shelter Warden WARFs
+-(Comments Due 6.30.2026)
+ Joint Committee on Agency Rule Review
+ The Ohio Board of Pharmacy files a rule proposal with the Joint Committee on Agency Rule
+ Review (JCARR) to begin the legislature’s rule-review process. The process requires the Board to
+ conduct a public hearing 31 to 40 days after the original file date. Generally, 41 to 65 days after the
+ original file dat</description><pubDate>Thu, 26 Nov 2026 13:43:49 GMT</pubDate></item></channel></rss>

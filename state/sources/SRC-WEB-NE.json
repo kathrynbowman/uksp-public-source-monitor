@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-NE",
   "state_code": "NE",
   "official_url": "https://dhhs.ne.gov/Pages/Upcoming-Public-Hearings.aspx",
-  "last_checked_utc": "2026-11-25T13:45:06+00:00",
+  "last_checked_utc": "2026-11-26T13:43:45+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-11-25T13:45:06+00:00",
+  "last_success_utc": "2026-11-26T13:43:45+00:00",
   "last_sha256": "3119c3da9e2dca2c58a29c79949e80c18902c3d76f248136c9a3889afec0e1c6",
   "last_error": null,
   "consecutive_failures": 0

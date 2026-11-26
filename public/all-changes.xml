@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/064e946f8f4119618a98c371.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-064e946f8f4119618a98c371</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-11-25T13:45:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
+<rss version="2.0"><channel><title>UKSP unverified regulatory-source content changes — all jurisdictions</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/health.json</link><description>Unverified webpage differences, not legal findings; review original government sources.</description><language>en-us</language><item><title>[Potential source change] OH | SRC-WEB-OH</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-OH/3bac2e1e61668efffa0f5205.html</link><guid isPermaLink="false">uksp-SRC-WEB-OH-3bac2e1e61668efffa0f5205</guid><description>Unverified content difference detected at https://pharmacy.ohio.gov/LawsRules/ProposedRules on 2026-11-26T13:43:49+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -25,16 +25,13 @@
+ are required to draft rules in collaboration with stakeholders, assess and justify an adverse impact on the business community (as defined by SB 2 of the 129th General Assembly), and provide
+ an opportunity for the affected public to provide input on the rules.
+ In this section you will find proposed rules, business impact assessments and any additional documentation:
+-CSI - BIA - Emergency Medical Services
+-(Comments Due 9.14.2026)
+-CSI - BIA - Animal Shelter Warden WARFs
+-(Comments Due 6.30.2026)
+ Joint Committee on Agency Rule Review
+ The Ohio Board of Pharmacy files a rule proposal with the Joint Committee on Agency Rule
+ Review (JCARR) to begin the legislature’s rule-review process. The process requires the Board to
+ conduct a public hearing 31 to 40 days after the original file date. Generally, 41 to 65 days after the
+ original file dat</description><pubDate>Thu, 26 Nov 2026 13:43:49 GMT</pubDate></item><item><title>[Potential source change] MD | SRC-WEB-MD</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-MD/11f5cbecf1bfbf5582773ae7.html</link><guid isPermaLink="false">uksp-SRC-WEB-MD-11f5cbecf1bfbf5582773ae7</guid><description>Unverified content difference detected at https://regs.maryland.gov/ on 2026-11-26T13:43:38+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -19,7 +19,7 @@
+ Agency Meeting and Hearing Notices
+ Other documents considered to be in the public interest
+ Order Print and PDF Copies
+-The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 24, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.
++The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of November 25, 2026. The text appearing here is not the offi</description><pubDate>Thu, 26 Nov 2026 13:43:38 GMT</pubDate></item><item><title>[Potential source change] AZ | SRC-WEB-AZ</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-AZ/2010e322174f4a5c48b55be0.html</link><guid isPermaLink="false">uksp-SRC-WEB-AZ-2010e322174f4a5c48b55be0</guid><description>Unverified content difference detected at https://apps.azsos.gov/public_services/register/2026/contents.htm on 2026-11-26T13:43:27+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
++++ current
+@@ -28,6 +28,10 @@
+ Issue
+ Date
+ Pages
++Authenticated PDF
++Issue 48
++Friday, November 27, 2026
++p. 3019-3092
+ Authenticated PDF
+ Issue 47
+ Friday, November 20, 2026</description><pubDate>Thu, 26 Nov 2026 13:43:27 GMT</pubDate></item><item><title>[Potential source change] VT | SRC-WEB-VT</title><link>https://kathrynbowman.github.io/uksp-public-source-monitor/evidence/SRC-WEB-VT/064e946f8f4119618a98c371.html</link><guid isPermaLink="false">uksp-SRC-WEB-VT-064e946f8f4119618a98c371</guid><description>Unverified content difference detected at https://sos.vermont.gov/pharmacy/statutes-rules-resources on 2026-11-25T13:45:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous
 +++ current
 @@ -11,6 +11,8 @@
  Prescription Monitoring

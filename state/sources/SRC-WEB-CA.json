@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-CA",
   "state_code": "CA",
   "official_url": "https://pharmacy.ca.gov/laws_regs/pending_regs.shtml",
-  "last_checked_utc": "2026-11-25T13:44:49+00:00",
-  "status": "POTENTIAL_CHANGE",
-  "last_success_utc": "2026-11-25T13:44:49+00:00",
+  "last_checked_utc": "2026-11-26T13:43:27+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-11-26T13:43:27+00:00",
   "last_sha256": "360d92eca4e7e256e53d41d4e790ffe71a3b34581a5f9d255522cbd5db6555b2",
   "last_error": null,
   "consecutive_failures": 0

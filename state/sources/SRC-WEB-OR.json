@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-OR",
   "state_code": "OR",
   "official_url": "https://www.oregon.gov/pharmacy/Pages/Rulemaking-Information.aspx",
-  "last_checked_utc": "2026-11-25T13:45:10+00:00",
-  "status": "POTENTIAL_CHANGE",
-  "last_success_utc": "2026-11-25T13:45:10+00:00",
+  "last_checked_utc": "2026-11-26T13:43:50+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-11-26T13:43:50+00:00",
   "last_sha256": "3e38627d9a1731870496a39ca7aaf08bd97194bd43ac1f82565508826199bb7a",
   "last_error": null,
   "consecutive_failures": 0
