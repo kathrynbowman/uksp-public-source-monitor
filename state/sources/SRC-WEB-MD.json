@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-MD",
   "state_code": "MD",
   "official_url": "https://regs.maryland.gov/",
-  "last_checked_utc": "2026-11-26T13:43:38+00:00",
-  "status": "POTENTIAL_CHANGE",
-  "last_success_utc": "2026-11-26T13:43:38+00:00",
+  "last_checked_utc": "2026-11-27T13:40:34+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-11-27T13:40:34+00:00",
   "last_sha256": "ea13d00db81401a5590f8b546f7d00a42ee8725f203bfa1a1904ab307bdafcf9",
   "last_error": null,
   "consecutive_failures": 0

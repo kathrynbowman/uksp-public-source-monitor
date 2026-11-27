@@ -1,5 +1,25 @@
 [
   {
+    "id": "c99459e9f553c14e14c5976a",
+    "kind": "restored",
+    "state_code": "WI",
+    "source_id": "SRC-WEB-WI",
+    "source_url": "https://dsps.wi.gov/rules-statutes/pending-rules/",
+    "observed_at": "2026-11-27T13:41:14+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "a8d7d4d35e99073682c4b15a",
+    "kind": "failure",
+    "state_code": "SD",
+    "source_id": "SRC-WEB-SD",
+    "source_url": "https://rules.sd.gov/",
+    "observed_at": "2026-11-27T13:41:14+00:00",
+    "error": "HTTPSConnectionPool(host='rules.sd.gov', port=443): Read timed out. (read timeout=20)",
+    "consecutive_failures": 1
+  },
+  {
     "id": "6830fef54e9edd59a882d535",
     "kind": "failure",
     "state_code": "WI",
