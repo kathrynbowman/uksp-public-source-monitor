@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-OH",
   "state_code": "OH",
   "official_url": "https://pharmacy.ohio.gov/LawsRules/ProposedRules",
-  "last_checked_utc": "2026-11-27T13:40:44+00:00",
+  "last_checked_utc": "2026-11-28T13:26:10+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-11-27T13:40:44+00:00",
+  "last_success_utc": "2026-11-28T13:26:10+00:00",
   "last_sha256": "3c404968964d7d2040da3f7865bee2c01af3403ee4c54038ef25e9a2de6943a7",
   "last_error": null,
   "consecutive_failures": 0

@@ -1,5 +1,25 @@
 [
   {
+    "id": "e355568048b819786937abb6",
+    "kind": "restored",
+    "state_code": "SD",
+    "source_id": "SRC-WEB-SD",
+    "source_url": "https://rules.sd.gov/",
+    "observed_at": "2026-11-28T13:26:17+00:00",
+    "error": "",
+    "consecutive_failures": 0
+  },
+  {
+    "id": "1e83291ad41762d9f084c119",
+    "kind": "failure",
+    "state_code": "AL",
+    "source_id": "SRC-WEB-AL",
+    "source_url": "https://albop.com/statutes-rules/",
+    "observed_at": "2026-11-28T13:26:17+00:00",
+    "error": "Too little usable text to form a trustworthy baseline",
+    "consecutive_failures": 1
+  },
+  {
     "id": "c99459e9f553c14e14c5976a",
     "kind": "restored",
     "state_code": "WI",

@@ -2,10 +2,10 @@
   "source_id": "SRC-WEB-SD",
   "state_code": "SD",
   "official_url": "https://rules.sd.gov/",
-  "last_checked_utc": "2026-11-27T13:40:48+00:00",
-  "status": "FAILED",
-  "last_success_utc": "2026-11-26T13:43:53+00:00",
+  "last_checked_utc": "2026-11-28T13:26:12+00:00",
+  "status": "UNCHANGED",
+  "last_success_utc": "2026-11-28T13:26:12+00:00",
   "last_sha256": "eef99b8c2cda2d06e6dd51273894e2eee516952abbd6e82b42b2dfab42114c1b",
-  "last_error": "HTTPSConnectionPool(host='rules.sd.gov', port=443): Read timed out. (read timeout=20)",
-  "consecutive_failures": 1
+  "last_error": null,
+  "consecutive_failures": 0
 }

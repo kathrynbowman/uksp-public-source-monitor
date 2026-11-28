@@ -2,9 +2,9 @@
   "source_id": "SRC-WEB-VT",
   "state_code": "VT",
   "official_url": "https://sos.vermont.gov/pharmacy/statutes-rules-resources",
-  "last_checked_utc": "2026-11-27T13:41:10+00:00",
+  "last_checked_utc": "2026-11-28T13:26:15+00:00",
   "status": "UNCHANGED",
-  "last_success_utc": "2026-11-27T13:41:10+00:00",
+  "last_success_utc": "2026-11-28T13:26:15+00:00",
   "last_sha256": "6cfbfe55a701dd7f6c41e07424bcc1173039b3da5129bdc33a75a55d4643c53e",
   "last_error": null,
   "consecutive_failures": 0

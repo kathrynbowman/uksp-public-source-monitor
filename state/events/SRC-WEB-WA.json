@@ -1,5 +1,13 @@
 [
   {
+    "id": "737ddcfe3c438c4ec8fdebaa",
+    "observed_at": "2026-11-28T13:26:15+00:00",
+    "previous_sha256": "96748d3bb061e5a933bff96e600e611230dc8ab7bdd2c375370b11cc44347280",
+    "current_sha256": "07a4f626862b94850b7b4a1fc39bad467931ceacb8d9f4e187282a2d64e7110d",
+    "diff": "--- previous\n+++ current\n@@ -5,7 +5,7 @@\n Washington State Register\n Washington State Register\n The Washington State Register is an official publication for rule-making activity by state agencies in Washington. It includes notices of proposed and final rules, public meetings, and other legal information.\n-Publication current through November 4, 2026 and 26-22 register issue.\n+Publication current through November 18, 2026 and 26-23 register issue.\n The Statute Law Commit​tee declares that the certified PDF Register documents ​on the Code Reviser's website constitute the official publication of the Washington State Register.\n Find specific WSR documents\n Search rules by register number (e.g. 01-01-000)",
+    "summary": "Unverified content difference detected at https://leg.wa.gov/state-laws-and-rules/washington-state-register/ on 2026-11-28T13:26:15+00:00. Compare the official source before assigning legal effect. Difference excerpt: --- previous\n+++ current\n@@ -5,7 +5,7 @@\n Washington State Register\n Washington State Register\n The Washington State Register is an official publication for rule-making activity by state agencies in Washington. It includes notices of proposed and final rules, public meetings, and other legal information.\n-Publication current through November 4, 2026 and 26-22 register issue.\n+Publication current through November 18, 2026 and 26-23 register issue.\n The Statute Law Commit​tee declares that the certified PDF Register documents ​on the Code Reviser's website constitute the official publication of the Washington State Register.\n Find specific WSR documents\n Search rules by register number (e.g. 01-01-000)"
+  },
+  {
     "id": "6c908ceca2d806e5f070da15",
     "observed_at": "2026-11-14T13:16:08+00:00",
     "previous_sha256": "a61c99869f8e0afa7a5d3c37fd6829bfc1d7da16a4e8947a019ce8ad283b83fb",
